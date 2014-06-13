@@ -1,3 +1,3 @@
-翻墙软件Chrome+最新版下载地址：
-* 百度网盘：http://pan.baidu.com/s/1i3kjwC9
-* Dbank网盘：http://dl.vmall.com/c0gm9siomj
+翻墙软件Chrome+最新版〔2014年6月12日〕下载地址：
+* 百度网盘：http://pan.baidu.com/s/1hqpBp4K
+* Dbank网盘：
