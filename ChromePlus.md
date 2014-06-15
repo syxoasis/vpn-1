@@ -1,3 +1,4 @@
-翻墙软件Chrome+最新版〔2014年6月12日〕下载地址：
-* 百度网盘：http://pan.baidu.com/s/1hqpBp4K
-* 华为网盘：http://dl.vmall.com/c0rj6nrm45
+翻墙软件Chrome+最新版〔2014年6月14日〕下载地址：
+* 百度网盘：http://pan.baidu.com/inbox/i/2qW6pWOO
+* 华为网盘：
+MD5:29C1F465E3E9D7E2592C0DCFCE63A80C
