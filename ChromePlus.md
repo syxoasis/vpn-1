@@ -4,7 +4,7 @@
 
 ####下载地址：
 * 几个下载地址是一样的文件，任选一个下载。
-* 微软网盘：
+* 微软网盘：http://1drv.ms/1inaNk2
 * 百度网盘①：http://pan.baidu.com/s/1eQlBEq2
 * 百度网盘②：http://pan.baidu.com/s/1i3utcKt
 * 文件校验信息：
