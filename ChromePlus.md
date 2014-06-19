@@ -8,11 +8,11 @@
 * 百度网盘①：http://pan.baidu.com/s/1eQlBEq2
 * 百度网盘②：http://pan.baidu.com/s/1i3utcKt
 
-*__ 文件校验信息：__
-* 文件名：Chrome36_v2014.06.19.7z
-* 大小: 53906795 字节 
-* MD5:87F6C30B6DBDECEE7EBDA0BC4189CA03
-* SHA1: FF4670A23C9361F26E9896426A6B008E7ED9BBF6
+* 文件校验信息：
+`* 文件名：Chrome36_v2014.06.19.7z`
+`* 大小: 53906795 字节 `
+`* MD5:87F6C30B6DBDECEE7EBDA0BC4189CA03`
+`* SHA1: FF4670A23C9361F26E9896426A6B008E7ED9BBF6`
 
 ####注意事项：
 * 因为使用chrome这个版本需要以管理员身份运行才可以自动导入goagnt证书，如果没有导入证书，那么在访问YTB、FB等https开头网址时就会出现SSL错误，如果是因为证书没有自动导入，那么你也可以手动导入证书。方法：http://hi.baidu.com/fanfanrj/item/81b45f8ad0622e37c31627b9
