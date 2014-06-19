@@ -7,7 +7,8 @@
 * 微软网盘：
 * 百度网盘①：http://pan.baidu.com/s/1eQlBEq2
 * 百度网盘②：http://pan.baidu.com/s/1i3utcKt
-* 文件校验信息：
+
+*__ 文件校验信息：__
 * 文件名：Chrome36_v2014.06.19.7z
 * 大小: 53906795 字节 
 * MD5:87F6C30B6DBDECEE7EBDA0BC4189CA03
