@@ -7,8 +7,8 @@
 ####下载地址：
 * 几个下载地址是一样的文件，任选一个下载。
 * 微软网盘：http://1drv.ms/1lEtjVJ
-* 百度网盘①：
-* 百度网盘②：
+* 百度网盘①：http://pan.baidu.com/s/1dDvNj0l
+* 百度网盘②：http://pan.baidu.com/s/1jbZ8y
 * 文件校验信息：
 * 文件名：ChromeFG_v2014.06.20.7z
 * 大小: 51668452 字节
