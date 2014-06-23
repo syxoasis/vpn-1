@@ -1,1 +1,1 @@
-#Firefox（火狐）+GoAgent，一键翻墙组合。
+##Firefox（火狐）+GoAgent，一键翻墙组合。
