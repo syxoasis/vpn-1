@@ -17,3 +17,5 @@
 
 ####注意事项：
 * 因为使用chrome这个版本需要以管理员身份运行才可以自动导入goagnt证书，如果没有导入证书，那么在访问YTB、FB等https开头网址时就会出现SSL错误，如果是因为证书没有自动导入，那么你也可以手动导入证书。方法：http://hi.baidu.com/fanfanrj/item/81b45f8ad0622e37c31627b9
+
+#[本页面短网址：http://is.gd/ChromePlus](http://is.gd/ChromePlus)
