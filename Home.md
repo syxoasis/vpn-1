@@ -4,5 +4,8 @@
 * [ChromeFG](https://github.com/comeforu2012/truth/wiki/ChromeFG)（Chrome+自由门翻墙组合。）
 * [ChromePlus](https://github.com/comeforu2012/truth/wiki/ChromePlus)（Chrome+GoAgent翻墙组合）
 * [FirefoxPlus](https://github.com/comeforu2012/truth/wiki/FirefoxPlus)（Firefox+GoAgent翻墙组合）
+* [iPhone](https://github.com/comeforu2012/truth/wiki/iPhone)（苹果iPhone、ios翻墙方法）
+* [MacOS](https://github.com/comeforu2012/truth/wiki/MacOS)（苹果Mac系统翻墙方法）
+
 
 
