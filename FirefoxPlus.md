@@ -6,9 +6,10 @@
 
 ####下载地址：
 * 几个下载地址是一样的文件，任选一个下载。
-* 微软网盘：http://1drv.ms/1j5R6Iy
+* 华为网盘：http://dl.vmall.com/c0baah1mu7
 * 百度网盘①：http://pan.baidu.com/s/1bn8c67t
-* 百度网盘②：http://pan.baidu.com/inbox/i/2eQotBWm
+* 百度网盘②：http://pan.baidu.com/s/1pJykFrX
+* 微软网盘：http://1drv.ms/1j5R6Iy
 * 文件校验信息：
 * 文件名：FireFoX_v2014.06.23.7z
 * 大小: 36237479 字节
