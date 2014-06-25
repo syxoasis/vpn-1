@@ -6,17 +6,16 @@
 
 ####下载地址：
 * 几个下载地址是一样的文件，任选一个下载。
-* 华为网盘：http://dl.vmall.com/c0baah1mu7
-* 百度网盘①：http://pan.baidu.com/s/1bn8c67t
-* 百度网盘②：http://pan.baidu.com/s/1pJykFrX
-* 微软网盘：http://1drv.ms/1j5R6Iy
+* 百度网盘①：http://pan.baidu.com/s/1gdACpfP
+* 百度网盘②：http://pan.baidu.com/s/1c0rf89y
+* 百度网盘③：http://pan.baidu.com/s/1gdilYUZ
+* 微软网盘：http://1drv.ms/UInN9v
 * 文件校验信息：
-* 文件名：FireFoX_v2014.06.23.7z
-* 大小: 36237479 字节
-* MD5:F02AC02560023C43573E337769C33DE5
-* SHA1: DEF2E8E807F0E42559F54D0BA70ECFACF89AAF06
+* 文件名：FireFoX_v2014.06.23a.7z
+* 大小: 36237916 字节
+* MD5: 6D7E41ED2B8286CA29E1A7C01D673A97
+* SHA1: 45D907475BA7097E8118BFFE574832C0D7081817
 
 ####注意事项：
 * 电脑上需要安装用于火狐的flash插件才可以播放网页视频。
 * 用于火狐的Flash插件：http://download.macromedia.com/pub/flashplayer/current/support/install_flash_player.exe
-
