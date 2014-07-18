@@ -7,9 +7,9 @@
 ####下载地址：
 * 几个下载地址是一样的文件，任选一个下载。
 * 微软网盘：http://1drv.ms/1qhas2v
+* 华为网盘：http://dl.vmall.com/c0uumlwqkx
 * 百度网盘①：http://pan.baidu.com/s/1c0cmwNI
 * 百度网盘②：http://pan.baidu.com/s/1kT3c19P
-* 百度网盘③：http://pan.baidu.com/s/1iwdlG
 * 文件校验信息：
 * 文件名：Chrome36_v2014.06.19b.7z
 * 大小: 52949164 字节
