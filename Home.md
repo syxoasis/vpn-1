@@ -7,4 +7,4 @@
 * [iPhone](https://github.com/comeforu2012/truth/wiki/iPhone)（苹果iPhone、ios翻墙方法）
 * [MacOS](https://github.com/comeforu2012/truth/wiki/MacOS)（苹果Mac系统翻墙方法）
 
-## [本站短网址](http://is.gd/cfu2012)
+## [本站短网址http://is.gd/cfu2012](http://is.gd/cfu2012)
