@@ -15,4 +15,4 @@
 * MD5:1687FF622ACE0BB0B0EF0F9623BA92C7
 * SHA1: 1BFF9356BA1F2FA48583BAAB3135D0490EDD8BCA
 
-##[本页面短网址：http://is.gd/ChromeFG](http://is.gd/ChromeFG)
+##[本页面短网址：is.gd/ChromeFG](http://is.gd/ChromeFG)
