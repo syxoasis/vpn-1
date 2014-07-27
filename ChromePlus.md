@@ -10,6 +10,8 @@
 * 华为网盘：
 * 百度网盘①：http://pan.baidu.com/s/1sjFIrzJ
 * 百度网盘②：http://pan.baidu.com/s/1i3Ia3hN
+* 百度网盘③：http://pan.baidu.com/s/1mg3bnJy
+* 百度网盘④：http://pan.baidu.com/s/1mgl0srQ
 * 文件校验信息：
 * 文件名：Chrome38_v2014.07.27.7z
 * 大小: 55027080 字节
