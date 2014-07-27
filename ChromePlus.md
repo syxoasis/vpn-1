@@ -7,7 +7,7 @@
 ####下载地址：
 * 几个下载地址是一样的文件，任选一个下载。
 * 微软网盘：http://1drv.ms/1nKtE8M
-* 华为网盘：
+* 华为网盘：http://dl.vmall.com/c06clhgkj5
 * 百度网盘①：http://pan.baidu.com/s/1sjFIrzJ
 * 百度网盘②：http://pan.baidu.com/s/1i3Ia3hN
 * 百度网盘③：http://pan.baidu.com/s/1mg3bnJy
