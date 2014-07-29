@@ -9,7 +9,8 @@
 * 百度网盘①：http://pan.baidu.com/s/1c0vkdwO
 * 百度网盘②：http://pan.baidu.com/s/1pJpxYER
 * 百度网盘③：http://pan.baidu.com/s/1pJFMvxT
-* 微软网盘：
+* 谷歌网盘：http://goo.gl/wB7rcZ
+* 微软网盘：http://1drv.ms/1nyFpzU
 * 文件校验信息：
 * 文件名：FireFoX_v2014.07.28.7z
 * 大小: 37139491 字节
