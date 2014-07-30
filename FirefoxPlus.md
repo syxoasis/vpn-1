@@ -6,6 +6,7 @@
 
 ####下载地址：
 * 几个下载地址是一样的文件，任选一个下载。
+* 华为网盘：http://dl.vmall.com/c0uydm1300
 * 百度网盘①：http://pan.baidu.com/s/1c0vkdwO
 * 百度网盘②：http://pan.baidu.com/s/1pJpxYER
 * 百度网盘③：http://pan.baidu.com/s/1pJFMvxT
