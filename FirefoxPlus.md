@@ -10,7 +10,7 @@
 * 百度网盘①：http://pan.baidu.com/s/1mgFSAYs
 * 百度网盘②：http://pan.baidu.com/s/1jG0x9wq
 * 百度网盘③：
-* 谷歌网盘：
+* 谷歌网盘：http://goo.gl/xY9RaS
 * 微软网盘：
 * 文件校验信息：
 * 文件名：FireFoX_v2014.08.01.7z
