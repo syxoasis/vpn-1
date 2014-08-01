@@ -9,7 +9,7 @@
 * 华为网盘：
 * 百度网盘①：http://pan.baidu.com/s/1mgFSAYs
 * 百度网盘②：http://pan.baidu.com/s/1jG0x9wq
-* 百度网盘③：
+* 百度网盘③：http://pan.baidu.com/s/1mg0Z3a4
 * 谷歌网盘：http://goo.gl/xY9RaS
 * 微软网盘：
 * 文件校验信息：
