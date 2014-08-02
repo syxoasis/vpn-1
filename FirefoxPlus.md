@@ -6,7 +6,7 @@
 
 ####下载地址：
 几个下载地址是一样的文件，任选一个下载。
-> * [百度直链，点此处直接下载](http://bcs.duapp.com/ziyoushangwang/FireFoX_v2014.08.01.7z)
+> *** [百度直链，点此处直接下载](http://bcs.duapp.com/ziyoushangwang/FireFoX_v2014.08.01.7z)**
 > * 百度网盘①：http://pan.baidu.com/s/1mgFSAYs
 > * 百度网盘②：http://pan.baidu.com/s/1jG0x9wq
 > * 百度网盘③：http://pan.baidu.com/s/1mg0Z3a4
