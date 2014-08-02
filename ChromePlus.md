@@ -1,22 +1,22 @@
 #翻墙软件Chrome+发布页
 ####更新日志：
-* [2014年7月27日] 增加1500G流量（总流量6500G），Chrome内核版本升级到v38(D)，增加一个YouTube下载扩展，修复一些小问题。
-* 核心程序是Chrome38(D)+GoAgent3.1.11（每天共享6500G流量）
+* [2014年8月2日] 由于上一版（7月27日）使用的Chrome_v38(D)内核在64位系统上访问中文网页会出现乱码，所以此一版将Chrome内核回滚到v36(D).
+* 核心程序是Chrome36(D)+GoAgent3.1.11（每天共享6500G流量）
 * 下载后将压缩包解压出来，解压路径中最好不要包含中文，然后看一下说明，按说明操作，非常简单。
 
 ####下载地址：
 * 几个下载地址是一样的文件，任选一个下载。
-* 微软网盘：http://1drv.ms/1nKtE8M
-* 华为网盘：http://dl.vmall.com/c06clhgkj5
-* 百度网盘①：http://pan.baidu.com/s/1sjFIrzJ
-* 百度网盘②：http://pan.baidu.com/s/1i3Ia3hN
-* 百度网盘③：http://pan.baidu.com/s/1mg3bnJy
-* 百度网盘④：http://pan.baidu.com/s/1mgl0srQ
+* 谷歌网盘：http://goo.gl/a1si7s
+* 华为网盘：
+* 百度网盘①：http://pan.baidu.com/s/1o6wRCL0
+* 百度网盘②：http://pan.baidu.com/s/1gdIKBmz
+* 百度网盘③：
+* 百度网盘④：
 * 文件校验信息：
-* 文件名：Chrome38_v2014.07.27.7z
-* 大小: 55027080 字节
-* MD5:EBEB93BD5BC7F594D2B3D71C02D0061A
-* SHA1: 8FA274E1C4E7FC855C888E1D0C438D88FC366DDD
+* 文件名：Chrome36d_v2014.08.02.7z
+* 大小: 53021163 字节
+* MD5: 16C55C93298D64B4E7A4A9A1102C28E1
+* SHA1: 97CD1F3CE07513FA6AD4C39D19CE14D4BB4ADCB1
 
 ####注意事项：
 * 因为使用chrome这个版本需要以管理员身份运行才可以自动导入goagnt证书，如果没有导入证书，那么在访问YTB、FB等https开头网址时就会出现SSL错误，如果是因为证书没有自动导入，那么你也可以手动导入证书。方法：http://hi.baidu.com/fanfanrj/item/81b45f8ad0622e37c31627b9
