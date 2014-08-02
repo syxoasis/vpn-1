@@ -10,8 +10,8 @@
 * 百度网盘①：http://pan.baidu.com/s/1o6wRCL0
 * 百度网盘②：http://pan.baidu.com/s/1gdIKBmz
 * 百度网盘③：
-* 谷歌网盘：http://goo.gl/a1si7s
 * 华为网盘：
+* 谷歌网盘：http://goo.gl/a1si7s
 
 **文件校验信息：**
 > * 文件名：Chrome36d_v2014.08.02.7z
