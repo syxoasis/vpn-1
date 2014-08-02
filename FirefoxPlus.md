@@ -21,4 +21,4 @@
 
 ####注意事项：
 * 电脑上需要安装用于火狐的flash插件才可以播放网页视频。
-* 用于火狐的Flash插件：http://download.macromedia.com/pub/flashplayer/current/support/install_flash_player.exe
+> 用于火狐的Flash插件：http://download.macromedia.com/pub/flashplayer/current/support/install_flash_player.exe
