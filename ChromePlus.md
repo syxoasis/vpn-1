@@ -1,4 +1,4 @@
-#翻墙软件Chrome+发布页
+#翻墙软件Chrome+发布页·![](https://oq1gjg.bl3301.livefilestore.com/y2mlLXDCNxE4Puvrh_LvWZjKjFJWNvFh1qLCNBpKa_ykS9zlKUsqg2lImG3Tje3vbcsJt9TWo3BLvQP5Bs8xM_hLPpT3mvfZEcjo6e4sfZqSoM7F4Tr2GuZ2rOGGGzLdFgc/chrome48.ico?psid=1)
 ####更新日志：
 * [2014年8月2日] 由于上一版（7月27日）使用的Chrome_v38(D)内核在64位系统上访问中文网页会出现乱码，所以此一版将Chrome内核回滚到v36(D).
 * 核心程序是Chrome36(D)+GoAgent3.1.11（每天共享6500G流量）
