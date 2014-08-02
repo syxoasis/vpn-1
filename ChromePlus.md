@@ -6,18 +6,18 @@
 
 ####下载地址：
 * 几个下载地址是一样的文件，任选一个下载。
-* [百度网盘直链，点此直接下载](http://bcs.duapp.com/ziyoushangwang/Chrome36d_v2014.08.02.7z)
+* **[百度网盘直链，点此直接下载](http://bcs.duapp.com/ziyoushangwang/Chrome36d_v2014.08.02.7z)**
 * 百度网盘①：http://pan.baidu.com/s/1o6wRCL0
 * 百度网盘②：http://pan.baidu.com/s/1gdIKBmz
 * 百度网盘③：
 * 谷歌网盘：http://goo.gl/a1si7s
 * 华为网盘：
 
-*** 文件校验信息：**
-* 文件名：Chrome36d_v2014.08.02.7z
-* 大小: 53021163 字节
-* MD5: 16C55C93298D64B4E7A4A9A1102C28E1
-* SHA1: 97CD1F3CE07513FA6AD4C39D19CE14D4BB4ADCB1
+文件校验信息：
+> * 文件名：Chrome36d_v2014.08.02.7z
+> * 大小: 53021163 字节
+> * MD5: 16C55C93298D64B4E7A4A9A1102C28E1
+> * SHA1: 97CD1F3CE07513FA6AD4C39D19CE14D4BB4ADCB1
 
 ####注意事项：
 * 因为使用chrome这个版本需要以管理员身份运行才可以自动导入goagnt证书，如果没有导入证书，那么在访问YTB、FB等https开头网址时就会出现SSL错误，如果是因为证书没有自动导入，那么你也可以手动导入证书。方法：http://hi.baidu.com/fanfanrj/item/81b45f8ad0622e37c31627b9
