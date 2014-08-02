@@ -25,5 +25,7 @@
 
 ####常见问题：
 1. 访问https开头的网址出现SSL错误，解决方法：https://github.com/comeforu2012/FQ_FAQ/wiki/1%E3%80%81%E8%A7%A3%E5%86%B3SSL%E9%94%99%E8%AF%AF
+2. XP系统打不开GoGo的原因：https://github.com/comeforu2012/FQ_FAQ/wiki/2%E3%80%81GoGo%E6%89%93%E4%B8%8D%E5%BC%80
+3. XP系统通过修改TCP/IP连接数来解决GoGo搜ip速度慢的问题：https://github.com/comeforu2012/FQ_FAQ/wiki/3%E3%80%81TCPIP%E8%BF%9E%E6%8E%A5%E6%95%B0%E4%BF%AE%E6%94%B9
 
 ##[本页面短网址：is.gd/ChromePlus](http://is.gd/ChromePlus)
