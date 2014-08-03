@@ -1,4 +1,4 @@
-#Chrome+自由门翻墙组合。
+#Chrome+自由门翻墙组合。 ![](https://oq1gjg.bl3301.livefilestore.com/y2mcrdK1EfhCIyqNJJzpQT-ITZANtF6Uo4H8bBssF-QG32WpG9SOduVLnGUJ6tKvv03j7Fw8EKP70JRELZtejXYWFPHqGR3SWSvxD1VkXQWnNHumoO_EXwjf-_KcUhAXT0a/201101101026574d2a6e71910f6.gif?psid=1)
 ####更新日志：
 * 2014年6月20日 今天第一次发chrome+freegate（自由门）这个翻墙组合。chrome是谷歌公司推出的浏览器，它比国内公司的浏览器更安全，比win系统自带的IE浏览器速度更快、功能更强。freegate：中文名叫自由门，也叫fg、小鸽子等等，它是美国动态网络公司推出的一款翻墙软件，超过10年的历史，基本上翻过墙的人都用过它，它的特点是：抗封锁能力强；安全，对传输的数据采用高强度加密，因为加密强度较高，所以在速度上可能会稍慢一点。
 * 核心程序：Chrome36(D)+自由门v7.42专家版。
