@@ -5,15 +5,18 @@
 * 下载后解压出来，按照里面说明操作，轻松翻墙。
 
 ####下载地址：
-* 几个下载地址是一样的文件，任选一个下载。
-* 华为网盘：http://dl.vmall.com/c0p9njl186
-* 百度盘①：http://pan.baidu.com/s/1mgjxLB6
-* 百度盘②：http://pan.baidu.com/s/1jbZ8y
-* 微软网盘：http://1drv.ms/1lEtjVJ
-* 文件校验信息：
-* 文件名：ChromeFG_v2014.06.20.7z
-* 大小: 51668452 字节
-* MD5:1687FF622ACE0BB0B0EF0F9623BA92C7
-* SHA1: 1BFF9356BA1F2FA48583BAAB3135D0490EDD8BCA
+
+ 几个下载地址是一样的文件，任选一个下载。
+> * 华为网盘：http://dl.vmall.com/c0p9njl186
+> * 百度盘①：http://pan.baidu.com/s/1mgjxLB6
+> * 百度盘②：http://pan.baidu.com/s/1jbZ8y
+> * 微软网盘：http://1drv.ms/1lEtjVJ
+
+ 文件校验信息：
+
+>  * 文件名: ChromeFG_v2014.06.20.7z
+>  * 大小: 51668452 字节
+>  * MD5:1687FF622ACE0BB0B0EF0F9623BA92C7
+>  * SHA1: 1BFF9356BA1F2FA48583BAAB3135D0490EDD8BCA
 
 ##[本页面短网址：is.gd/ChromeFG](http://is.gd/ChromeFG)
