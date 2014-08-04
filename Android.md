@@ -5,7 +5,7 @@
 
 **安装说明：**
 
-> 1. 安装前需要先对手机进行设置: 打开“菜单键”-设置（settings）-应用程序（Applications），钩选"未知源"（Unknown sources）。
-> 2. 下载apk文件，进行安装.如果 .apk 被保存为zip文件，请将它改回为 .apk。
+> 1. 安装前需要先对手机进行设置： 打开“菜单键”－设置（settings）－应用程序（Applications），勾选"未知源"（Unknown sources）。
+> 2. 下载apk文件，进行安装。如果 .apk 被保存为zip文件，请将它改回为 .apk。
 
 ##[本页面短网址：is.gd/andrfq](http://is.gd/andrfq)
