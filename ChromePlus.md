@@ -9,8 +9,8 @@
 几个下载地址是一样的文件，任选一个下载。
 > * **[百度直链，点此直接下载](http://bcs.duapp.com/ziyoushangwang/Chrome36d_v2014.08.02.7z)**
 > * 华为网盘：http://dl.vmall.com/c0zvq9tsb4
-> * 百度网盘①：http://pan.baidu.com/s/1o6wRCL0
-> * 百度网盘②：http://pan.baidu.com/s/1gdIKBmz
+> * 百度网盘①：http://pan.baidu.com/s/1mgFmJ80
+> * 百度网盘②：http://pan.baidu.com/s/1jGEAQAM
 > * 谷歌网盘：http://goo.gl/a1si7s
 
 **文件校验信息：**
