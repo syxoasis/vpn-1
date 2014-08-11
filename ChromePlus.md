@@ -11,6 +11,7 @@
 > * 百度网盘②：http://pan.baidu.com/s/1jG85p90
 > * 百度网盘③：http://pan.baidu.com/s/1dDkYQM9
 > * 谷歌网盘：http://goo.gl/ZNspNB
+> * 微软网盘：http://1drv.ms/1sO3kw3
 
 **文件校验信息：**
 > * 文件名：Chrome36d_v2014.08.09.7z
