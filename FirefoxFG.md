@@ -10,7 +10,7 @@
 > * 华为网盘：
 > * 百度盘①：http://pan.baidu.com/s/1pJqeomn
 > * 百度盘②：http://pan.baidu.com/s/1c0xSkMW
-> * 微软网盘：
+> * 微软网盘：http://1drv.ms/1sNSndG
 
  文件校验信息：
 
