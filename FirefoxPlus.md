@@ -11,6 +11,7 @@
 > * 百度盘②：http://pan.baidu.com/s/1sjO6bjn
 > * 百度盘③：http://pan.baidu.com/s/1gdw0fuV
 > * 谷歌网盘：http://goo.gl/2VDEku
+> * 微软网盘：http://1drv.ms/1sO85Wq
 
 **文件校验信息：**
 
