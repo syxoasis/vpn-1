@@ -8,7 +8,7 @@
 几个下载地址是一样的文件，任选一个下载。
 > * 华为网盘：
 > * 百度盘①：http://pan.baidu.com/s/1dDowMsT
-> * 百度盘②：
+> * 百度盘②：http://pan.baidu.com/s/1sjqGkfb
 > * 百度盘③：
 > * 谷歌网盘：http://goo.gl/2VDEku
 > * 微软网盘：http://1drv.ms/1sO85Wq
