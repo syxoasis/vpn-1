@@ -7,7 +7,7 @@
 ####下载地址：
 
 几个下载地址是一样的文件，任选一个下载。
-> * 百度网盘①：http://pan.baidu.com/s/1qWsJYs0
+> * 百度网盘①：http://pan.baidu.com/s/1hqABqeS
 > * 百度网盘②：http://pan.baidu.com/s/1jG85p90
 > * 百度网盘③：http://pan.baidu.com/s/1dDkYQM9
 > * 谷歌网盘：http://goo.gl/ZNspNB
