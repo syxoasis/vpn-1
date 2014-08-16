@@ -9,7 +9,7 @@
 
 几个下载地址是一样的文件，任选一个下载。
 > * 百度盘①：http://pan.baidu.com/s/1bneX6Gn
-> * 百度盘②：
+> * 百度盘②：http://pan.baidu.com/s/1dD7tJET
 > * 百度盘③：
 > * 谷歌网盘：
 > * 微软网盘：
