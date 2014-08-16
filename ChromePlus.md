@@ -1,4 +1,7 @@
 #翻墙软件Chrome+发布页 ![](https://oq1gjg.bl3301.livefilestore.com/y2mlLXDCNxE4Puvrh_LvWZjKjFJWNvFh1qLCNBpKa_ykS9zlKUsqg2lImG3Tje3vbcsJt9TWo3BLvQP5Bs8xM_hLPpT3mvfZEcjo6e4sfZqSoM7F4Tr2GuZ2rOGGGzLdFgc/chrome48.ico?psid=1)
+### 公告：
+* 由于前段时间大量服务端appid被禁用，同时使用人数也在不断增加，所以此版现在每天共享的（1500G/天）流量在清晨就已经全部用完，当天流量恢复的时间是北京时间下午三点，也就是说从早上到下午三点之间有近十个小时的时间是不能用的。我很快会发布新版，增加更多流量，在新版发布前，前暂时使用火狐版，点**[这里](https://github.com/comeforu2012/truth/wiki/FirefoxPlus)**去下载。或者使用无流量限制的Chrome+自由门的组合，点**[这里](https://github.com/comeforu2012/truth/wiki/ChromeFG)**去下载。
+
 ####更新日志：
 * [2014年8月9日] 将近几天失效的服务器id删除，以解决无法正常使用的问题，此版流量是1500G/天。
 * 核心程序是Chrome36(D)+GoAgent3.1.11（每天共享1500G流量）
