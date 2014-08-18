@@ -12,7 +12,7 @@
 > * 百度盘②：http://pan.baidu.com/s/1qW6Xxko
 > * 百度盘③：http://pan.baidu.com/s/1jGqU6I6
 > * 谷歌网盘：
-> * 微软网盘：
+> * 微软网盘：http://1drv.ms/1rhAVRq
 
 **文件校验信息：**
 > * 文件名：Chrome36d_v2014.08.18.7z
