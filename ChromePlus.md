@@ -1,7 +1,7 @@
 #翻墙软件Chrome+发布页 ![](https://oq1gjg.bl3301.livefilestore.com/y2mlLXDCNxE4Puvrh_LvWZjKjFJWNvFh1qLCNBpKa_ykS9zlKUsqg2lImG3Tje3vbcsJt9TWo3BLvQP5Bs8xM_hLPpT3mvfZEcjo6e4sfZqSoM7F4Tr2GuZ2rOGGGzLdFgc/chrome48.ico?psid=1)
 
 ####更新日志：
-* [2014年8月18日] 增加增加225G流量。流量。此版流量是2000G/天。
+* [2014年8月18日] 增加225G流量。流量。此版流量是2000G/天。
 * 核心程序是Chrome36(D)+GoAgent3.1.11（每天共享2000G流量）
 * 下载后将压缩包解压出来，解压路径中最好不要包含中文，然后看一下说明，按说明操作，非常简单。
 
