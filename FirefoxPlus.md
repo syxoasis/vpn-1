@@ -11,7 +11,7 @@
 > * 百度盘②：[http://pan.baidu.com/s/1hqvc0tu](http://pan.baidu.com/s/1hqvc0tu)  提取密码：ko6d
 > * 百度盘③：[http://pan.baidu.com/s/1hqkndTM](http://pan.baidu.com/s/1hqkndTM)  提取密码：im6l
 > * 谷歌网盘：
-> * 微软网盘：
+> * 微软网盘：http://1drv.ms/1AuoToI
 
 **文件校验信息：**
 
