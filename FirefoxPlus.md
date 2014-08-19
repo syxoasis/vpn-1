@@ -9,10 +9,10 @@
 
 ####下载地址：
 几个下载地址是一样的文件，任选一个下载。
-> * 百度盘①：http://pan.baidu.com/s/1jGh0ZJo
-> * 百度盘②：http://pan.baidu.com/s/1jGzbXOy
-> * 百度盘③：http://pan.baidu.com/s/1eQgToye
-> * 百度盘④：http://pan.baidu.com/s/1jGihaCY
+> * 百度盘①：
+> * 百度盘②：[http://pan.baidu.com/s/1jGzbXOy](http://bcs.duapp.com/fq-rjwd/FireFoX_v2014.08.14.7z)
+> * 百度盘③：
+> * 百度盘④：[http://pan.baidu.com/s/1jGihaCY](http://bcs.duapp.com/fq-rjwd/FireFoX_v2014.08.14.7z)
 > * 谷歌网盘：
 > * 微软网盘：http://1drv.ms/VlEZl2
 
