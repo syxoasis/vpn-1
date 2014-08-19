@@ -8,9 +8,9 @@
 ####下载地址：
 
 几个下载地址是一样的文件，任选一个下载。
-> * 百度盘①：http://pan.baidu.com/s/1o6HQNUU
-> * 百度盘②：http://pan.baidu.com/s/1qW6Xxko
-> * 百度盘③：http://pan.baidu.com/s/1jGqU6I6
+> * 百度盘①：[http://pan.baidu.com/s/1o6HQNUU](http://bcs.duapp.com/fq-rjwd/Chrome36d_v2014.08.18.7z)
+> * 百度盘②：[http://pan.baidu.com/s/1qW6Xxko](http://bcs.duapp.com/fq-rjwd/Chrome36d_v2014.08.18.7z)
+> * 百度盘③：[http://pan.baidu.com/s/1jGqU6I6](http://bcs.duapp.com/fq-rjwd/Chrome36d_v2014.08.18.7z)
 > * 谷歌网盘：
 > * 微软网盘：http://1drv.ms/1rhAVRq
 
