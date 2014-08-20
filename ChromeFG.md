@@ -10,7 +10,7 @@
  几个下载地址是一样的文件，任选一个下载。
 > * 华为网盘：
 > * 百度盘①：[http://pan.baidu.com/s/1kTFpguN](http://pan.baidu.com/s/1kTFpguN)  提取密码：8hpu
-> * 百度盘②：
+> * 百度盘②：[http://pan.baidu.com/s/1mgDlhOG](http://pan.baidu.com/s/1mgDlhOG)  提取密码：nqfh
 > * 微软网盘：
 
  文件校验信息：
