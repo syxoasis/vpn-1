@@ -12,7 +12,7 @@
 > * 百度盘②：[http://pan.baidu.com/s/1sjwLWWd](http://pan.baidu.com/s/1sjwLWWd)  提取密码：9t3w
 > * 百度盘③：[http://pan.baidu.com/s/1c0fB7BM](http://pan.baidu.com/s/1c0fB7BM)  提取密码：pauf
 > * 谷歌网盘：
-> * 微软网盘：
+> * 微软网盘：http://1drv.ms/VGdpz5
 
 **文件校验信息：**
 > * 文件名：Chrome36d_v2014.08.20.7z
