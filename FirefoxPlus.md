@@ -9,7 +9,7 @@
 几个下载地址是一样的文件，任选一个下载。
 > * 百度盘①：[http://pan.baidu.com/s/1mgIASNQ](http://pan.baidu.com/s/1mgIASNQ)  提取密码：0hu6
 > * 百度盘②：[http://pan.baidu.com/s/1bnaTS9D](http://pan.baidu.com/s/1bnaTS9D)  提取密码：265k
-> * 百度盘③：[]()  提取密码：
+> * 百度盘③：[http://pan.baidu.com/s/1eQh9wrg](http://pan.baidu.com/s/1eQh9wrg)  提取密码：mblf
 > * 谷歌网盘：
 > * 微软网盘：
 
