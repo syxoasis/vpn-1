@@ -1,5 +1,8 @@
 #翻墙软件Chrome+发布页 ![](https://oq1gjg.bl3301.livefilestore.com/y2mlLXDCNxE4Puvrh_LvWZjKjFJWNvFh1qLCNBpKa_ykS9zlKUsqg2lImG3Tje3vbcsJt9TWo3BLvQP5Bs8xM_hLPpT3mvfZEcjo6e4sfZqSoM7F4Tr2GuZ2rOGGGzLdFgc/chrome48.ico?psid=1)
 
+### 公告：
+* 此版流量不足，请暂用火狐版：[https://github.com/comeforu2012/truth/wiki/FirefoxPlus](https://github.com/comeforu2012/truth/wiki/FirefoxPlus)或者使用不限制流量的ChromeFG：[https://github.com/comeforu2012/truth/wiki/ChromeFG](https://github.com/comeforu2012/truth/wiki/ChromeFG) 
+
 ####更新日志：
 * 2014年8月20日 发布100G的版本，全新的100G流量，升级GoAgent版本到今日最新版。
 * 核心程序是Chrome36(D)+GoAgent3.1.22（每天共享100G流量）
