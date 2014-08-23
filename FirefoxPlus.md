@@ -10,7 +10,7 @@
 > * 百度盘①：[http://pan.baidu.com/s/1kT61HYZ](http://pan.baidu.com/s/1kT61HYZ)  提取密码：2ty6
 > * 百度盘②：[]()  提取密码：
 > * 百度盘③：[http://pan.baidu.com/s/1tmO5S](http://pan.baidu.com/s/1tmO5S)  提取密码：feiw
-> * 谷歌网盘：
+> * 谷歌网盘：http://goo.gl/uFqxut
 > * 微软网盘：
 
 **文件校验信息：**
