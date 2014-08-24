@@ -1,9 +1,4 @@
 #翻墙软件Chrome+发布页 ![](https://oq1gjg.bl3301.livefilestore.com/y2mlLXDCNxE4Puvrh_LvWZjKjFJWNvFh1qLCNBpKa_ykS9zlKUsqg2lImG3Tje3vbcsJt9TWo3BLvQP5Bs8xM_hLPpT3mvfZEcjo6e4sfZqSoM7F4Tr2GuZ2rOGGGzLdFgc/chrome48.ico?psid=1)
-### 公告：
-* 由于此版新的流量近几天做不到及时增加，所以请暂时使用功能同样的**火狐版**（Firefox+GoAgent组合）：**[点这里去下载](https://github.com/comeforu2012/truth/wiki/FirefoxPlus)**；或者使用不限制流量的**ChromeFG**（Chrome+FreeGate组合）：**[点这里去下载](https://github.com/comeforu2012/truth/wiki/ChromeFG)**。
-* 之前版本用户不受影响。
-
-***
 
 ####更新日志：
 * 2014年8月23日 发布100G的版本，全新的100G流量。之前版本用户如果还能用就不需要更新。
@@ -12,7 +7,12 @@
 
 ####下载地址：
 
-
+几个下载地址是一样的文件，任选一个下载。
+> * 百度盘①：[http://pan.baidu.com/s/1nthvhTB](http://pan.baidu.com/s/1nthvhTB)  提取密码：tbmd
+> * 百度盘②：[http://pan.baidu.com/s/1eQEJymu](http://pan.baidu.com/s/1eQEJymu)  提取密码：5att
+> * 百度盘③：[http://pan.baidu.com/s/1bnzq0mb](http://pan.baidu.com/s/1bnzq0mb)  提取密码：ot2y
+> * 谷歌网盘：
+> * 微软网盘：
 
 **文件校验信息：**
 > * 文件名：Chrome36d_v2014.08.23.7z
