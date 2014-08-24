@@ -1,6 +1,7 @@
 #翻墙软件Chrome+发布页 ![](https://oq1gjg.bl3301.livefilestore.com/y2mlLXDCNxE4Puvrh_LvWZjKjFJWNvFh1qLCNBpKa_ykS9zlKUsqg2lImG3Tje3vbcsJt9TWo3BLvQP5Bs8xM_hLPpT3mvfZEcjo6e4sfZqSoM7F4Tr2GuZ2rOGGGzLdFgc/chrome48.ico?psid=1)
 ### 公告：
 * 由于此版新的流量近几天做不到及时增加，所以请暂时使用功能同样的**火狐版**（Firefox+GoAgent组合）：**[点这里去下载](https://github.com/comeforu2012/truth/wiki/FirefoxPlus)**；或者使用不限制流量的**ChromeFG**（Chrome+FreeGate组合）：**[点这里去下载](https://github.com/comeforu2012/truth/wiki/ChromeFG)**。
+* 之前版本用户不受影响。
 
 ***
 
