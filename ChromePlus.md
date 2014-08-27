@@ -11,7 +11,7 @@
 > * 百度盘①：[http://pan.baidu.com/s/1c0gXB3a](http://pan.baidu.com/s/1c0gXB3a)  提取密码：awkl
 > * 百度盘②：[http://pan.baidu.com/s/1eQ6Cbpo](http://pan.baidu.com/s/1eQ6Cbpo)  提取密码：tthv
 > * 百度盘③：[http://pan.baidu.com/s/1dDclQAd](http://pan.baidu.com/s/1dDclQAd)  提取密码：giiy
-> * 谷歌网盘：
+> * 谷歌网盘：http://goo.gl/pcL4GC
 > * 微软网盘：
 
 **文件校验信息：**
