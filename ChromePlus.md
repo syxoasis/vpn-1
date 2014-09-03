@@ -1,8 +1,5 @@
 #翻墙软件Chrome+发布页 ![](https://oq1gjg.bl3301.livefilestore.com/y2mlLXDCNxE4Puvrh_LvWZjKjFJWNvFh1qLCNBpKa_ykS9zlKUsqg2lImG3Tje3vbcsJt9TWo3BLvQP5Bs8xM_hLPpT3mvfZEcjo6e4sfZqSoM7F4Tr2GuZ2rOGGGzLdFgc/chrome48.ico?psid=1)
 
-### 公告：
-* 下载地址已失效，明日更新。
-
 ####更新日志：
 * 2014年8月31日 发布全新225G流量。之前版本用户如果还能用就不需要更新。**安全提醒**说明文件内新增加了防火墙规则，旧版用户请查看本页下方的说明。
 * 核心程序是Chrome36(D)+GoAgent3.1.2（每天共享225G流量）
@@ -11,11 +8,10 @@
 ####下载地址：
 
 几个下载地址是一样的文件，任选一个下载。
-> * 百度盘①：[http://pan.baidu.com/s/1sjyOd2X](http://pan.baidu.com/s/1sjyOd2X)  提取密码：hsr2
-> * 百度盘②：[http://pan.baidu.com/s/1mgyYo56](http://pan.baidu.com/s/1mgyYo56)  提取密码：o6q5
-> * 百度盘③：[http://pan.baidu.com/s/1sjBFqRb](http://pan.baidu.com/s/1sjBFqRb)  提取密码：bwqj
-> * 谷歌网盘：http://goo.gl/MFL4DO
-> * 微软网盘：
+> * 百度盘①：[http://pan.baidu.com/s/1qWnuTAk](http://pan.baidu.com/s/1qWnuTAk)  提取密码：dzgc
+> * 百度盘②：[]()  提取密码：
+> * 百度盘③：[]()  提取密码：
+> * 谷歌网盘：
 
 **文件校验信息：**
 > * 文件名：Chrome36d_v2014.08.31.7z
