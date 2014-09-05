@@ -8,8 +8,7 @@
 ####下载地址：
 
 几个下载地址是一样的文件，任选一个下载。
-> * 百度盘①：[http://pan.baidu.com/s/1jGJvnG6](http://pan.baidu.com/s/1jGJvnG6)  提取密码：bfjw
-> * 百度盘②：[http://pan.baidu.com/s/1gdglIiJ](http://pan.baidu.com/s/1gdglIiJ)  提取密码：65fn
+> * 百度网盘：[http://pan.baidu.com/s/1hq1iza8](http://pan.baidu.com/s/1hq1iza8) 提取密码：y97q
 > * 谷歌网盘：http://goo.gl/RLAEaA
 
 **文件校验信息：**
