@@ -11,7 +11,7 @@
 > * 百度网盘：[http://pan.baidu.com/s/1hq1iza8](http://pan.baidu.com/s/1hq1iza8) 提取密码：y97q
 > * 谷歌网盘：http://goo.gl/RLAEaA
 
-* 如果下载地址失效，请发邮件至 comeforu2012@gmail.com 提醒我。
+如果下载地址失效，请发邮件至 comeforu2012@gmail.com 提醒我。
 
 **文件校验信息：**
 > * 文件名：Chrome36d_v2014.09.03.7z
