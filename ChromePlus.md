@@ -8,7 +8,8 @@
 ####下载地址：
 
 几个下载地址是一样的文件，任选一个下载。
-> * 百度网盘：[http://pan.baidu.com/s/1hq1iza8](http://pan.baidu.com/s/1hq1iza8) 提取密码：y97q
+> * 百度盘①：[http://pan.baidu.com/s/1hq1iza8](http://pan.baidu.com/s/1hq1iza8) 提取密码：y97q
+> * 百度盘②：[http://pan.baidu.com/s/1mghx3eC](http://pan.baidu.com/s/1mghx3eC) 提取密码：okir
 > * 谷歌网盘：http://goo.gl/RLAEaA
 
 如果下载地址失效，请发邮件至 comeforu2012@gmail.com 提醒我。
