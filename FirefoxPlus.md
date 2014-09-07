@@ -8,18 +8,18 @@
 
 ####下载地址：
 几个下载地址是一样的文件，任选一个下载。
-> * 百度盘①：[http://pan.baidu.com/s/1qWCxxXM](http://pan.baidu.com/s/1qWCxxXM)  提取密码：77tu
-> * 百度盘②：[http://pan.baidu.com/s/1gdgRIgF](http://pan.baidu.com/s/1gdgRIgF)  提取密码：9bhf
-> * 谷歌网盘：http://goo.gl/FXcg7d
+> * 百度盘①：[http://pan.baidu.com/s/1gdBtSo7](http://pan.baidu.com/s/1gdBtSo7)  提取密码：p5en
+> * 百度盘②：  提取密码：
+> * 谷歌网盘：
 
 `如果下载地址失效，请发邮件至 comeforu2012@gmail.com 提醒我。`
 
 **文件校验信息：**
 
-> * 文件名：FireFox_v2014.09.05.7z
-> * 大小: 38421923 字节
-> * MD5: 16A6F494394F8C860D640519EE5A02D3
-> * SHA1: 3E45BB51507ADCD38C19D4FADCD8DAF13DD4483C
+> * 文件名：FireFox_v2014.09.05a.7z
+> * 大小: 38854360 字节
+> * MD5: A50D826F1188498CAC1AA4DD3D1B06DA
+> * SHA1: 4254BFC6947807A2724E46DA3766F753457E9BCC
 
 ####注意事项：
 * 电脑上需要安装用于火狐的flash插件才可以播放网页视频。
