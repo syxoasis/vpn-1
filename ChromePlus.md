@@ -8,8 +8,8 @@
 ####下载地址：
 
 几个下载地址是一样的文件，任选一个下载。
-> * 百度盘①：[http://pan.baidu.com/s/1lfHQA](http://pan.baidu.com/s/1lfHQA) 提取密码：t6n2
-> * 百度盘②：
+> * 百度盘B：
+> * 百度盘D：[http://pan.baidu.com/s/1lfHQA](http://pan.baidu.com/s/1lfHQA) 提取密码：t6n2
 > * 谷歌网盘：
 
 如果下载地址失效，请发邮件至 comeforu2012@gmail.com 提醒我。
