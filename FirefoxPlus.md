@@ -8,7 +8,7 @@
 
 ####下载地址：
 几个下载地址是一样的文件，任选一个下载。
-> * 百度盘①：[http://pan.baidu.com/s/1gdBtSo7](http://pan.baidu.com/s/1gdBtSo7)  提取密码：p5en
+> * 百度盘B：[http://pan.baidu.com/s/1gdBtSo7](http://pan.baidu.com/s/1gdBtSo7)  提取密码：p5en
 > * 百度盘②：  提取密码：
 > * 谷歌网盘：
 
