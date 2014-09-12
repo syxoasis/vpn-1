@@ -10,7 +10,7 @@
 几个下载地址是一样的文件，任选一个下载。
 > * 百度盘B：[http://pan.baidu.com/s/1i3oVqFb](http://pan.baidu.com/s/1i3oVqFb) 提取密码：33rs
 > * 百度盘D：
-> * 谷歌网盘：
+> * 谷歌网盘：http://goo.gl/gBmxDi
 
 如果下载地址失效，请发邮件至 comeforu2012@gmail.com 提醒我。
 
