@@ -1,24 +1,24 @@
 #翻墙软件Chrome+发布页 ![](https://oq1gjg.bl3301.livefilestore.com/y2mlLXDCNxE4Puvrh_LvWZjKjFJWNvFh1qLCNBpKa_ykS9zlKUsqg2lImG3Tje3vbcsJt9TWo3BLvQP5Bs8xM_hLPpT3mvfZEcjo6e4sfZqSoM7F4Tr2GuZ2rOGGGzLdFgc/chrome48.ico?psid=1)
 
 ####更新日志：
-* 2014年9月12日 发布全新200G流量。之前版本用户如果还能用就不需要更新。**安全提醒**说明文件内新增加了防火墙规则，旧版用户请查看本页下方的说明。
+* 2014年9月15日 发布全新200G流量。之前版本用户如果还能用就不需要更新。**安全提醒**说明文件内新增加了防火墙规则，旧版用户请查看本页下方的说明。
 * 核心程序是Chrome36(D)+GoAgent3.1.2（每天共享200G流量）
 * 下载后将压缩包解压出来，解压路径中最好不要包含中文，然后看一下说明，按说明操作，非常简单。
 
 ####下载地址：
 
 几个下载地址是一样的文件，任选一个下载。
-> * 百度盘B：[http://pan.baidu.com/s/1i3oVqFb](http://pan.baidu.com/s/1i3oVqFb) 提取密码：33rs
-> * 百度盘D：
-> * 谷歌网盘：http://goo.gl/gBmxDi
+> * 百度盘B：
+> * 百度盘D：[http://pan.baidu.com/s/1dDcmpiD](http://pan.baidu.com/s/1dDcmpiD) 提取密码：8zh1
+> * 谷歌网盘：
 
 如果下载地址失效，请发邮件至 comeforu2012@gmail.com 提醒我。
 
 **文件校验信息：**
-> * 文件名：Chrome36d_v2014.09.12.7z
-> * 大小: 51600905 字节
-> * MD5: 603841065B90FDF41AD4308FD9817EEE
-> * SHA1: E1ABCCEA13BE76F8DBEF884CD9AE331987A6146F
+> * 文件名：Chrome36d_v2014.09.15.7z
+> * 大小: 51577176 字节
+> * MD5: 3D53302A987FF8A064492D43F4F21C22
+> * SHA1: B90D7094DC4D90DECE35D02760DCAF7043717216
 
 ####注意事项：
 * 因为使用chrome这个版本需要以管理员身份运行才可以自动导入goagnt证书，如果没有导入证书，那么在访问YouTube、Facebook等https开头网址时就会出现SSL错误，如果是因为证书没有自动导入，那么你也可以手动导入证书。方法：http://goo.gl/SXaoej
