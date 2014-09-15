@@ -11,6 +11,7 @@
 > * 百度盘B：
 > * 百度盘D：[http://pan.baidu.com/s/1dDcmpiD](http://pan.baidu.com/s/1dDcmpiD) 提取密码：8zh1
 > * 谷歌网盘：
+* > 直链地址：[点此处下载，或者“右键另存为”](https://zswfooo.apphb.com/Download/CRplus_100/Chrome36d_v2014.09.15.7z)
 
 如果下载地址失效，请发邮件至 comeforu2012@gmail.com 提醒我。
 
