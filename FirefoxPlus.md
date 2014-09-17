@@ -10,6 +10,7 @@
 > * 百度盘D：
 > * 百度盘H：[http://pan.baidu.com/s/1tTubG](http://pan.baidu.com/s/1tTubG)  提取密码：lkvv
 > * 谷歌网盘：
+> * 直链地址：[点此处下载，或者右键“另存为”](https://zswfooo.apphb.com/Download/FFplus_100/FireFox_v2014.09.05a.7z)
 
 `如果下载地址失效，请发邮件至 comeforu2012@gmail.com 提醒我。`
 
