@@ -7,8 +7,8 @@
 
 ####下载地址：
 几个下载地址是一样的文件，任选一个下载。
-> * 百度盘D：
-> * 百度盘H：[http://pan.baidu.com/s/1tTubG](http://pan.baidu.com/s/1tTubG)  提取密码：lkvv
+> * 百度盘B：[http://pan.baidu.com/s/1bnw9xvx](http://pan.baidu.com/s/1bnw9xvx) 提取密码：n5sg
+> * 百度盘〔DH〕：
 > * 谷歌网盘：
 > * 直链地址：[点此处下载，或者右键“另存为”](https://cdnon.apphb.com/Download/FF100/FireFox_v2014.09.05a.7z)
 
