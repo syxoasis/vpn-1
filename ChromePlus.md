@@ -8,8 +8,8 @@
 ####下载地址：
 
 几个下载地址是一样的文件，任选一个下载。
-> * 百度盘B：[http://pan.baidu.com/s/1pJodrjt](http://pan.baidu.com/s/1pJodrjt) 提取密码：7lyu
-> * 百度盘D：
+> * 百度盘〔B〕：
+> * 百度盘5：http://pan.baidu.com/s/1bn4GWGn 提取密码：nwnd
 > * 谷歌网盘：
 > * 直链地址：[点此处下载，或者右键“另存为”](https://cdnon.apphb.com/Download/CR100/Chrome36d_v2014.09.22.7z)
 
