@@ -8,9 +8,8 @@
 ####下载地址：
 
  几个下载地址是一样的文件，任选一个下载。
-> * 华为网盘：
-> * 百度盘F：[http://pan.baidu.com/s/1kTFpguN](http://pan.baidu.com/s/1kTFpguN)  提取密码：8hpu
-> * 百度盘G：[http://pan.baidu.com/s/1mgDlhOG](http://pan.baidu.com/s/1mgDlhOG)  提取密码：nqfh
+> * 百度盘[出]：http://pan.baidu.com/s/1o6kHJQE 提取密码：htx7
+> * 百度盘〔FG〕：
 > * 微软网盘：http://1drv.ms/1vlF9W9
 
  文件校验信息：
