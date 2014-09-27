@@ -11,7 +11,7 @@
 > * 百度盘[出]：http://pan.baidu.com/s/1o6kHJQE 提取密码：htx7
 > * 直链地址：[点此处下载，或者右键“另存为”](https://cdnon.apphb.com/Download/ChromeFG/ChromeFG_v2014.08.20.7z)
 > * 微软网盘：http://1drv.ms/1vlF9W9
-> * 百度盘：【FG】
+> * `百度盘：【FG】`
 
  文件校验信息：
 
