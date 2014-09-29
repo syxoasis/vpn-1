@@ -9,7 +9,6 @@
  几个下载地址是一样的文件，任选一个下载。
 > * 百度盘〖水〗：http://pan.baidu.com/s/1gdnDPsR 提取密码：6puq
 > * 微软网盘：http://1drv.ms/1sNSndG
-> * 直链地址：[点此处下载，或者右键“另存为”](https://cdnon.apphb.com/Download/FirefoxFG/FirefoxFG_2014.08.10.7z)
 > * `百度盘：【普帆】`
 
  文件校验信息：
