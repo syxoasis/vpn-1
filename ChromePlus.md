@@ -9,9 +9,8 @@
 
 几个下载地址是一样的文件，任选一个下载。
 > * 百度盘〔B〕：
-> * 百度盘5：
+> * 百度盘5：http://pan.baidu.com/s/1o65G954 提取密码：1na9
 > * 谷歌网盘：
-> * 直链地址：[点此处下载，或者右键“另存为”](https://cdnon.apphb.com/Download/CR100/Chrome36d_v2014.09.28.7z)
 
 如果下载地址失效，请发邮件至 comeforu2012@gmail.com 提醒我。
 
