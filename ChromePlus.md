@@ -10,14 +10,14 @@
 * 【加速版】使用谷歌中国的服务器，速度快，但不适合一些上传操作，适合翻墙新手。
 
 #### 下载地址：
-> * 【稳定版】百度盘D：http://pan.baidu.com/s/1jGxHvFK 提取密码：nipl
+> * 【稳定版】百度盘D：http://pan.baidu.com/s/1mg2xaXy 提取密码：wxbi
 > * 【加速版】百度盘H：http://pan.baidu.com/s/1i3Ds5V3 提取密码：6id1
 > * 【5】BH
 
 如果下载地址失效，请发邮件至 comeforu2012@gmail.com 提醒我。
 
 **文件校验信息：**
-> * 【稳定版】MD5: E4160B9E4A1BBDA06D820B391351D160
+> * 【稳定版】MD5: E91A00F9250835CB91CDD70074B12CC8
 > * 【加速版】MD5: E9FB00DBC776A9457703C09B346A3067
 
 ####注意事项：
