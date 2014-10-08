@@ -11,7 +11,7 @@
 
 #### 下载地址：
 > * 【稳定版】百度盘D：http://pan.baidu.com/s/1mg2xaXy 提取密码：wxbi
-> * 【加速版】百度盘H：http://pan.baidu.com/s/1i3Ds5V3 提取密码：6id1
+> * 【加速版】百度盘K：http://pan.baidu.com/s/1i3Ds5V3 提取密码：6id1
 > * 【5】BH
 
 如果下载地址失效，请发邮件至 comeforu2012@gmail.com 提醒我。
