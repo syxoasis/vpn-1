@@ -11,14 +11,14 @@
 
 #### 下载地址：
 > * 【稳定版】百度盘D：http://pan.baidu.com/s/1mg2xaXy 提取密码：wxbi
-> * 【加速版】百度盘K：http://pan.baidu.com/s/1i3Ds5V3 提取密码：6id1
+> * 【加速版】百度盘K：http://pan.baidu.com/s/1eQu1JO2 提取密码：1rer
 > * 【5】BH
 
 如果下载地址失效，请发邮件至 comeforu2012@gmail.com 提醒我。
 
 **文件校验信息：**
-> * 【稳定版】MD5: E91A00F9250835CB91CDD70074B12CC8
-> * 【加速版】MD5: E9FB00DBC776A9457703C09B346A3067
+> * A【稳定版】MD5: E91A00F9250835CB91CDD70074B12CC8
+> * B【加速版】MD5: E9FB00DBC776A9457703C09B346A3067
 
 ####注意事项：
 * 因为使用chrome这个版本需要以管理员身份运行才可以自动导入goagnt证书，如果没有导入证书，那么在访问YouTube、Facebook等https开头网址时就会出现SSL错误，如果是因为证书没有自动导入，那么你也可以手动导入证书。方法：http://goo.gl/SXaoej
