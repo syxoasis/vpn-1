@@ -10,15 +10,15 @@
 * 【加速版】使用谷歌中国的服务器，速度快，但不适合一些上传操作，适合翻墙新手。
 
 #### 下载地址：
-> * 【稳定版】百度盘D：http://pan.baidu.com/s/1mg2xaXy 提取密码：wxbi
-> * 【加速版】百度盘H：http://pan.baidu.com/s/1eQu1JO2 提取密码：1rer
+> * 【稳定版】百度盘D：http://pan.baidu.com/s/1i35lb9b 提取密码：j9fi
+> * 【加速版】百度盘H：http://pan.baidu.com/s/1sjHfWXv 提取密码：05lc
 > * 【K】BH
 
 如果下载地址失效，请发邮件至 comeforu2012@gmail.com 提醒我。
 
 **文件校验信息：**
-> * A【稳定版】MD5: E91A00F9250835CB91CDD70074B12CC8
-> * B【加速版】MD5: E9FB00DBC776A9457703C09B346A3067
+> * A【稳定版】MD5: 839BD040DE209C52513E8BC4E9891789
+> * B【加速版】MD5: 13618C3B3668D973D97F98325E76AB33
 
 ####注意事项：
 * 因为使用chrome这个版本需要以管理员身份运行才可以自动导入goagnt证书，如果没有导入证书，那么在访问YouTube、Facebook等https开头网址时就会出现SSL错误，如果是因为证书没有自动导入，那么你也可以手动导入证书。方法：http://goo.gl/SXaoej
