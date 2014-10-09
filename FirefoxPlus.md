@@ -7,8 +7,9 @@
 
 ####下载地址：
 几个下载地址是一样的文件，任选一个下载。
-> * 百度盘5：http://pan.baidu.com/s/1o6G6iO6 提取密码：vvid
+> * 百度盘G：http://pan.baidu.com/s/1o6mdYZo 提取密码：bbbh
 > * 谷歌网盘：
+> * 【5】
 
 `如果下载地址失效，请发邮件至 comeforu2012@gmail.com 提醒我。`
 
