@@ -7,9 +7,9 @@
 
 ####下载地址：
 几个下载地址是一样的文件，任选一个下载。
-> * 百度盘G：http://pan.baidu.com/s/1jG21kn8 提取密码：4cpi
+> * 百度盘D：http://pan.baidu.com/s/1jG21kn8 提取密码：4cpi
 > * 谷歌网盘：
-> * 【5】
+> * 【5G】
 
 `如果下载地址失效，请发邮件至 comeforu2012@gmail.com 提醒我。`
 
