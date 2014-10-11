@@ -10,9 +10,9 @@
 * 【加速版】使用谷歌中国的服务器，速度快，但不适合一些上传操作，适合翻墙新手。
 
 #### 下载地址：
-> * 【稳定版】百度盘B：http://pan.baidu.com/s/13xy3c 提取密码：97ij
-> * 【加速版】百度盘B：http://pan.baidu.com/s/1pJv5vHT 提取密码：i3v6
-> * 【KDH】
+> * 【稳定版】百度盘D：http://pan.baidu.com/s/1sjpvHnB 提取密码：j27n
+> * 【加速版】百度盘D：http://pan.baidu.com/s/1mg4zblu 提取密码：ycrn
+> * 【KDHB】
 
 如果下载地址失效，请发邮件至 comeforu2012@gmail.com 提醒我。
 
