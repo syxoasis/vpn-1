@@ -7,7 +7,7 @@
 
 ####下载地址：
 几个下载地址是一样的文件，任选一个下载。
-> * 百度盘G：http://pan.baidu.com/s/1o6mdYZo 提取密码：bbbh
+> * 百度盘G：http://pan.baidu.com/s/1jG21kn8 提取密码：4cpi
 > * 谷歌网盘：
 > * 【5】
 
