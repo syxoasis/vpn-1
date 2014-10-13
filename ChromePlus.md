@@ -20,9 +20,9 @@
 </table>
 
 #### 下载地址：
-> * 【稳定版】百度盘D：http://pan.baidu.com/s/1sjpvHnB 提取密码：j27n
-> * 【加速版】百度盘D：http://pan.baidu.com/s/1mg4zblu 提取密码：ycrn
-> * 【KDHB】
+> * 【稳定版】百度盘K：http://pan.baidu.com/s/1mgyZte4 提取密码：x8g9
+> * 【加速版】百度盘K：http://pan.baidu.com/s/1qWnvTLi 提取密码：m2w2
+> * 【D·KHB】
 
 如果下载地址失效，请发邮件至 comeforu2012@gmail.com 提醒我。
 
