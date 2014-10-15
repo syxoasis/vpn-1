@@ -20,9 +20,9 @@
 </table>
 
 #### 下载地址：
-> * 【稳定版】百度盘5：http://pan.baidu.com/s/1bnEQNWr 提取密码：hyom
-> * 【加速版】百度盘5：http://pan.baidu.com/s/1sj2SUnj 提取密码：sf59
-> * INFO:〖DK-HB〗07:31 AM on October 15,2014.
+> * 【稳定版】百度盘5：http://pan.baidu.com/s/1eQkY1ay 提取密码：kmpb
+> * 【加速版】百度盘5：http://pan.baidu.com/s/1dDku5TB 提取密码：dmbj
+> * INFO:〖DK-HB〗01:54 PM on October 15,2014.
 
 如果下载地址失效，请发邮件至 comeforu2012@gmail.com 提醒我。
 
