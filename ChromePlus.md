@@ -22,7 +22,7 @@
 #### 下载地址：
 > * 【稳定版】百度盘5：http://pan.baidu.com/s/1eQkY1ay 提取密码：kmpb
 > * 【加速版】百度盘5：http://pan.baidu.com/s/1dDku5TB 提取密码：dmbj
-> * 注意：请使用ie浏览器下载百度网盘的文件。
+> * **注意：**请使用ie浏览器下载百度网盘的文件。
 > * INFO:〖DK-HB〗01:54 PM on October 15,2014.
 
 如果下载地址失效，请发邮件至 comeforu2012@gmail.com 提醒我。
