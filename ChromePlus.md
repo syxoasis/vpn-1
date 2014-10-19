@@ -1,7 +1,7 @@
 #翻墙软件Chrome+发布页 ![](https://oq1gjg.bl3301.livefilestore.com/y2mlLXDCNxE4Puvrh_LvWZjKjFJWNvFh1qLCNBpKa_ykS9zlKUsqg2lImG3Tje3vbcsJt9TWo3BLvQP5Bs8xM_hLPpT3mvfZEcjo6e4sfZqSoM7F4Tr2GuZ2rOGGGzLdFgc/chrome48.ico?psid=1)
 
 ####更新日志：
-* 2014年10月7日 发布全新200G流量。**之前版本用户如果还能用就不需要更新。**内存低于2G的电脑建议用[火狐版（这里）](https://github.com/comeforu2012/truth/wiki/FirefoxPlus)。
+* 2014年10月19日 发布全新200G流量。**之前版本用户如果还能用就不需要更新。**内存低于2G的电脑建议用[火狐版（这里）](https://github.com/comeforu2012/truth/wiki/FirefoxPlus)。
 * 稳定版核心程序是Chrome36(D)+GoAgent3.1.2（每天共享200G流量）
 * 下载后将压缩包解压出来，解压路径中最好不要包含中文，然后看一下说明，按说明操作，非常简单。
 
@@ -20,16 +20,16 @@
 </table>
 
 #### 下载地址：
-> * 【稳定版】百度盘5：http://pan.baidu.com/s/1eQkY1ay 提取密码：kmpb
-> * 【加速版】百度盘5：http://pan.baidu.com/s/1dDku5TB 提取密码：dmbj
+> * 【稳定版】百度盘H：http://pan.baidu.com/s/1bn91omj 提取密码：zzzl
+> * 【加速版】百度盘H：http://pan.baidu.com/s/1bnxpVVx 提取密码：3le1
 > * **注意：**请使用ie浏览器下载百度网盘的文件。
-> * INFO:〖DK-HB〗01:54 PM on October 15,2014.
+> * INFO:〖DK5B〗09:06 PM on October 19,2014.
 
 如果下载地址失效，请发邮件至 comeforu2012@gmail.com 提醒我。
 
 **文件校验信息：**
-> * A【稳定版】MD5: 839BD040DE209C52513E8BC4E9891789
-> * B【加速版】MD5: 13618C3B3668D973D97F98325E76AB33
+> * A【稳定版】MD5: 64D08DD2F46157B91EFD50E96CD9342B
+> * B【加速版】MD5: 6ADF855ED33A2DA25F09E35D01EF74D5
 
 ####注意事项：
 * 因为使用chrome这个版本需要以管理员身份运行才可以自动导入goagnt证书，如果没有导入证书，那么在访问YouTube、Facebook等https开头网址时就会出现SSL错误，如果是因为证书没有自动导入，那么你也可以手动导入证书。方法：http://goo.gl/SXaoej
