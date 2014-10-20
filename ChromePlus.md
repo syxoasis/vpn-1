@@ -20,10 +20,10 @@
 </table>
 
 #### 下载地址：
-> * 【稳定版】百度盘H：http://pan.baidu.com/s/1bn91omj 提取密码：zzzl
-> * 【加速版】百度盘H：http://pan.baidu.com/s/1bnxpVVx 提取密码：3le1
+> * 【稳定版】百度盘B：http://pan.baidu.com/s/1dDAdg57 提取密码：mpkn
+> * 【加速版】百度盘B：http://pan.baidu.com/s/1kTyv7wV 提取密码：1rm3
 > * **注意：**请使用ie浏览器下载百度网盘的文件。
-> * INFO:〖DK5B〗09:06 PM on October 19,2014.
+> * INFO:〖H-DK5〗07:25 PM on October 20,2014.
 
 如果下载地址失效，请发邮件至 comeforu2012@gmail.com 提醒我。
 
