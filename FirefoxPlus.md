@@ -21,7 +21,7 @@
 
 ####下载地址：
 > * 【稳定版】百度盘D：http://pan.baidu.com/s/1sj4Vby9 提取密码：ybuq
-> * 【加速版】百度盘D：http://pan.baidu.com/s/10FUWY 提取密码：dva4
+> * 【加速版】百度盘D：http://pan.baidu.com/s/1jGxHKwA 提取密码：u6jb
 > * 
 
 `如果下载地址失效，请发邮件至 comeforu2012@gmail.com 提醒我。`
@@ -30,7 +30,7 @@
 > * A【稳定版】FireFox_v2014.10.25a.7z
 >  * MD5: B81CE3B1E4B30B2691D642456B99CDA3
 > * B【加速版】FireFox_v2014.10.25b.7z
->  * MD5: 2DDC0793FED7610F4A219879A7EEFA90
+>  * MD5: A0822FF8E13E03A0D4DC28613DB6E77E
 
 ####注意事项：
 * 电脑上需要安装用于火狐的flash插件才可以播放网页视频。
