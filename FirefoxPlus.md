@@ -20,11 +20,14 @@
 </table>
 
 ####下载地址：
-> * 【稳定版】百度盘D：http://pan.baidu.com/s/1sj4Vby9 提取密码：ybuq
-> * 【加速版】百度盘D：http://pan.baidu.com/s/1jGxHKwA 提取密码：u6jb
-> * 
+> * **稳定版：**
+>  * 百度盘D：http://pan.baidu.com/s/1sj4Vby9 提取密码：ybuq
+>  * Dropbox：https://www.dropbox.com/s/xb1fho8d336kcl1/FireFox_v2014.10.25a.7z?dl=0
+> * **加速版：**
+>  * 百度盘D：http://pan.baidu.com/s/1jGxHKwA 提取密码：u6jb
+>  * Dropbox：https://www.dropbox.com/s/vemg8l4h3rhmvxy/FireFox_v2014.10.25b.7z?dl=0
 
-`如果下载地址失效，请发邮件至 comeforu2012@gmail.com 提醒我。`
+`如果百度盘下载地址失效，请发邮件至 comeforu2012@gmail.com 提醒我。`
 
 **文件校验信息：**
 > * A【稳定版】FireFox_v2014.10.25a.7z
