@@ -20,12 +20,16 @@
 </table>
 
 #### 下载地址：
-> * 【稳定版】百度盘K：http://pan.baidu.com/s/1sjv182D 提取密码：ez33
-> * 【加速版】百度盘K：http://pan.baidu.com/s/1gdqwpOJ 提取密码：pzwj
-> * **注意：**请使用ie浏览器下载百度网盘的文件。
-> * INFO:〖HBD-5〗04:39 PM on October 23,2014.
+> * **稳定版：**
+>  * 百度盘5：http://pan.baidu.com/s/1hqGcL6k 提取密码：sfxh
+>  * Dropbox：https://www.dropbox.com/s/7zwobh9j2a7t1du/Chrome36d_v2014.10.19a.7z?dl=0
+> * **加速版：**
+>  * 百度盘5：http://pan.baidu.com/s/1c0cpuUk 提取密码：ffqi
+>  * Dropbox：https://www.dropbox.com/s/06clrk9s6sx93i3/Chrome36d_v2014.10.19b.7z?dl=0
+> * **注意：**请使用ie浏览器下载百度网盘的文件。Dropbox地址已经被墙，不能直接下载。
+> * INFO:〖HBDK-〗
 
-如果下载地址失效，请发邮件至 comeforu2012@gmail.com 提醒我。
+如果百度盘下载地址失效，请发邮件至 comeforu2012@gmail.com 提醒我。
 
 **文件校验信息：**
 > * A【稳定版】MD5: 64D08DD2F46157B91EFD50E96CD9342B
