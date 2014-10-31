@@ -21,11 +21,12 @@
 
 ####下载地址：
 > * **稳定版：**
->  * 百度盘D：http://pan.baidu.com/s/1sj4Vby9 提取密码：ybuq
+>  * 百度盘H：http://pan.baidu.com/s/1i33jAAh 提取密码：4xwe
 >  * Dropbox：https://www.dropbox.com/s/xb1fho8d336kcl1/FireFox_v2014.10.25a.7z?dl=0
 > * **加速版：**
->  * 百度盘D：http://pan.baidu.com/s/1jGxHKwA 提取密码：u6jb
+>  * 百度盘H：http://pan.baidu.com/s/1dDCLm7n 提取密码：f3wq
 >  * Dropbox：https://www.dropbox.com/s/vemg8l4h3rhmvxy/FireFox_v2014.10.25b.7z?dl=0
+> * 〖D〗
 
 `如果百度盘下载地址失效，请发邮件至 comeforu2012@gmail.com 提醒我。`
 
