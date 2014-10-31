@@ -21,13 +21,13 @@
 
 #### 下载地址：
 > * **稳定版：**
->  * 百度盘J：http://pan.baidu.com/s/1o6yVEn4 提取密码：np1m
+>  * 百度盘F：http://pan.baidu.com/s/1lhcmE 提取密码：xria
 >  * Dropbox：https://www.dropbox.com/s/7zwobh9j2a7t1du/Chrome36d_v2014.10.19a.7z?dl=0
 > * **加速版：**
->  * 百度盘J：http://pan.baidu.com/s/1lha0I 提取密码：evr9
+>  * 百度盘F：http://pan.baidu.com/s/1eQenoaQ 提取密码：eq27
 >  * Dropbox：https://www.dropbox.com/s/06clrk9s6sx93i3/Chrome36d_v2014.10.19b.7z?dl=0
 > * **注意：**请使用ie浏览器下载百度网盘的文件。Dropbox地址已经被墙，不能直接下载。
-> * INFO:〖HBDK5-〗
+> * INFO:〖HBDK5J-〗
 
 如果百度盘下载地址失效，请发邮件至 comeforu2012@gmail.com 提醒我。
 
