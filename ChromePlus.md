@@ -1,8 +1,8 @@
 #翻墙软件Chrome+发布页 ![](https://oq1gjg.bl3301.livefilestore.com/y2mlLXDCNxE4Puvrh_LvWZjKjFJWNvFh1qLCNBpKa_ykS9zlKUsqg2lImG3Tje3vbcsJt9TWo3BLvQP5Bs8xM_hLPpT3mvfZEcjo6e4sfZqSoM7F4Tr2GuZ2rOGGGzLdFgc/chrome48.ico?psid=1)
 
 ####更新日志：
-* 2014年10月19日 发布全新200G流量。**之前版本用户如果还能用就不需要更新。**内存低于2G的电脑建议用[火狐版（这里）](https://github.com/comeforu2012/truth/wiki/FirefoxPlus)。
-* 稳定版核心程序是Chrome36(D)+GoAgent3.1.2（每天共享200G流量）
+* 2014年10月31日 将Chrome内核版本升级到v38 Stable。**之前版本用户如果还能用就不需要更新。**内存低于2G的电脑建议用[火狐版（这里）](https://github.com/comeforu2012/truth/wiki/FirefoxPlus)。
+* 稳定版核心程序是Chrome38(S)+GoAgent3.1.2（每天共享多G流量）
 * 下载后将压缩包解压出来，解压路径中最好不要包含中文，然后看一下说明，按说明操作，非常简单。
 
 #### 版本区别：
@@ -21,19 +21,21 @@
 
 #### 下载地址：
 > * **稳定版：**
->  * 百度盘F：http://pan.baidu.com/s/1lhcmE 提取密码：xria
->  * Dropbox：https://www.dropbox.com/s/7zwobh9j2a7t1du/Chrome36d_v2014.10.19a.7z?dl=0
+>  * 百度盘B：http://pan.baidu.com/s/1jG5jz62 提取密码：uly0
+>  * Dropbox：稍候更新。
 > * **加速版：**
->  * 百度盘F：http://pan.baidu.com/s/1eQenoaQ 提取密码：eq27
->  * Dropbox：https://www.dropbox.com/s/06clrk9s6sx93i3/Chrome36d_v2014.10.19b.7z?dl=0
+>  * 百度盘B：http://pan.baidu.com/s/1c0rO4EW 提取密码：oegu
+>  * Dropbox：稍候更新。
 > * **注意：**请使用ie浏览器下载百度网盘的文件。Dropbox地址已经被墙，不能直接下载。
-> * INFO:〖HBDK5J-〗
+> * INFO:〖BD5FGHJK〗
 
 如果百度盘下载地址失效，请发邮件至 comeforu2012@gmail.com 提醒我。
 
 **文件校验信息：**
-> * A【稳定版】MD5: 64D08DD2F46157B91EFD50E96CD9342B
-> * B【加速版】MD5: 6ADF855ED33A2DA25F09E35D01EF74D5
+> * A【稳定版】：Chrome38s_v2014.10.31a.7z
+>  * MD5: 2E5820EB9FE0943C5414D1CDA2A0C6C0
+> * B【加速版】：Chrome38s_v2014.10.31b.7z
+>  * MD5: 6F2F3B15FDEBD4A9B05CFE9F511DE5BA
 
 ####注意事项：
 * 因为使用chrome这个版本需要以管理员身份运行才可以自动导入goagnt证书，如果没有导入证书，那么在访问YouTube、Facebook等https开头网址时就会出现SSL错误，如果是因为证书没有自动导入，那么你也可以手动导入证书。方法：http://goo.gl/SXaoej
