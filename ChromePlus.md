@@ -1,8 +1,5 @@
 #翻墙软件Chrome+发布页 ![](https://oq1gjg.bl3301.livefilestore.com/y2mlLXDCNxE4Puvrh_LvWZjKjFJWNvFh1qLCNBpKa_ykS9zlKUsqg2lImG3Tje3vbcsJt9TWo3BLvQP5Bs8xM_hLPpT3mvfZEcjo6e4sfZqSoM7F4Tr2GuZ2rOGGGzLdFgc/chrome48.ico?psid=1)
 
-#### 公告：
-* 由于10月31日的版本发的仓促，没有仔细测试，造成不能正常使用。请下载了10月31日版本的朋友重新下载10月19日这一版使用。给您带来的不便和困惑表示深深的歉意。同时感谢及时提醒我的朋友。
-
 ####更新日志：
 * 2014年10月19日 发布全新200G流量。**之前版本用户如果还能用就不需要更新。**内存低于2G的电脑建议用[火狐版（这里）](https://github.com/comeforu2012/truth/wiki/FirefoxPlus)。
 * 稳定版核心程序是Chrome36(D)+GoAgent3.1.2（每天共享200G流量）
