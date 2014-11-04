@@ -20,8 +20,8 @@
 </table>
 
 #### 下载地址：
-> * **稳定版：** 暂未上传
->  * 百度盘B：
+> * **稳定版：** 
+>  * 百度盘B：http://pan.baidu.com/s/1dDCfv3N 提取密码：8e5p
 >  * Dropbox：
 > * **加速版：**
 >  * 百度盘B：http://pan.baidu.com/s/1o6JU2vC 提取密码：8u79
