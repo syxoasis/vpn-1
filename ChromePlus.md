@@ -21,13 +21,13 @@
 
 #### 下载地址：
 > * **稳定版：** 
->  * 百度盘B：http://pan.baidu.com/s/1dDCfv3N 提取密码：8e5p
+>  * 百度盘D：http://pan.baidu.com/s/1dDitgHV 提取密码：64ty
 >  * Dropbox：
 > * **加速版：**
->  * 百度盘B：http://pan.baidu.com/s/1o6JU2vC 提取密码：8u79
+>  * 百度盘D：http://pan.baidu.com/s/1hqj8Vli 提取密码：nosd
 >  * Dropbox：
 > * **注意：**请使用ie浏览器下载百度网盘的文件。Dropbox地址已经被墙，不能直接下载。
-> * INFO:〖BD5FGHJ〗
+> * INFO:〖B-D5FGHJ〗
 
 如果百度盘下载地址失效，请发邮件至 comeforu2012@gmail.com 提醒我。
 
