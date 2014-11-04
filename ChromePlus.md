@@ -22,10 +22,10 @@
 #### 下载地址：
 > * **稳定版：** 
 >  * 百度盘D：http://pan.baidu.com/s/1dDitgHV 提取密码：64ty
->  * Dropbox：
+>  * Dropbox：https://www.dropbox.com/s/c2jo6cx34lkhw24/Chrome36d_v2014.11.03a.7z?dl=0
 > * **加速版：**
 >  * 百度盘D：http://pan.baidu.com/s/1hqj8Vli 提取密码：nosd
->  * Dropbox：
+>  * Dropbox：https://www.dropbox.com/s/2iroumcjzku8yru/Chrome36d_v2014.11.03b.7z?dl=0
 > * **注意：**请使用ie浏览器下载百度网盘的文件。Dropbox地址已经被墙，不能直接下载。
 > * INFO:〖B-D5FGHJ〗
 
