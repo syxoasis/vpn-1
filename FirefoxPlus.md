@@ -1,11 +1,8 @@
 ##Firefox（火狐）+GoAgent，一键翻墙组合。
 
-### 动态：
-一两天内会发布新版，将Firefox内核升级到最新版v33.
-
 ####更新日志：
-* **2014年10月25日** 增加了个加速版。**使用之前版本的朋友，如果还能用就不需要更新。**
-* 稳定版核心程序是Firefox25.0+GoAgent3.1.2
+* **2014年11月6日** 将Firefox内核升级到v33.0.2。**使用之前版本的朋友，如果还能用就不需要更新。**
+* 稳定版核心程序是Firefox33.0.2+GoAgent3.1.2
 * 新朋友请从下面的下载地址下载完整的压缩包，本软件不需要安装，下载后将压缩包解压出来，解压路径中最好不要包含中文，然后双击运行FFgo.exe就可以同时启动代理软件和浏览器。（Win7系统需要右键点击FFgo.exe，然后再点**“以管理员身份运行”**）
 
 #### 版本区别：
@@ -24,20 +21,20 @@
 
 ####下载地址：
 > * **稳定版：**
->  * 百度盘H：http://pan.baidu.com/s/1i33jAAh 提取密码：4xwe
->  * Dropbox：https://www.dropbox.com/s/xb1fho8d336kcl1/FireFox_v2014.10.25a.7z?dl=0
+>  * 百度盘H：
+>  * Dropbox：
 > * **加速版：**
->  * 百度盘H：http://pan.baidu.com/s/1dDCLm7n 提取密码：f3wq
->  * Dropbox：https://www.dropbox.com/s/vemg8l4h3rhmvxy/FireFox_v2014.10.25b.7z?dl=0
-> * 〖D〗
+>  * 百度盘H：http://pan.baidu.com/s/1jGMe8fG 提取密码：jict
+>  * Dropbox：https://www.dropbox.com/s/m7sjtnvr18hsq17/Firefox33_2014.11.06b.7z?dl=0
+> * 〖〗
 
 `如果百度盘下载地址失效，请发邮件至 comeforu2012@gmail.com 提醒我。`
 
 **文件校验信息：**
-> * A【稳定版】FireFox_v2014.10.25a.7z
->  * MD5: B81CE3B1E4B30B2691D642456B99CDA3
-> * B【加速版】FireFox_v2014.10.25b.7z
->  * MD5: A0822FF8E13E03A0D4DC28613DB6E77E
+> * A【稳定版】Firefox33_2014.11.06a.7z
+>  * MD5: CCE55BDDD420022020DD069BFEFB4512
+> * B【加速版】Firefox33_2014.11.06b.7z
+>  * MD5: FC6D8C8A8C62B904505BE49F3279229E
 
 ####注意事项：
 * 电脑上需要安装用于火狐的flash插件才可以播放网页视频。
