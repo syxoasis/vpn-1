@@ -22,7 +22,7 @@
 ####下载地址：
 > * **稳定版：**
 >  * 百度盘H：http://pan.baidu.com/s/1hq5TAxY 提取密码：rkyq
->  * Dropbox：
+>  * Dropbox：https://www.dropbox.com/s/anlfsi0gscmzikw/Firefox33_2014.11.06a.7z?dl=0
 > * **加速版：**
 >  * 百度盘H：http://pan.baidu.com/s/1ntLY1Pf 提取密码：yn1i
 >  * Dropbox：https://www.dropbox.com/s/dclmmpys0300kyn/Firefox33_2014.11.06b.7z?dl=0
