@@ -1,7 +1,7 @@
 #翻墙软件ChromePlus_Beta发布页 ![](https://oq1gjg.bl3301.livefilestore.com/y2mlLXDCNxE4Puvrh_LvWZjKjFJWNvFh1qLCNBpKa_ykS9zlKUsqg2lImG3Tje3vbcsJt9TWo3BLvQP5Bs8xM_hLPpT3mvfZEcjo6e4sfZqSoM7F4Tr2GuZ2rOGGGzLdFgc/chrome48.ico?psid=1)
 
 ####关于Beta（测试版）：
-* 此页发布的是[ChromePlus](https://github.com/comeforu2012/truth/wiki/ChromePlus)的测试版，和[ChromePlus](https://github.com/comeforu2012/truth/wiki/ChromePlus)的主要区别就是此测试版使用的chrome内核版本比较新。但可能会有新版存在的问题，所以才称作测试版。
+* 此页发布的是[ChromePlus](https://github.com/comeforu2012/truth/wiki/ChromePlus)的测试版，和[ChromePlus](https://github.com/comeforu2012/truth/wiki/ChromePlus)的主要区别就是此测试版使用的chrome内核版本比较新。但可能会有新版存在的问题，也可能完全无法使用，所以才称其为测试版。
 
 #### 更新日志：
 2014年11月7日 发布新版。使用的chrome内核版本是v38(Dev)。
