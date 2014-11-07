@@ -21,20 +21,20 @@
 
 ####下载地址：
 > * **稳定版：**
->  * 百度盘H：暂未上传
->  * Dropbox：https://www.dropbox.com/s/guddkgy1jv2fxs4/Firefox33_2014.11.06a.7z?dl=0
+>  * 百度盘H：http://pan.baidu.com/s/1hq5TAxY 提取密码：rkyq
+>  * Dropbox：
 > * **加速版：**
->  * 百度盘H：http://pan.baidu.com/s/1jGMe8fG 提取密码：jict
->  * Dropbox：https://www.dropbox.com/s/m7sjtnvr18hsq17/Firefox33_2014.11.06b.7z?dl=0
+>  * 百度盘H：http://pan.baidu.com/s/1ntLY1Pf 提取密码：yn1i
+>  * Dropbox：https://www.dropbox.com/s/dclmmpys0300kyn/Firefox33_2014.11.06b.7z?dl=0
 > * 〖〗
 
 `如果百度盘下载地址失效，请发邮件至 comeforu2012@gmail.com 提醒我。`
 
 **文件校验信息：**
 > * A【稳定版】Firefox33_2014.11.06a.7z
->  * MD5: CCE55BDDD420022020DD069BFEFB4512
+>  * MD5: 2E73174EC344542080A6FB651E6559A2
 > * B【加速版】Firefox33_2014.11.06b.7z
->  * MD5: FC6D8C8A8C62B904505BE49F3279229E
+>  * MD5: 25961BD2705AA302FA6BA5D1B4A94E77
 
 ####注意事项：
 * 电脑上需要安装用于火狐的flash插件才可以播放网页视频。
