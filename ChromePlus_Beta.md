@@ -20,7 +20,7 @@
 </tbody>
 </table>
 
-#### 下载地址：暂未上传
+#### 下载地址：
 > * **稳定版：** 
 >  * 百度盘：http://pan.baidu.com/s/1c0xUqru 提取密码：zctl
 >  * Dropbox：
