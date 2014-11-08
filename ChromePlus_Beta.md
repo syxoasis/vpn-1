@@ -23,7 +23,7 @@
 #### 下载地址：
 > * **稳定版：** 
 >  * 百度盘：http://pan.baidu.com/s/1c0xUqru 提取密码：zctl
->  * Dropbox：
+>  * Dropbox：https://www.dropbox.com/s/1w3ymvcxknul849/Chrome38d_v2014.11.07a.7z?dl=0
 > * **加速版：**
 >  * 百度盘：
 >  * Dropbox：
