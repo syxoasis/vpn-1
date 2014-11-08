@@ -26,7 +26,7 @@
 >  * Dropbox：https://www.dropbox.com/s/1w3ymvcxknul849/Chrome38d_v2014.11.07a.7z?dl=0
 > * **加速版：**
 >  * 百度盘：
->  * Dropbox：
+>  * Dropbox：https://www.dropbox.com/s/bksmgja9k4tjdjo/Chrome38d_v2014.11.07b.7z?dl=0
 > * **注意：**请使用ie浏览器下载百度网盘的文件。Dropbox地址已经被墙，不能直接下载。
 > * INFO:〖B-D5FGHJ〗
 
@@ -34,7 +34,7 @@
 
 **文件校验信息：**
 > * A【稳定版】MD5: 82ADB63899859083D33733876DC708DA
-> * B【加速版】MD5: 
+> * B【加速版】MD5: 4799BDEFA742536C93E7762D301DC78F
 
 ####注意事项：
 * 需要**以管理员身份运行**Chrome+.exe才可以自动导入goagnt证书，如果没有导入证书，那么在访问YouTube、Facebook等https开头网址时就会出现SSL错误，如果是因为证书没有自动导入，那么你也可以手动导入证书。方法：http://goo.gl/SXaoej
