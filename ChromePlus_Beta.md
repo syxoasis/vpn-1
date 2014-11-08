@@ -25,7 +25,7 @@
 >  * 百度盘：http://pan.baidu.com/s/1c0xUqru 提取密码：zctl
 >  * Dropbox：https://www.dropbox.com/s/1w3ymvcxknul849/Chrome38d_v2014.11.07a.7z?dl=0
 > * **加速版：**
->  * 百度盘：
+>  * 百度盘：http://pan.baidu.com/s/1rSHVw 提取密码：lpqp
 >  * Dropbox：https://www.dropbox.com/s/bksmgja9k4tjdjo/Chrome38d_v2014.11.07b.7z?dl=0
 > * **注意：**请使用ie浏览器下载百度网盘的文件。Dropbox地址已经被墙，不能直接下载。
 > * INFO:〖B-D5FGHJ〗
