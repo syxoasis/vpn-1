@@ -1,7 +1,7 @@
 #翻墙软件Chrome+发布页 ![](https://oq1gjg.bl3301.livefilestore.com/y2mlLXDCNxE4Puvrh_LvWZjKjFJWNvFh1qLCNBpKa_ykS9zlKUsqg2lImG3Tje3vbcsJt9TWo3BLvQP5Bs8xM_hLPpT3mvfZEcjo6e4sfZqSoM7F4Tr2GuZ2rOGGGzLdFgc/chrome48.ico?psid=1)
 
 ### 公告：
-* 2014年11月12日 今天测试发现**加速版不能正常使用**，还不知是不是普遍现象，所以之前在用加速版的朋友如果不能正常使用**请暂时改用稳定版**。
+* 2014年11月12日 今天测试发现**加速版不能正常使用**，正在用加速版的朋友**请暂时改用稳定版**。
 
 ####更新日志：
 * 2014年11月3日 更新流量。**之前版本用户如果还能用就不需要更新。**内存低于2G的电脑建议用[火狐版（这里）](https://github.com/comeforu2012/truth/wiki/FirefoxPlus)。
