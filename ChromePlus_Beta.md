@@ -13,27 +13,10 @@
 #### 使用方法：
 * 请从下面的下载地址下载完整的压缩包，本软件不需要安装，下载后将压缩包解压出来，解压路径中最好不要包含中文，然后双击运行Chrome+.exe就可以同时启动代理软件和浏览器。（Win7系统需要右键点击Chrome+.exe，然后再点**“以管理员身份运行”**）
 
-#### 版本区别：
-<table>
-<tbody>
-<tr>
-<td>稳定版</td>
-<td align="left">使用谷歌全球的服务器，内含通道检测器，建议有经验的朋友使用。</td>
-</tr>
-<tr>
-<td>加速版</td>
-<td align="left">使用谷歌中国的服务器，速度快，但不适合一些上传操作，适合翻墙新手。</td>
-</tr>
-</tbody>
-</table>
-
 #### 下载地址：
 > * **稳定版：** 
 >  * 百度盘：http://pan.baidu.com/s/1c0xUqru 提取密码：zctl
 >  * Dropbox：https://www.dropbox.com/s/1w3ymvcxknul849/Chrome38d_v2014.11.07a.7z?dl=0
-> * **加速版：**
->  * 百度盘：http://pan.baidu.com/s/1rSHVw 提取密码：lpqp
->  * Dropbox：https://www.dropbox.com/s/bksmgja9k4tjdjo/Chrome38d_v2014.11.07b.7z?dl=0
 > * **注意：**请使用ie浏览器下载百度网盘的文件。Dropbox地址已经被墙，不能直接下载。
 > * INFO:〖B-D5FGHJ〗
 
@@ -41,7 +24,6 @@
 
 **文件校验信息：**
 > * A【稳定版】MD5: 82ADB63899859083D33733876DC708DA
-> * B【加速版】MD5: 4799BDEFA742536C93E7762D301DC78F
 
 ####注意事项：
 * 需要**以管理员身份运行**Chrome+.exe才可以自动导入goagnt证书，如果没有导入证书，那么在访问YouTube、Facebook等https开头网址时就会出现SSL错误，如果是因为证书没有自动导入，那么你也可以手动导入证书。方法：http://goo.gl/SXaoej
