@@ -8,27 +8,10 @@
 * 稳定版核心程序是Firefox33.0.2+GoAgent3.1.2
 * 请从下面的下载地址下载完整的压缩包，本软件不需要安装，下载后将压缩包解压出来，解压路径中最好不要包含中文，然后双击运行FFgo.exe就可以同时启动代理软件和浏览器。（Win7系统需要右键点击FFgo.exe，然后再点**“以管理员身份运行”**）
 
-#### 版本区别：
-<table>
-<tbody>
-<tr>
-<td>稳定版</td>
-<td align="left">使用谷歌全球的服务器，内含通道检测器，建议有经验的朋友使用。</td>
-</tr>
-<tr>
-<td>加速版</td>
-<td align="left">使用谷歌中国的服务器，速度快，但不适合一些上传操作，适合翻墙新手。</td>
-</tr>
-</tbody>
-</table>
-
 ####下载地址：
 > * **稳定版：**
 >  * 百度盘H：http://pan.baidu.com/s/1ntHUKaP 提取密码：qs2k
 >  * Dropbox：https://www.dropbox.com/s/anlfsi0gscmzikw/Firefox33_2014.11.06a.7z?dl=0
-> * **加速版：**
->  * 百度盘H：http://pan.baidu.com/s/1sjyPGRF 提取密码：qtgn
->  * Dropbox：https://www.dropbox.com/s/dclmmpys0300kyn/Firefox33_2014.11.06b.7z?dl=0
 > * 〖〗
 
 `如果百度盘下载地址失效，请发邮件至 comeforu2012@gmail.com 提醒我。`
@@ -36,8 +19,6 @@
 **文件校验信息：**
 > * A【稳定版】Firefox33_2014.11.06a.7z
 >  * MD5: D95523F47BC1E637550A08DA68B44261
-> * B【加速版】Firefox33_2014.11.06b.7z
->  * MD5: F5F3B14C704E48F03043A113BB1C06DE
 
 ####注意事项：
 * 电脑上需要安装用于火狐的flash插件才可以播放网页视频。
