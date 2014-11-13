@@ -8,35 +8,19 @@
 * 稳定版核心程序是Chrome36(D)+GoAgent3.1.2（每天共享多G流量）
 * 请从下面的下载地址下载完整的压缩包，本软件不需要安装，下载后将压缩包解压出来，解压路径中最好不要包含中文，然后双击运行Chrome+.exe就可以同时启动代理软件和浏览器。（Win7系统需要右键点击Chrome+.exe，然后再点**“以管理员身份运行”**）
 
-#### 版本区别：
-<table>
-<tbody>
-<tr>
-<td>稳定版</td>
-<td align="left">使用谷歌全球的服务器，内含通道检测器，建议有经验的朋友使用。</td>
-</tr>
-<tr>
-<td>加速版</td>
-<td align="left">使用谷歌中国的服务器，速度快，但不适合一些上传操作，适合翻墙新手。</td>
-</tr>
-</tbody>
-</table>
-
 #### 下载地址：
-> * **稳定版：** 
->  * 百度盘：http://pan.baidu.com/s/1bnvU483 提取密码：jvn4
+> * **稳定版：**
+>  * 百度盘：http://pan.baidu.com/s/1dDq0L8X 提取密码：3n6c
 >  * Dropbox：https://www.dropbox.com/s/c2jo6cx34lkhw24/Chrome36d_v2014.11.03a.7z?dl=0
-> * **加速版：**
->  * 百度盘：http://pan.baidu.com/s/1xY3i2 提取密码：prlc
->  * Dropbox：https://www.dropbox.com/s/2iroumcjzku8yru/Chrome36d_v2014.11.03b.7z?dl=0
 > * **注意：**请使用ie浏览器下载百度网盘的文件。Dropbox地址已经被墙，不能直接下载。
 > * INFO:〖BD5FGH-J〗
 
 如果百度盘下载地址失效，请发邮件至 comeforu2012@gmail.com 提醒我。
 
 **文件校验信息：**
-> * A【稳定版】MD5: A57DBD23953ED6F824344511A0B4D20E
-> * B【加速版】MD5: DFD9DA1F1F14BCC56B5BE8C62E96A92D
+> * 文件名：Chrome36d_v2014.11.03a
+> * MD5: A57DBD23953ED6F824344511A0B4D20E
+
 
 ####注意事项：
 * 需要**以管理员身份运行**Chrome+.exe才可以自动导入goagnt证书，如果没有导入证书，那么在访问YouTube、Facebook等https开头网址时就会出现SSL错误，如果是因为证书没有自动导入，那么你也可以手动导入证书。方法：http://goo.gl/SXaoej
