@@ -4,22 +4,23 @@
 * 2014年11月12日测试发现**加速版不能正常使用**，正在用加速版的朋友**请暂时改用稳定版**。
 
 ####更新日志：
+* 2014年11月20日 修复11月15日版本在访问Gmail等谷歌旗下网站出错的问题。
 * 2014年11月15日 更新流量。**之前版本用户如果还能用就不需要更新。**内存低于2G的电脑建议用[火狐版（这里）](https://github.com/comeforu2012/truth/wiki/FirefoxPlus)。
 * 稳定版核心程序是Chrome36(D)+GoAgent3.1.2（每天共享多G流量）
 * 请从下面的下载地址下载完整的压缩包，本软件不需要安装，下载后将压缩包解压出来，解压路径中最好不要包含中文，然后双击运行Chrome+.exe就可以同时启动代理软件和浏览器。（Win7系统需要右键点击Chrome+.exe，然后再点**“以管理员身份运行”**）
 
 #### 下载地址：
 > * **稳定版：**
->  * 百度盘：http://pan.baidu.com/s/1sjFeYlB 提取密码：txvy
->  * Dropbox：https://www.dropbox.com/s/tl82nsl5kacxqto/Chrome36d_v2014.11.15a.7z?dl=0
+>  * 百度盘：http://pan.baidu.com/s/1fbMkm 提取密码：recn
+>  * Dropbox：
 > * **注意：**请使用ie浏览器下载百度网盘的文件。Dropbox地址已经被墙，不能直接下载。
 > * INFO:〖BD-5FGHJK〗
 
 如果百度盘下载地址失效，请发邮件至 comeforu2012@gmail.com 提醒我。
 
 **文件校验信息：**
-> * 文件名：Chrome36d_v2014.11.15a
-> * MD5: 2F39956AF43B1F7C288E63081DC8DBA2
+> * 文件名：Chrome36d_v2014.11.20a
+> * MD5: 589ADFCE8F75B879D83BBD22061F9FA4
 
 
 ####注意事项：
