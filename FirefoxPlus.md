@@ -10,7 +10,7 @@
 
 ####下载地址：
 > * **稳定版：**
->  * 百度盘H：http://pan.baidu.com/s/1ntHUKaP 提取密码：qs2k
+>  * 百度盘H：http://pan.baidu.com/s/1dD8HUEH 提取密码：qoto
 >  * Dropbox：https://www.dropbox.com/s/anlfsi0gscmzikw/Firefox33_2014.11.06a.7z?dl=0
 > * 〖〗
 
