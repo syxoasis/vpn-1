@@ -10,9 +10,9 @@
 
 ####下载地址：
 > * **稳定版：**
->  * 百度盘H：http://pan.baidu.com/s/1dD8HUEH 提取密码：qoto
+>  * 百度盘：http://pan.baidu.com/s/1dD8HUEH 提取密码：qoto
 >  * Dropbox：https://www.dropbox.com/s/anlfsi0gscmzikw/Firefox33_2014.11.06a.7z?dl=0
-> * 〖〗
+> * 〖H-J〗
 
 `如果百度盘下载地址失效，请发邮件至 comeforu2012@gmail.com 提醒我。`
 
