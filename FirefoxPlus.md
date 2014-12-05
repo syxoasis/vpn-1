@@ -1,8 +1,5 @@
 ## FirefoxPlus，一键翻墙。
 
-### 公告：
-* 2014年11月12日测试发现**加速版不能正常使用**，正在用加速版的朋友**请暂时改用稳定版**。
-
 ####更新日志：
 * **2014年11月6日** 将Firefox内核升级到v33.0.2。**使用之前版本的朋友，如果还能用就不需要更新。**
 * 稳定版核心程序是Firefox33.0.2+GoAgent3.1.2
@@ -10,9 +7,9 @@
 
 ####下载地址：
 > * **稳定版：**
->  * 百度盘：http://pan.baidu.com/s/1dD8HUEH 提取密码：qoto
+>  * 百度盘：http://pan.baidu.com/s/1qWPqML2 提取密码：hffy
 >  * Dropbox：https://www.dropbox.com/s/anlfsi0gscmzikw/Firefox33_2014.11.06a.7z?dl=0
-> * 〖H-J〗
+> * 〖HJ-K〗
 
 `如果百度盘下载地址失效，请发邮件至 comeforu2012@gmail.com 提醒我。`
 
