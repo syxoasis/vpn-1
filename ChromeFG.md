@@ -8,9 +8,9 @@
 ####下载地址：
 
  几个下载地址是一样的文件，任选一个下载。
-> * 百度盘[出]：http://pan.baidu.com/s/1o6kHJQE 提取密码：htx7
+> * 百度盘[翻]：http://pan.baidu.com/s/1pJwS4Dd 提取密码：lqtf
 > * 微软网盘：http://1drv.ms/1vlF9W9
-> * `百度盘：【FG】`
+> * `百度盘：【FG出】`
 
  文件校验信息：
 
