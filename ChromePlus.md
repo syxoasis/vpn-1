@@ -8,7 +8,7 @@
 #### 下载地址：
 > * **稳定版：**
 >  * 百度盘：http://pan.baidu.com/s/1kTuYMbl 提取密码：ypvo
->  * Dropbox：
+>  * Dropbox：https://www.dropbox.com/s/yzd9yqwwib0ejru/Chrome36d_v2014.12.05a.7z?dl=0
 > * **注意：**请使用ie浏览器下载百度网盘的文件。Dropbox地址已经被墙，不能直接下载。
 > * INFO:〖BD5FGHJK〗
 
