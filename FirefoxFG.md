@@ -7,7 +7,7 @@
 ####下载地址：
 
  几个下载地址是一样的文件，任选一个下载。
-> * 百度盘〖水〗：http://pan.baidu.com/s/1gdnDPsR 提取密码：6puq
+> * 百度盘〖帆〗：http://pan.baidu.com/s/1sjz6tLN 提取密码：j5x0
 > * 微软网盘：http://1drv.ms/1sNSndG
 > * `百度盘：【普帆】`
 
