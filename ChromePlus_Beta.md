@@ -15,7 +15,7 @@
 
 #### 下载地址：
 > * **稳定版：** 
->  * 百度盘：http://pan.baidu.com/s/1c0xUqru 提取密码：zctl
+>  * 百度盘：http://pan.baidu.com/s/1bn6e4eb 提取密码：j7gd
 >  * Dropbox：https://www.dropbox.com/s/1w3ymvcxknul849/Chrome38d_v2014.11.07a.7z?dl=0
 > * **注意：**请使用ie浏览器下载百度网盘的文件。Dropbox地址已经被墙，不能直接下载。
 > * INFO:〖B-D5FGHJ〗
