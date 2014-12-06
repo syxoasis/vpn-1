@@ -19,7 +19,7 @@
 
 ####注意事项：
 * 电脑上需要安装用于火狐的flash插件才可以播放网页视频。
- *  用于火狐的Flash插件：http://download.macromedia.com/pub/flashplayer/current/support/install_flash_player.exe
+ *  用于火狐的Flash插件：http://www.xiazaiba.com/html/2936.html
 
 #### 防火墙规则：
 1. 如果你没有使用防火墙软件，而是使用Windows系统自带的防火墙，当系统防火墙提示“已阻止了此程序的部分功能”，名称或者路径指向的是python27.exe，如果遇到这种情况，XP系统点“保持阻止”，Win7系统直接关闭警告窗口。
