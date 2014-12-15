@@ -7,7 +7,7 @@
 
 ####下载地址：
 > * **稳定版：**
->  * 百度盘：http://pan.baidu.com/s/1bnjJOMN 提取密码：ak3h
+>  * 百度盘：http://pan.baidu.com/s/1sj9FRsT 提取密码：wxm4
 >  * Dropbox：https://www.dropbox.com/s/f7potgrwobe3c3f/Firefox33_2014.12.08a.7z?dl=0
 > * 〖HJK〗
 
