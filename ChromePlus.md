@@ -1,7 +1,7 @@
 #翻墙软件Chrome+发布页 ![](https://oq1gjg.bl3301.livefilestore.com/y2mlLXDCNxE4Puvrh_LvWZjKjFJWNvFh1qLCNBpKa_ykS9zlKUsqg2lImG3Tje3vbcsJt9TWo3BLvQP5Bs8xM_hLPpT3mvfZEcjo6e4sfZqSoM7F4Tr2GuZ2rOGGGzLdFgc/chrome48.ico?psid=1)
 
 ####更新日志：
-* 2014年12月18日 此次更新删除了click&clean扩展，调整了一些设置。**之前版本用户如果还能用就不需要更新。**内存低于2G的电脑建议用[火狐版（这里）](https://github.com/comeforu2012/truth/wiki/FirefoxPlus)。
+* 2014年12月18日 此次更新删除了click&clean扩展，将flash插件升级到16.0.0.235，调整了一些设置。**之前版本用户如果还能用就不需要更新。**内存低于2G的电脑建议用[火狐版（这里）](https://github.com/comeforu2012/truth/wiki/FirefoxPlus)。
 * 稳定版核心程序是Chrome36(D)+GoAgent3.1.2（每天共享多G流量）
 * 请从下面的下载地址下载完整的压缩包，本软件不需要安装，下载后将压缩包解压出来，解压路径中最好不要包含中文，然后双击运行Chrome+.exe就可以同时启动代理软件和浏览器。（Win7系统需要右键点击Chrome+.exe，然后再点**“以管理员身份运行”**）
 
