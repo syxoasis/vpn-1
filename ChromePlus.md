@@ -10,7 +10,7 @@
 >  * 百度盘：http://pan.baidu.com/s/1mgDTUBY 提取密码：cnxr
 >  * Dropbox：https://www.dropbox.com/s/50fdrk11u9l0mzy/Chrome36d_v2014.12.18a.7z?dl=0
 > * **注意：**请使用ie浏览器下载百度网盘的文件。Dropbox地址已经被墙，不能直接下载。
-> * INFO:〖B5FGHJK〗
+> * INFO:〖B-5FGHJK〗
 
 如果百度盘下载地址失效，请发邮件至 comeforu2012@gmail.com 提醒我。
 
