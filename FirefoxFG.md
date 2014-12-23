@@ -19,4 +19,8 @@
 >  * MD5: E8606308E82301AB85D4B2AAFCBCFAAA
 >  * SHA1: AD0E0A88A308C9A58B9EDEB8F3FE57C6B53CF7DD
 
+####注意事项：
+* 电脑上需要安装用于火狐的flash插件才可以播放网页视频。
+ *  用于火狐的Flash插件：http://www.xiazaiba.com/html/2936.html
+
 ##[本页面短网址：is.gd/FirefoxFG](http://is.gd/FirefoxFG)
