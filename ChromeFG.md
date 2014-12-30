@@ -8,9 +8,9 @@
 ####下载地址：
 
  几个下载地址是一样的文件，任选一个下载。
-> * 百度盘[翻]：http://pan.baidu.com/s/1pJ2sEbp 提取密码：hg9b
+> * 百度盘[翻]：http://pan.baidu.com/s/1i3FwtYP 提取密码：l3xo
 > * 微软网盘：http://1drv.ms/1xHiW9P
-> * `百度盘：【FG出】`
+> * `百度盘：【FG出-帆】`
 
  文件校验信息：
 
