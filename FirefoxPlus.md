@@ -8,9 +8,9 @@
 
 ####下载地址：
 > * **稳定版：**
->  * 百度盘：http://pan.baidu.com/s/1jGiPS94 提取密码：cgl1
+>  * 百度盘：http://pan.baidu.com/s/1dD9yOwx 提取密码：nfct
 >  * Dropbox：https://www.dropbox.com/s/f7potgrwobe3c3f/Firefox33_2014.12.08a.7z?dl=0
-> * 〖HJ-K〗
+> * 〖HJK-出〗
 
 `如果百度盘下载地址失效，请发邮件至 comeforu2012@gmail.com 提醒我。`
 
