@@ -1,7 +1,8 @@
 #翻墙软件ChromePlus_Beta发布页 ![](https://oq1gjg.bl3301.livefilestore.com/y2mlLXDCNxE4Puvrh_LvWZjKjFJWNvFh1qLCNBpKa_ykS9zlKUsqg2lImG3Tje3vbcsJt9TWo3BLvQP5Bs8xM_hLPpT3mvfZEcjo6e4sfZqSoM7F4Tr2GuZ2rOGGGzLdFgc/chrome48.ico?psid=1)
 
 ### 公告：
-* 2014年11月12日测试发现**加速版不能正常使用**，正在用加速版的朋友**请暂时改用稳定版**。
+* 近段时间，由于谷歌ip在中国被封锁的越来越严重，致使本软件的翻墙效果受到明显的影响，表现上是速度变慢，软件黑色窗口内会出现大量黄色字，目前最好的解决办法是自己经常搜一些还可以用的ip替换到软件中，**[方法点这里](https://github.com/comeforu2012/FQ_FAQ/wiki/GoGo234%E6%95%99%E7%A8%8B)**。每个人自己按照这个方法搜到的ip能用的长久一点，比如我自己一个月前搜到的几十个ip现在还能用。以后，如果对谷歌的ip封锁更严重的时候，那么本软件将会停止更新。。朋友们现在就应该多备几种翻墙方法了，我维护的翻墙软件项目列表在这里：https://github.com/comeforu2012/truth/wiki
+* 另外推荐一种网页代理方式：[**聚缘阁代理**（点此转到网站）](https://pipes.yahoo.com/pipes/pipe.run?_id=7d1e509cfd3a413344bd44c69974f4b0)[（点此查看二维码）](https://camo.githubusercontent.com/de4ffdae07f6370528de5897a425f9cb543d8ac8/68747470733a2f2f7a74717370712e626c333330312e6c69766566696c6573746f72652e636f6d2f79326d74364f67766a6643594f4f453359684a4f62414668534c5f576844786c514b4e4a38366d785866485f445875437465316667687a4d4f6737664b37504145554a746b2d324f42536f52647443514862624f637a56442d6947796635486375464d413537395434464e7476766259546a6735615f6a54783041322d4e724b4f38337a2d526b4f34437a3769684c2d766f56725a71795659516c384b39647049394148493846526863306c54732f4a5947444c2e706e673f707369643d31)，可以轻松简单的访问墙外网站，浏览器直接访问，无需安装。
 
 ####关于Beta（测试版）：
 * 此页发布的是[ChromePlus](https://github.com/comeforu2012/truth/wiki/ChromePlus)的测试版，和[ChromePlus](https://github.com/comeforu2012/truth/wiki/ChromePlus)的主要区别就是此测试版使用的chrome内核版本比较新。但可能会有新版存在的问题，所以才称其为测试版。
