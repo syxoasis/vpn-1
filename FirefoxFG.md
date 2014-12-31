@@ -8,9 +8,9 @@
 ####下载地址：
 
  几个下载地址是一样的文件，任选一个下载。
-> * 百度盘〖帆〗：http://pan.baidu.com/s/1c0bATIo 提取密码：jc8d
+> * 百度盘〖帆〗：http://pan.baidu.com/s/1c0AgRSk 提取密码：m1fe
 > * 微软网盘：http://1drv.ms/1zemtb4
-> * `百度盘：【普帆-水】`
+> * `百度盘：【普帆水-L】`
 
  文件校验信息：
 
