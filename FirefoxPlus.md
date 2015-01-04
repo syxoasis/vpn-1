@@ -11,9 +11,9 @@
 
 ####下载地址：
 > * **稳定版：**
->  * 百度盘：http://pan.baidu.com/s/1kT7kJrT 提取密码：9uyb
+>  * 百度盘：http://pan.baidu.com/s/1eQAcSz4 提取密码：7h2h
 >  * Dropbox：https://www.dropbox.com/s/f7potgrwobe3c3f/Firefox33_2014.12.08a.7z?dl=0
-> * 〖HJK-出-5〗
+> * 〖HJK-出5〗
 
 `如果百度盘下载地址失效，请发邮件至 comeforu2012@gmail.com 提醒我。`
 
