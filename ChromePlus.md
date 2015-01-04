@@ -11,10 +11,10 @@
 
 #### 下载地址：
 > * **稳定版：**
->  * 百度盘：http://pan.baidu.com/s/1dDhECEl 提取密码：xv6k
+>  * 百度盘：http://pan.baidu.com/s/12d3Oi 提取密码：18b7
 >  * Dropbox：https://www.dropbox.com/s/sfs321sfu8vbwua/Chrome36d_v2014.12.18a.7z?dl=0
 > * **注意：**请使用ie浏览器下载百度网盘的文件。Dropbox地址已经被墙，不能直接下载。
-> * INFO:〖B5F-GHJK〗
+> * INFO:〖B5FGH-JK〗
 
 如果百度盘下载地址失效，请发邮件至 comeforu2012@gmail.com 提醒我。
 
