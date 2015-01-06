@@ -9,7 +9,7 @@
 
  几个下载地址是一样的文件，任选一个下载。
 > * 百度盘：
-> * 好盘：http://howfile.com/file/ca1df601/b21b1a51/
+> * 好盘：http://howfile.com/file/d6wfyr2/63323ee0/
 > * 微软网盘：http://1drv.ms/1xHiW9P
 > * `百度盘：【FG出帆L出翻 N】`
 
