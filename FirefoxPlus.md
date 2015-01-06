@@ -12,7 +12,7 @@
 ####下载地址：
 > * 百度盘：http://pan.baidu.com/s/1bn93hzL 提取密码：3q9p
 > * Dropbox：https://www.dropbox.com/s/gh3aqlqich4mdl1/Firefox33_v2015.01.05.7z?dl=0
-> * 〖H-JK出5M〗
+> * INFO:〖B 5FGHJKLMNPQ〗
 
 `如果百度盘下载地址失效，请发邮件至 comeforu2012@gmail.com 提醒我。`
 
