@@ -8,10 +8,10 @@
 ####下载地址：
 
  几个下载地址是一样的文件，任选一个下载。
-> * 百度盘：
+> * 百度盘：http://pan.baidu.com/s/1eQlGwD0 提取密码：oha7
 > * 好盘：http://howfile.com/file/d6wfyr2/f68c9ee0/
 > * 微软网盘：http://1drv.ms/1zemtb4
-> * `百度盘：【普帆水L N】`
+> * `百度盘：【普帆水LN】`
 
  文件校验信息：
 
