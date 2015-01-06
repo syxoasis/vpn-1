@@ -11,6 +11,7 @@
 
 ####下载地址：
 > * 百度盘：http://pan.baidu.com/s/1bn93hzL 提取密码：3q9p
+> * 好盘：http://howfile.com/file/ca1df601/113ddb32/
 > * Dropbox：https://www.dropbox.com/s/gh3aqlqich4mdl1/Firefox33_v2015.01.05.7z?dl=0
 > * INFO:〖B 5FGHJKLMNPQ〗
 
