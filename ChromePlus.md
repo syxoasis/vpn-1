@@ -12,6 +12,7 @@
 #### 下载地址：
 > * **稳定版：**
 >  * 百度盘：http://pan.baidu.com/s/1jG23n5W 提取密码：0sw1
+>  * 好盘：http://howfile.com/file/ca1df601/817ad143/
 >  * Dropbox：https://www.dropbox.com/s/sfs321sfu8vbwua/Chrome36d_v2014.12.18a.7z?dl=0
 > * **注意：**请使用ie浏览器下载百度网盘的文件。Dropbox地址已经被墙，不能直接下载。
 > * INFO:〖B 5FGHJKLMNPQ〗
