@@ -11,7 +11,7 @@
 > * 百度盘：http://pan.baidu.com/s/1pJnzX7l 提取密码：u5iw
 > * 好盘：http://howfile.com/file/d6wfyr2/63323ee0/
 > * 微软网盘：http://1drv.ms/1xHiW9P
-> * `百度盘：【FG出帆L出翻 N】`
+> * `百度盘：【FG出帆L翻N-水】`
 
  文件校验信息：
 
