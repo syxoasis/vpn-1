@@ -26,7 +26,7 @@
 ![](https://ztomjw.bl3301.livefilestore.com/y2mg6PK3VV690pgq9uqMhSPbGZVSeH6wIwOFfOoITGnkKQeUbRCQCKmq46yTR-m3EmGHAH4C-hurA5NEx5mhFl68A4S2RJ_Lc-suo9kujIHgW53NJ6vydZa1tVYG15UxWOlx9YnfZWDrLnuHdjW3pSlNw3mZlSVj2CFycSklUoNB3g/Image%209.png?psid=1)
 
 找到20个ip可能需要几分钟或者更长时间，取决于你那里的网络封锁情况，还和你的系统是否修改过TCP/IP的半开连接数有关。
-找到可用的ip后，左键点一下下图箭头所指的**证书**那个位置，这样是将搜到的ip排序，让有效的排在最上面（注意那个小三角的尖向上），**GA**开头的是有效的、可以用的，如果有搜到NN开头的那就是不能用的。
+找到可用的ip后，左键点一下下图箭头所指的**证书**那个位置，这样是将搜到的ip排序，让有效的排在最上面（注意那个小三角的尖向上），**GA**开头的是有效的、可以用的，如果有搜到NN开头的那就是不能用的（注：也有特殊情况，如果你电脑安装了360软件，那么很可能明明搜到的ip是可用的但是显示的却是NN开头，这样你就用这些NN的）。
 
 ![](https://ztomjw.bl3301.livefilestore.com/y2mv_dKPVgOgJB20gVApEHIjx0rt46WaD-K701wGzvSKYlNaZQie4wcD4JC_dhHmjl_OXQ9MJLBKIc_G_RfVraxSkVZ7IJBoUqo0KvpLYvX0FmuU5pcq2_Gz-mE84iEbXStvTmYw5M_MnuioRd5Go2C-s-z_dd5KTpvZufySuk0G6o/Image%208.png?psid=1)
 
