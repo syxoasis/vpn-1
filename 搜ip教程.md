@@ -38,7 +38,7 @@
 
 ![](https://msafyw.bl3301.livefilestore.com/y2mBPg2d9WoL0EGMefovH_dbmZwcTEh0QyqMmH62K9gfzE6U97IBeUrLMP4YWnihuumCEl_Pc4f0mAdTMG9WfgPWwGPgDgjTvj7HQVywvamfxQ/image014.png?psid=1)
 
-点击“**确定**”，并关闭GoGo软件，再重新打开Chrome+.exe或FFgo.exe就可以翻出去了。
+点击“**确定**”，并关闭GoGo软件，再重新打开**Chrome+.exe**或**FFgo.exe**就可以翻出去了。
 **注：**如果GoGo窗口无法关闭，那就运行Agent文件夹内的“强退GoGo进程.bat”那个批处理。
 
 ***
