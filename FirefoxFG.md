@@ -8,7 +8,7 @@
 ####下载地址：
 
  几个下载地址是一样的文件，任选一个下载。
-> * 百度盘：http://pan.baidu.com/s/13z5IA 提取密码：gva7
+> * 百度盘：http://pan.baidu.com/s/1qW3DhCS 提取密码：klwt
 > * 好盘：http://howfile.com/file/d6wfyr2/f68c9ee0/
 > * 微软网盘：http://1drv.ms/1zemtb4
 > * `百度盘：【普 帆水LN】`
