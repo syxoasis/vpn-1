@@ -14,7 +14,7 @@
 > * 好盘：http://howfile.com/file/d6wfyr2/4abf08b1/
 > * Dropbox：https://www.dropbox.com/s/0dr7aaa0o4fmjmu/Chrome36d_v2015.01.12a.7z?dl=0
 > * **注意：**请使用ie浏览器下载百度网盘的文件。Dropbox地址已经被墙，不能直接下载。
-> * INFO:〖B5FGHJKL-MNPQ〗
+> * INFO:〖B5FGHJKLM-NPQ〗
 
 如果百度盘下载地址失效，请发邮件至 comeforu2012@gmail.com 提醒我。
 
