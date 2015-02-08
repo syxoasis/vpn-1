@@ -10,17 +10,17 @@
 * 请从下面的下载地址下载完整的压缩包，本软件不需要安装，下载后将压缩包解压出来，解压路径中最好不要包含中文，然后双击运行Chrome+.exe就可以同时启动代理软件和浏览器。（Win7系统需要右键点击Chrome+.exe，然后再点**“以管理员身份运行”**）
 
 #### 下载地址：
-> * 百度盘：http://pan.baidu.com/s/1bncZY0n 提取密码：n7cd
-> * 好盘：http://howfile.com/file/d6wfyr2/fe40d274/
-> * Dropbox：https://www.dropbox.com/s/53ydd9gbhc1uheb/Chrome36_v2015.01.31.7z?dl=0
+> * 百度盘：http://pan.baidu.com/s/1dD8efmh 提取密码：vgij
+> * 好盘：http://howfile.com/file/d6wfyr2/ad7ebfd5/
+> * Dropbox：https://www.dropbox.com/s/1x6hvqeulstrg5c/Chrome36_v2015.01.31a.7z?dl=0
 > * **注意：**请使用ie浏览器下载百度网盘的文件。Dropbox地址已经被墙，不能直接下载。
-> * INFO:〖B5F－GHJKLMNPQ〗
+> * INFO:〖B5FG/-HJKLMNPQ〗
 
 如果百度盘下载地址失效，请发邮件至 comeforu2012@gmail.com 提醒我。
 
 **文件校验信息：**
-> * 文件名：Chrome36_v2015.01.31.7z
-> * MD5: 0F18A6D59A07572B2EFAC106DE484F0D
+> * 文件名：Chrome36_v2015.01.31a.7z
+> * MD5: 780136C8DCBCEA01F3D84022E42F0F8D
 
 
 ####注意事项：
