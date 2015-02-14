@@ -13,7 +13,7 @@
 > * 百度盘：http://pan.baidu.com/s/1nt1cndn 提取密码：j9ql
 > * 好盘：http://howfile.com/file/d6wfyr2/ff4f2f8b/
 > * Dropbox：https://www.dropbox.com/s/gh3aqlqich4mdl1/Firefox33_v2015.01.05.7z?dl=0
-> * INFO:〖B5FGHJKLM-NPQ〗
+> * INFO:〖B5FGHJKLMN－PQ〗
 
 `如果百度盘下载地址失效，请发邮件至 comeforu2012@gmail.com 提醒我。`
 
