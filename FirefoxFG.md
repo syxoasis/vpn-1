@@ -11,7 +11,7 @@
 > * 百度盘：http://yun.baidu.com/wap/link?uk=3642868606&shareid=2765715300&third=0
 > * 好盘：http://howfile.com/file/d6wfyr2/f68c9ee0/
 > * 微软网盘：http://1drv.ms/1zemtb4
-> * `百度盘：【普帆水 LN】`
+> * `百度盘：【普帆水L－N】`
 
  文件校验信息：
 
