@@ -8,10 +8,10 @@
 ####下载地址：
 
  几个下载地址是一样的文件，任选一个下载。
-> * 百度盘：http://pan.baidu.com/s/1qW5FlAs 提取密码：al0o
+> * 百度盘：http://yun.baidu.com/wap/link?uk=1948329854&shareid=2811240658&third=0
 > * 好盘：http://howfile.com/file/d6wfyr2/63323ee0/
 > * 微软网盘：http://1drv.ms/1xHiW9P
-> * `百度盘：【FG出帆 L翻N-水】`
+> * `百度盘：【FG出帆－L翻N水】`
 
  文件校验信息：
 
