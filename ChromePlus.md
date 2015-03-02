@@ -13,11 +13,11 @@
 * **安全提醒：**最好别用360、QQ电脑管家等国内公司的软件，它搜集用户的上网行为，你访问哪个国外网站它都记录了，这就等于是窃取你的隐私，这些隐私暴露给它们对你一点好处也没有。我真的不是吓唬你。而且360这样的软件还会在你访问国外一些网站的时候进行拦截，QQ电脑管家有时还会直接删除本软件的主程序，很多反馈来的问题都是此类软件造成的。所以我建议你还是卸载国内公司的安全防护类软件，改用国外公司的吧。比如小红伞、Avast、Comodo等。
 
 #### 下载地址：
-> * 百度盘：http://yun.baidu.com/wap/link?uk=639759229&shareid=2820798226&third=0
+> * 百度盘：http://pan.baidu.com/s/1qWJT6ji 提取密码：kl5w
 > * 好盘：http://howfile.com/file/d6wfyr2/9fbef0a1/
 > * Dropbox：https://www.dropbox.com/s/gkq4tl24ypy690r/Chrome36_v2015.02.17.7z?dl=0
 > * **注意：**请使用ie浏览器下载百度网盘的文件。Dropbox地址已经被墙，不能直接下载。
-> * INFO:〖B－5FG/HJKLMNPQ〗
+> * INFO:〖B5＝FG/HJKLMNPQ〗
 
 如果百度盘下载地址失效，请发邮件至 comeforu2012@gmail.com 提醒我。
 
