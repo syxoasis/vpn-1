@@ -14,7 +14,7 @@
 > * 百度盘：http://pan.baidu.com/s/1bngyCxh 提取密码：blp5
 > * 百度盘：http://yun.baidu.com/wap/link?uk=119651455&shareid=2216725016&third=0
 > * 好盘：http://howfile.com/file/d6wfyr2/910f7933/
-> * Dropbox：
+> * Dropbox：https://www.dropbox.com/s/5y29djktrdjiww7/Chrome36_v2015.03.08.7z?dl=0
 > * **注意：**请使用ie浏览器下载百度网盘的文件。Dropbox地址已经被墙，不能直接下载。
 > * INFO:〖B－5FG/HJKLMNPQ〗
 
