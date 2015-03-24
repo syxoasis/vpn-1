@@ -5,24 +5,24 @@
 * 另外推荐一种网页代理方式：[**聚缘阁代理**（点此转到网站）](https://pipes.yahoo.com/pipes/pipe.run?_id=7d1e509cfd3a413344bd44c69974f4b0)[（点此查看二维码）](https://camo.githubusercontent.com/de4ffdae07f6370528de5897a425f9cb543d8ac8/68747470733a2f2f7a74717370712e626c333330312e6c69766566696c6573746f72652e636f6d2f79326d74364f67766a6643594f4f453359684a4f62414668534c5f576844786c514b4e4a38366d785866485f445875437465316667687a4d4f6737664b37504145554a746b2d324f42536f52647443514862624f637a56442d6947796635486375464d413537395434464e7476766259546a6735615f6a54783041322d4e724b4f38337a2d526b4f34437a3769684c2d766f56725a71795659516c384b39647049394148493846526863306c54732f4a5947444c2e706e673f707369643d31)，可以轻松简单的访问墙外网站，浏览器直接访问，无需安装。
 
 ####更新日志：
-* **2015年3月8日** 更新流量。**之前版本用户如果还能用就不需要更新。**内存低于2G的电脑建议用[火狐版（这里）](https://github.com/comeforu2012/truth/wiki/FirefoxPlus)。
-* 核心程序是Chrome36(D)+GoAgent3.1.2（每天共享多G流量）
+* **2015年3月24日** 更新流量。添加chrome内核升级程序及升级说明，此版由于添加了chrome升级包，所以压缩包增大到90多MB。**之前版本用户如果还能用就不需要更新。**内存低于2G的电脑建议用[火狐版（这里）](https://github.com/comeforu2012/truth/wiki/FirefoxPlus)。
+* 核心程序是Chrome36(含升级包)+GoAgent3.1.2（每天共享多G流量）
 * 请从下面的下载地址下载完整的压缩包，本软件不需要安装，下载后将压缩包解压出来，解压路径中最好不要包含中文，然后双击运行Chrome+.exe就可以同时启动代理软件和浏览器。（Win7系统需要右键点击Chrome+.exe，然后再点**“以管理员身份运行”**）
 * **安全提醒：**最好别用360、QQ电脑管家等国内公司的软件，它搜集用户的上网行为，你访问哪个国外网站它都记录了，这就等于是窃取你的隐私，这些隐私暴露给它们对你一点好处也没有。我真的不是吓唬你。而且360这样的软件还会在你访问国外一些网站的时候进行拦截，QQ电脑管家有时还会直接删除本软件的主程序，很多反馈来的问题都是此类软件造成的。所以我建议你还是卸载国内公司的安全防护类软件，改用国外公司的吧。比如小红伞、Avast、Comodo等。
 
 #### 下载地址：
-> * 百度盘：http://pan.baidu.com/s/1FCN4y 提取密码：jvxw
-> * 百度盘：http://yun.baidu.com/wap/link?uk=1193354878&shareid=819168544&third=0
-> * 好盘：http://howfile.com/file/d6wfyr2/910f7933/
-> * Dropbox：https://www.dropbox.com/s/5y29djktrdjiww7/Chrome36_v2015.03.08.7z?dl=0
+> * 百度盘：http://pan.baidu.com/s/1c0izcNQ 提取密码：gxqm
+> * 百度盘：http://yun.baidu.com/wap/link?uk=1478616446&shareid=1614810477&third=0
+> * 好盘：http://howfile.com/file/d6wfyr2/37538f11/
+> * Dropbox：https://www.dropbox.com/s/wptxndgyj1oga4x/Chrome43_v2015.03.24.7z?dl=0
 > * **注意：**请使用ie浏览器下载百度网盘的文件。Dropbox地址已经被墙，不能直接下载。
-> * INFO:〖5F－GHKLMNPQ〗〖BJ〗
+> * INFO:〖5－FGHLMNPQ〗〖K－BJ〗
 
 如果百度盘下载地址失效，请发邮件至 comeforu2012@gmail.com 提醒我。
 
 **文件校验信息：**
-> * 文件名：Chrome36_v2015.03.08.7z
-> * MD5: 304C322A3C4AC55BE3D4DCE5993FC768
+> * 文件名：Chrome43_v2015.03.24.7z
+> * MD5: 2D90DE62591AF1CAC3073670D240A94D
 
 
 ####注意事项：
