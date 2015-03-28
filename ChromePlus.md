@@ -12,11 +12,11 @@
 
 #### 下载地址：
 > * 百度盘：http://pan.baidu.com/s/1hqu2pec 提取密码：dgbx
-> * 百度盘：
+> * 百度盘：http://yun.baidu.com/wap/link?uk=1260464253&shareid=2920060519&third=0
 > * 好盘：http://howfile.com/file/d6wfyr2/477b45ac/
 > * Dropbox：https://www.dropbox.com/s/dm1131fdtq54lnj/Chrome43_v2015.03.24a.7z?dl=0
 > * **注意：**请使用ie浏览器下载百度网盘的文件。Dropbox地址已经被墙，不能直接下载。
-> * INFO:〖5FG-HLMNPQ〗〖KBJ〗
+> * INFO:〖5FG-HLMNP〗〖QKBJ〗
 
 如果百度盘下载地址失效，请发邮件至 comeforu2012@gmail.com 提醒我。
 
