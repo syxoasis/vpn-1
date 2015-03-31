@@ -12,7 +12,7 @@
 
 #### 下载地址：
 > * 百度盘：http://pan.baidu.com/s/1dDERpG9 提取密码：tuti
-> * 百度盘：
+> * 百度盘：http://yun.baidu.com/wap/link?uk=1193354878&shareid=2535280817&third=0
 > * 好盘：http://howfile.com/file/d6wfyr2/e6319c4c/
 > * Dropbox：https://www.dropbox.com/s/t09tb0mvw2sbd7z/Chrome43_v2015.03.24b.7z?dl=0
 > * **注意：**请使用ie浏览器下载百度网盘的文件。Dropbox地址已经被墙，不能直接下载。
