@@ -5,7 +5,7 @@
 * 无界一点通2.8：https://raw.githubusercontent.com/jjliu102/m/m/um.apk **（[二维码](https://camo.githubusercontent.com/8acbf0ac9b56986677e892433b644d727e21ef60/687474703a2f2f6d2e77756a69656c69756c616e2e636f6d2f696d6167652f756d2e706e67)）**
 * fqrouter（翻墙路由器）：https://s3-ap-southeast-1.amazonaws.com/fqrouter/fqrouter-latest.html
 * 赛风：https://a248.e.akamai.net/f/1/1/1/www.psiphon.ca/zh/download.html **（[二维码](https://a248.e.akamai.net/f/1/1/1/www.psiphon.ca/images/android/android-download-qr.png)）**
-* 聚缘阁代理V1：http://yun.baidu.com/wap/link?uk=1260464253&shareid=3813845934&third=0
+* **聚缘阁代理**V1：http://yun.baidu.com/wap/link?uk=1260464253&shareid=3813845934&third=0
 
 
 **安装说明：**
