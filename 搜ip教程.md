@@ -21,7 +21,7 @@
 
 ![](https://ztomjw.bl3301.livefilestore.com/y2m4JyO0P27dUNTjbWV7eyinlW2d_nb38SKDmAjZGSRqIJVplfGGpcFJbxqz-GTSN3OsQQY1Ey9_TonP6qfX2FqclG5OaX52E8wC1J_D8bsIjYNuRj-2PMABQwZtuluniK0FfGxXtVNeZ2V6A6alKSaYDAKkLxJwGQFLy-N2YWyqJg/Image%202.png?psid=1)
 
-上图这一步是询问你想要获取多少个ip，默认是20个，点“**确定**”，然后软件就开始测试可用的通道，当软件窗口上方的进度条到头，数值达到20时就是找到了20个ip（也可能多几个），如下图，.
+上图这一步是询问你想要获取多少个ip，默认是20个，点“**确定**”，然后软件就开始测试可用的通道，当软件窗口上方的进度条到头，数值达到20时就是找到了20个ip（也可能多几个），如下图，.**（注：最近干扰增强，可以将上图那个20调大到40或50）**
 
 ![](https://ztomjw.bl3301.livefilestore.com/y2mg6PK3VV690pgq9uqMhSPbGZVSeH6wIwOFfOoITGnkKQeUbRCQCKmq46yTR-m3EmGHAH4C-hurA5NEx5mhFl68A4S2RJ_Lc-suo9kujIHgW53NJ6vydZa1tVYG15UxWOlx9YnfZWDrLnuHdjW3pSlNw3mZlSVj2CFycSklUoNB3g/Image%209.png?psid=1)
 
