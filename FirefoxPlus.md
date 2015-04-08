@@ -11,6 +11,7 @@
 
 ####下载地址：
 > * 百度盘：http://pan.baidu.com/s/1hqir0tm 提取密码：q2u8
+> * 百度云：http://yun.baidu.com/wap/link?uk=3642868606&shareid=2120625832&third=0
 > * 好盘：http://howfile.com/file/d6wfyr2/10488ed2/
 > * Dropbox：https://www.dropbox.com/s/93ir44xg8gw082x/Firefox37_v2015.04.01a.7z?dl=0
 > * INFO:〖B-5FGHJKLMNPQ〗
