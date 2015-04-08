@@ -10,16 +10,16 @@
 * 请从下面的下载地址下载完整的压缩包，本软件不需要安装，下载后将压缩包解压出来，解压路径中最好不要包含中文，然后双击运行**FFgo.exe**就可以同时启动代理软件和浏览器。（Win7系统需要右键点击FFgo.exe，然后再点**“以管理员身份运行”**）
 
 ####下载地址：
-> * 百度盘：http://pan.baidu.com/s/1kTuwraB 提取密码：n796
-> * 好盘：http://howfile.com/file/d6wfyr2/4a9143f1/
-> * Dropbox：https://www.dropbox.com/s/04r3rs4yt27c6ut/Firefox37_v2015.04.01.7z?dl=0
+> * 百度盘：http://pan.baidu.com/s/1hqir0tm 提取密码：q2u8
+> * 好盘：http://howfile.com/file/d6wfyr2/10488ed2/
+> * Dropbox：https://www.dropbox.com/s/93ir44xg8gw082x/Firefox37_v2015.04.01a.7z?dl=0
 > * INFO:〖B-5FGHJKLMNPQ〗
 
 `如果百度盘下载地址失效，请发邮件至 comeforu2012@gmail.com 提醒我。`
 
 **文件校验信息：**
-> * 文件名：Firefox37_v2015.04.01.7z
-> * MD5: D8CE0EA200C66B65E26807C38A2D1706
+> * 文件名：Firefox37_v2015.04.01a.7z
+> * MD5: 978C8FEE8291AB1AEF440EA9F36595CE
 
 ####注意事项：
 * 电脑上需要安装用于火狐的flash插件才可以播放网页视频。
