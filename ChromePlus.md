@@ -12,11 +12,11 @@
 
 #### 下载地址：
 > * 百度盘：http://pan.baidu.com/s/1i3INsvb 提取密码：ut1g
-> * 百度云：
+> * 百度云：http://yun.baidu.com/wap/link?uk=1478616446&shareid=2080960381&third=0
 > * 好盘：http://howfile.com/file/d6wfyr2/01892265/
 > * Dropbox：https://www.dropbox.com/s/e6qtuh9ik28nifp/Chrome43_v2015.03.24c.7z?dl=0
 > * **注意：**请使用ie浏览器下载百度网盘的文件。Dropbox地址已经被墙，不能直接下载。
-> * INFO:〖5FGHLM－NP〗〖QKBJ〗
+> * INFO:〖5FGHLM－NP〗〖Q－KBJ〗
 
 如果百度盘下载地址失效，请发邮件至 comeforu2012@gmail.com 提醒我。
 
