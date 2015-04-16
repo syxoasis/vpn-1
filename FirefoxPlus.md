@@ -5,22 +5,22 @@
 * 另外推荐一种网页代理方式：[**聚缘阁代理**（点此转到网站）](https://pipes.yahoo.com/pipes/pipe.run?_id=7d1e509cfd3a413344bd44c69974f4b0)[（点此查看二维码）](https://camo.githubusercontent.com/de4ffdae07f6370528de5897a425f9cb543d8ac8/68747470733a2f2f7a74717370712e626c333330312e6c69766566696c6573746f72652e636f6d2f79326d74364f67766a6643594f4f453359684a4f62414668534c5f576844786c514b4e4a38366d785866485f445875437465316667687a4d4f6737664b37504145554a746b2d324f42536f52647443514862624f637a56442d6947796635486375464d413537395434464e7476766259546a6735615f6a54783041322d4e724b4f38337a2d526b4f34437a3769684c2d766f56725a71795659516c384b39647049394148493846526863306c54732f4a5947444c2e706e673f707369643d31)，可以轻松简单的访问墙外网站，浏览器直接访问，无需安装。
 
 ####更新日志：
-* **2015年4月1日** 将Firefox内核升级到v37.0 **使用之前版本的朋友，如果还能用就不需要更新。**
+* **2015年4月16日** 禁用WebRTC，增强隐私保护。Firefox内核升级到v37.0.1。 **使用之前版本的朋友，如果还能用就不需要更新。**
 * 核心程序是Firefox37.0+GoAgent3.1.2
 * 请从下面的下载地址下载完整的压缩包，本软件不需要安装，下载后将压缩包解压出来，解压路径中最好不要包含中文，然后双击运行**FFgo.exe**就可以同时启动代理软件和浏览器。（Win7系统需要右键点击FFgo.exe，然后再点**“以管理员身份运行”**）
 
 ####下载地址：
-> * 百度盘：http://pan.baidu.com/s/1i35qglB 提取密码：7bw2
-> * 百度云：http://yun.baidu.com/wap/link?uk=1478616446&shareid=2078950934&third=0
-> * 好盘：http://howfile.com/file/d6wfyr2/10488ed2/
-> * Dropbox：https://www.dropbox.com/s/93ir44xg8gw082x/Firefox37_v2015.04.01a.7z?dl=0
-> * INFO:〖B5－FGHJKLMNPQ〗
+> * 百度盘：http://pan.baidu.com/s/1jGh7H1W 提取密码：s2vw
+> * 百度云：
+> * 好盘：http://howfile.com/file/d6wfyr2/f71a1069/
+> * Dropbox：https://www.dropbox.com/s/iv7ks37ouk69wqf/Firefox37_v2015.04.16.7z?dl=0
+> * INFO:〖B5F－GHJKLMNPQ〗
 
 `如果百度盘下载地址失效，请发邮件至 comeforu2012@gmail.com 提醒我。`
 
 **文件校验信息：**
-> * 文件名：Firefox37_v2015.04.01a.7z
-> * MD5: 978C8FEE8291AB1AEF440EA9F36595CE
+> * 文件名：Firefox37_v2015.04.16.7z
+> * MD5: 6AA0B5A8209D5EA0A5F6A71840255137
 
 ####注意事项：
 * 电脑上需要安装用于火狐的flash插件才可以播放网页视频。
