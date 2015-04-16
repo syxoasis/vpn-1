@@ -11,10 +11,10 @@
 
 ####下载地址：
 > * 百度盘：http://pan.baidu.com/s/1jGh7H1W 提取密码：s2vw
-> * 百度云：
+> * 百度云：http://yun.baidu.com/wap/link?uk=1478616446&shareid=1744535968&third=0
 > * 好盘：http://howfile.com/file/d6wfyr2/f71a1069/
 > * Dropbox：https://www.dropbox.com/s/iv7ks37ouk69wqf/Firefox37_v2015.04.16.7z?dl=0
-> * INFO:〖B5F－GHJKLMNPQ〗
+> * INFO:〖B5F－GHJ(K)LMNPQ〗
 
 `如果百度盘下载地址失效，请发邮件至 comeforu2012@gmail.com 提醒我。`
 
