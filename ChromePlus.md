@@ -1,7 +1,7 @@
 #翻墙软件Chrome+发布页 ![](https://oq1gjg.bl3301.livefilestore.com/y2mlLXDCNxE4Puvrh_LvWZjKjFJWNvFh1qLCNBpKa_ykS9zlKUsqg2lImG3Tje3vbcsJt9TWo3BLvQP5Bs8xM_hLPpT3mvfZEcjo6e4sfZqSoM7F4Tr2GuZ2rOGGGzLdFgc/chrome48.ico?psid=1)
 
 ### 公告：
-* 2015年4月24日上午又有一大批谷歌ip被封，使用旧版的搜ip软件也是无济于事，为此特发临时版，以解燃眉之急，下载地址：
+* 2015年4月24日上午又有一大批谷歌ip被封，使用旧版的搜ip软件也是无济于事，为此特发**临时版**，以解燃眉之急，下载地址：
  * 百度盘b：http://pan.baidu.com/s/1e0AcA 提取密码：p8ah
  * 好盘：http://howfile.com/file/d6wfyr2/75f1523d/
  * **注：**此版也不敢保证好用，使用情况请反馈到 comeforu2012@gmail.com
