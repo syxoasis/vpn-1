@@ -2,7 +2,7 @@
 
 ### 公告：
 * 2015年4月24日上午又有一大批谷歌ip被封，使用旧版的搜ip软件也是无济于事，为此特发**临时版**，以解燃眉之急，下载地址：
- * 百度盘b：http://pan.baidu.com/s/1e0AcA 提取密码：p8ah
+ * 百度盘5：http://pan.baidu.com/s/1gdAe5ZP 提取密码：ap9k
  * 好盘：http://howfile.com/file/d6wfyr2/75f1523d/
    * MD5: B8EBDD4E8BFD97B143E8A980F2DF9B23
  * **注：**此版也不敢保证好用，使用情况请反馈到 comeforu2012@gmail.com
