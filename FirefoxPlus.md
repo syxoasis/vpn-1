@@ -2,7 +2,7 @@
 
 ### 公告：
 * 2015年4月24日上午又有一大批谷歌ip被封，使用旧版的搜ip软件也是无济于事，为此特发**临时版**，以解燃眉之急，下载地址：
- * 百度盘5f：http://pan.baidu.com/s/1dDwB261 提取密码：cpzg
+ * 百度盘5f：http://pan.baidu.com/s/1ntyxqL7 提取密码：qew9
  * 好盘：http://howfile.com/file/d6wfyr2/f7dcd1c4/
    * MD5: 14FF55CCD97355FCBCE0DFF2BC609B7A
  * **注：**此版也不敢保证好用，使用情况请反馈到 comeforu2012@gmail.com
@@ -14,10 +14,10 @@
 * 请从下面的下载地址下载完整的压缩包，本软件不需要安装，下载后将压缩包解压出来，解压路径中最好不要包含中文，然后双击运行**FFgo.exe**就可以同时启动代理软件和浏览器。（Win7系统需要右键点击FFgo.exe，然后再点**“以管理员身份运行”**）
 
 ####下载地址：
-> * 百度盘：http://pan.baidu.com/s/1gdkvGx9 提取密码：dxnr
-> * 百度云：http://yun.baidu.com/wap/link?uk=1478616446&shareid=2556147714&third=0
-> * 好盘：http://howfile.com/file/d6wfyr2/2a167ea7/
-> * Dropbox：https://www.dropbox.com/s/f23rlaj5yny13u5/Firefox37_v2015.4.16.7z?dl=0
+> * 百度盘：
+> * 百度云：
+> * 好盘：
+> * Dropbox：
 > * INFO:〖B5F－GHJ(K)LMNPQ〗
 
 `如果百度盘下载地址失效，请发邮件至 comeforu2012@gmail.com 提醒我。`
