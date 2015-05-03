@@ -35,7 +35,11 @@
 ####[常见问题：](https://github.com/comeforu2012/FQ_FAQ/wiki)
 
 1. 访问https开头的网址出现SSL错误，解决方法：http://goo.gl/SXaoej
-2. XP系统打不开GoGo的原因：http://goo.gl/zrIR9t
-3. XP系统通过修改TCP/IP连接数来解决GoGo搜ip速度慢的问题：http://goo.gl/l1kBrl
+2. **Over Quota、Hosts Deny**
+ * 1）网页上显示“Over Quota”，说明你用的版本当天的流量已用光，你可以等到北京时间下午四点流量重置后再用；或者依照“[自建流量](https://github.com/comeforu2012/truth/wiki/%E8%87%AA%E5%BB%BA%E6%B5%81%E9%87%8F)”的教程来创建自己的流量，建议有一点电脑基础的朋友自建流量，
+ * 2）网页上显示“Hosts Deny”的网站本软件现在不支持。你可以通过自建流量来解决这个问题。
+自建流量方法：
+https://github.com/comeforu2012/truth/wiki/%E8%87%AA%E5%BB%BA%E6%B5%81%E9%87%8F
+
 
 ##[本页面短网址：is.gd/ChromePlus](http://is.gd/ChromePlus)
