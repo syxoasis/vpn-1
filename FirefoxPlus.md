@@ -10,11 +10,11 @@
 * 请从下面的下载地址下载完整的压缩包，本软件不需要安装，下载后将压缩包解压出来，解压路径中最好不要包含中文，然后双击运行**FFgo.exe**就可以同时启动代理软件和浏览器。（Win7系统需要右键点击FFgo.exe，然后再点**“以管理员身份运行”**）
 
 ####下载地址：
-> * 百度盘：http://pan.baidu.com/s/1sjofKXf 提取密码：gph4
-> * 百度云：http://yun.baidu.com/wap/link?uk=1478616446&shareid=62593428&third=0
+> * 百度盘：http://pan.baidu.com/s/1eQH84Iu 提取密码：hykz
+> * 百度云：http://yun.baidu.com/wap/link?uk=1193354878&shareid=3371751979&third=0
 > * 好盘：http://howfile.com/file/d6wfyr2/a29e3b19/
 > * Dropbox：https://www.dropbox.com/s/iy371vpqetmfcvp/Firefox37_v2015.05.02.7z?dl=0
-> * INFO:〖(B)5FGHJ(K)LMNPQ〗
+> * INFO:〖B5FGH(J)K-LMNPQ〗
 
 `如果百度盘下载地址失效，请发邮件至 comeforu2012@gmail.com 提醒我。`
 
