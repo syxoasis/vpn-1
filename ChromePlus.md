@@ -36,7 +36,7 @@
 
 1. 访问https开头的网址出现SSL错误，解决方法：http://git.io/vJPoY
 2. **Over Quota、Hosts Deny**
- * 1）网页上显示“Over Quota”，说明你用的版本当天的流量已用光，你可以等到北京时间下午四点流量重置后再用；或者依照“[自建流量](https://github.com/comeforu2012/truth/wiki/%E8%87%AA%E5%BB%BA%E6%B5%81%E9%87%8F)”的教程来创建自己的流量，建议有一点电脑基础的朋友自建流量，
+ * 1）网页上显示“Over Quota”，说明你用的版本当天的流量已用光，你可以等到[加州时间](https://zh.thetimenow.com/united_states/california/san_francisco)每天零时流量重置后再用；或者依照“[自建流量](https://github.com/comeforu2012/truth/wiki/%E8%87%AA%E5%BB%BA%E6%B5%81%E9%87%8F)”的教程来创建自己的流量，建议有一点电脑基础的朋友自建流量，
  * 2）网页上显示“Hosts Deny”的网站本软件现在不支持。你可以通过自建流量来解决这个问题。
 自建流量方法：
 https://github.com/comeforu2012/truth/wiki/%E8%87%AA%E5%BB%BA%E6%B5%81%E9%87%8F
