@@ -30,7 +30,7 @@
 
 
 ####注意事项：
-* 需要**以管理员身份运行**Chrome+.exe才可以自动导入goagnt证书，如果没有导入证书，那么在访问YouTube、Facebook等https开头网址时就会出现SSL错误，如果是因为证书没有自动导入，那么你也可以手动导入证书。方法：http://goo.gl/SXaoej
+* 需要**以管理员身份运行**Chrome+.exe才可以自动导入goagnt证书，如果没有导入证书，那么在访问YouTube、Facebook等https开头网址时就会出现SSL错误，如果是因为证书没有自动导入，那么你也可以手动导入证书。方法：http://git.io/vJPoY
 
 ####[常见问题：](https://github.com/comeforu2012/FQ_FAQ/wiki)
 
