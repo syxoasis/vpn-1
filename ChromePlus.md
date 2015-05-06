@@ -16,7 +16,7 @@
 
 #### 下载地址：
 > * 百度盘：http://pan.baidu.com/s/1sj7IMHR 提取密码：5b2g
-> * 百度云：
+> * 百度云：http://yun.baidu.com/wap/link?uk=1193354878&shareid=597490342&third=0
 > * 好盘：http://howfile.com/file/d6wfyr2/61e44917/
 > * Dropbox：https://www.dropbox.com/s/hhker1vn887i7n8/Chrome44_v2015.05.06.7z?dl=0
 > * **注意：**请使用ie浏览器下载百度网盘的文件。Dropbox地址已经被墙，不能直接下载。
