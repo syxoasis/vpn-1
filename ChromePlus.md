@@ -8,26 +8,25 @@
 ***
 
 ####更新日志：
-* **2015年5月1日** 更新ip。添加ip云更新程序。
-* **2015年4月20日** 修改《安全提醒！》。
+* 2015年5月6日 添加流量更新程序，重写GoGo教程。完善ip更新程序。
 * **2015年3月24日** 更新流量。添加chrome内核升级程序及升级说明，此版由于添加了chrome升级包，所以压缩包增大到90多MB。**之前版本用户如果还能用就不需要更新。**内存低于2G的电脑建议用[火狐版（这里）](https://github.com/comeforu2012/truth/wiki/FirefoxPlus)。
 * 核心程序是Chrome36(含升级包)+GoAgent3.1.2（每天共享多G流量）
 * 请从下面的下载地址下载完整的压缩包，本软件不需要安装，下载后将压缩包解压出来，解压路径中最好不要包含中文，然后双击运行Chrome+.exe就可以同时启动代理软件和浏览器。（Win7系统需要右键点击Chrome+.exe，然后再点**“以管理员身份运行”**）
 * **安全提醒：**最好别用360、QQ电脑管家等国内公司的软件，它搜集用户的上网行为，你访问哪个国外网站它都记录了，这就等于是窃取你的隐私，这些隐私暴露给它们对你一点好处也没有。我真的不是吓唬你。而且360这样的软件还会在你访问国外一些网站的时候进行拦截，QQ电脑管家有时还会直接删除本软件的主程序，很多反馈来的问题都是此类软件造成的。所以我建议你还是卸载国内公司的安全防护类软件，改用国外公司的吧。
 
 #### 下载地址：
-> * 百度盘：http://pan.baidu.com/s/1qWJqb1q 提取密码：qkpt
-> * 百度云：http://yun.baidu.com/wap/link?uk=1193354878&shareid=3358834476&third=0
-> * 好盘：http://howfile.com/file/d6wfyr2/919a6b5c/
-> * Dropbox：https://www.dropbox.com/s/th8i9xpo6o2vz31/Chrome44_v2015.05.01.7z?dl=0
+> * 百度盘：http://pan.baidu.com/s/1sj7IMHR 提取密码：5b2g
+> * 百度云：
+> * 好盘：http://howfile.com/file/d6wfyr2/61e44917/
+> * Dropbox：https://www.dropbox.com/s/hhker1vn887i7n8/Chrome44_v2015.05.06.7z?dl=0
 > * **注意：**请使用ie浏览器下载百度网盘的文件。Dropbox地址已经被墙，不能直接下载。
 > * INFO:〖B5FGH－LMNP〗〖QKB－J〗
 
 如果百度盘下载地址失效，请发邮件至 comeforu2012@gmail.com 提醒我。
 
 **文件校验信息：**
-> * 文件名：Chrome44_v2015.05.01.7z
-> * MD5: 4C071E093BE183806D93138C1AB4A9D0
+> * 文件名：Chrome44_v2015.05.06.7z
+> * MD5: 5E7BD5C8B4DA5BFD640BB04ADBBA254B
 
 
 ####注意事项：
