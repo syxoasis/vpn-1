@@ -1,7 +1,7 @@
 #翻墙软件Chrome+发布页 ![](https://oq1gjg.bl3301.livefilestore.com/y2mlLXDCNxE4Puvrh_LvWZjKjFJWNvFh1qLCNBpKa_ykS9zlKUsqg2lImG3Tje3vbcsJt9TWo3BLvQP5Bs8xM_hLPpT3mvfZEcjo6e4sfZqSoM7F4Tr2GuZ2rOGGGzLdFgc/chrome48.ico?psid=1)
 
 ### 公告：
-* 2015年5月6日下午又有一大批谷歌ip被封，5月1日版本用户请运行ip更新程序从云端更新ip。方法见压缩包内《更新日志（必看）.rtf》里面的说明。
+* 2015年5月6日的版本如果遇到页面出现**“Over Quota”**就是流量用完了，请进入**ip_id_Update**文件夹，运行里面的**id_1.bat**或**id_2.bat**更新流量。
 * 使用2014年4月24日之前版本的朋友如果不能用就下载新版。
 * 另外推荐一种网页代理方式：[**聚缘阁代理**（点此转到网站）](https://pipes.yahoo.com/pipes/pipe.run?_id=7d1e509cfd3a413344bd44c69974f4b0)[（点此查看二维码）](https://camo.githubusercontent.com/de4ffdae07f6370528de5897a425f9cb543d8ac8/68747470733a2f2f7a74717370712e626c333330312e6c69766566696c6573746f72652e636f6d2f79326d74364f67766a6643594f4f453359684a4f62414668534c5f576844786c514b4e4a38366d785866485f445875437465316667687a4d4f6737664b37504145554a746b2d324f42536f52647443514862624f637a56442d6947796635486375464d413537395434464e7476766259546a6735615f6a54783041322d4e724b4f38337a2d526b4f34437a3769684c2d766f56725a71795659516c384b39647049394148493846526863306c54732f4a5947444c2e706e673f707369643d31)，可以轻松简单的访问墙外网站，浏览器直接访问，无需安装。
 
