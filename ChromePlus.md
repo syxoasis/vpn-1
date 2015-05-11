@@ -16,7 +16,7 @@
 
 #### 下载地址：
 > * 百度盘：http://pan.baidu.com/s/1dDfHnvN 提取密码：cxkb
-> * 百度云：
+> * 百度云：http://yun.baidu.com/wap/link?uk=1193354878&shareid=619054874&third=0
 > * 好盘：http://howfile.com/file/d6wfyr2/2deda6fd/
 > * Dropbox：https://www.dropbox.com/s/9q0myqis6amwe49/Chrome44_v2015.05.11.7z?dl=0
 > * INFO:〖B5FGHL-MNP〗〖QKB－J〗
