@@ -16,7 +16,7 @@
 
 #### 下载地址：
 > * 百度盘：http://pan.baidu.com/s/1hqH4OUo 提取密码：vixi
-> * 百度云：
+> * 百度云：http://yun.baidu.com/wap/link?uk=1193354878&shareid=1615771035&third=0
 > * 好盘：
 > * Dropbox：
 > * INFO:〖B5FGHL-MNP〗〖QKB－J〗
