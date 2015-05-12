@@ -18,7 +18,7 @@
 > * 百度盘：http://pan.baidu.com/s/1hqH4OUo 提取密码：vixi
 > * 百度云：http://yun.baidu.com/wap/link?uk=1193354878&shareid=1615771035&third=0
 > * 好盘：
-> * Dropbox：
+> * Dropbox：https://www.dropbox.com/s/2oxjwi03h481osi/Chrome44_v2015.05.12.7z?dl=0
 > * INFO:〖B5FGHL-MNP〗〖QKB－J〗
 
 * **特别提示：**请使用ie浏览器下载百度网盘的文件。Dropbox地址已经被墙，不能直接下载。
