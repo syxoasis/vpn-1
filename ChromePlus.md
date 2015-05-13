@@ -17,7 +17,7 @@
 
 #### 下载地址：
 > * 百度盘：http://pan.baidu.com/s/1bn10aHD 提取密码：6k7k
-> * 百度云：
+> * 百度云：http://yun.baidu.com/wap/link?uk=1193354878&shareid=1628110598&third=0
 > * 好盘：
 > * Dropbox：
 > * INFO:〖B5FGHLM-NP〗〖QKB－J〗
