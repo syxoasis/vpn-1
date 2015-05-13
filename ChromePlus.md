@@ -18,8 +18,8 @@
 #### 下载地址：
 > * 百度盘：http://pan.baidu.com/s/1bn10aHD 提取密码：6k7k
 > * 百度云：http://yun.baidu.com/wap/link?uk=1193354878&shareid=1628110598&third=0
-> * 好盘：
-> * Dropbox：
+> * 好盘：http://howfile.com/file/d6wfyr2/b08efa69/
+> * Dropbox：https://www.dropbox.com/s/wehhmrcuafec262/Chrome44_v2015.05.13.7z?dl=0
 > * INFO:〖B5FGHLM-NP〗〖QKB－J〗
 
 * **特别提示：**请使用ie浏览器下载百度网盘的文件。Dropbox地址已经被墙，不能直接下载。
