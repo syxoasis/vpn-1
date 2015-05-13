@@ -10,28 +10,26 @@
 ***
 
 ####更新日志：
-* **2015年5月12日** 修正5月11日和5月6日的ip更新程序ip_2.bat出错的问题。
-* **2015年5月11日** 把ip和流量id的更新程序分别放在了两个文件夹。增加了三个流量id云端更新地址。更新一组ip。5月6日版本用户请运行ip_1.bat或ip_2.bat更新ip。其实可用的ip也是被封的越来越少了。
-* **2015年3月24日** 更新流量。添加chrome内核升级程序及升级说明，此版由于添加了chrome升级包，所以压缩包增大到90多MB。**之前版本用户如果还能用就不需要更新。**内存低于2G的电脑建议用[火狐版（这里）](https://github.com/comeforu2012/truth/wiki/FirefoxPlus)。
+* **2015年5月13日** 修复聚缘阁代理打不开的问题。**内存低于2G的电脑建议用[火狐版（这里）](https://github.com/comeforu2012/truth/wiki/FirefoxPlus)。
 * 核心程序是Chrome36(含升级包)+GoAgent3.1.2（每天共享多G流量）
 * 请从下面的下载地址下载完整的压缩包，本软件不需要安装，下载后将压缩包解压出来，解压路径中最好不要包含中文，然后双击运行Chrome+.exe就可以同时启动代理软件和浏览器。（Win7系统需要右键点击Chrome+.exe，然后再点**“以管理员身份运行”**）
 * **安全提醒：**最好别用360、QQ电脑管家等国内公司的软件，它搜集用户的上网行为，你访问哪个国外网站它都记录了，这就等于是窃取你的隐私，这些隐私暴露给它们对你一点好处也没有。我真的不是吓唬你。而且360这样的软件还会在你访问国外一些网站的时候进行拦截，QQ电脑管家有时还会直接删除本软件的主程序，很多反馈来的问题都是此类软件造成的。所以我建议你还是卸载国内公司的安全防护类软件，改用国外公司的吧。
 
 #### 下载地址：
-> * 百度盘：http://pan.baidu.com/s/1hqH4OUo 提取密码：vixi
-> * 百度云：http://yun.baidu.com/wap/link?uk=1193354878&shareid=1615771035&third=0
-> * 好盘：http://howfile.com/file/d6wfyr2/dd23569e/
-> * Dropbox：https://www.dropbox.com/s/2oxjwi03h481osi/Chrome44_v2015.05.12.7z?dl=0
-> * INFO:〖B5FGHL-MNP〗〖QKB－J〗
+> * 百度盘：http://pan.baidu.com/s/1bn10aHD 提取密码：6k7k
+> * 百度云：
+> * 好盘：
+> * Dropbox：
+> * INFO:〖B5FGHLM-NP〗〖QKB－J〗
 
 * **特别提示：**请使用ie浏览器下载百度网盘的文件。Dropbox地址已经被墙，不能直接下载。
- * **另外，**新版包含了更新程序wget.exe，金山毒霸和QQ电脑管家可能会认为它不安全，继而拦截下载，所以使用金山毒霸或者QQ电脑管家的朋友需要先关闭杀毒软件才能下载。wget.exe这个程序在多引擎病毒扫描网[VirusTotal](https://www.virustotal.com/)的分析结果你可以[点这里](https://www.virustotal.com/zh-cn/file/cf8a9b5db43dd4820ea28e10786f3fac00cf294f793ead1aef86de75246f4495/analysis/)查看。检出率：1/56，只有金山毒霸的引擎认为它不安全，如果你仍然不放心，那就删除解压后的ip_id_Update文件夹。然后你就只能使用手动更新ip和流量了。
+ * **另外，**新版包含了更新程序wget.exe，金山毒霸和QQ电脑管家可能会认为它不安全，继而拦截下载，所以使用金山毒霸或者QQ电脑管家的朋友需要先关闭杀毒软件才能下载。wget.exe这个程序在多引擎病毒扫描网[VirusTotal](https://www.virustotal.com/)的分析结果你可以[点这里](https://www.virustotal.com/zh-cn/file/cf8a9b5db43dd4820ea28e10786f3fac00cf294f793ead1aef86de75246f4495/analysis/)查看。检出率：1/56，只有金山毒霸的引擎认为它不安全，如果你仍然不放心，那就删除解压后的ip_Update和id_Update文件夹。然后你就只能使用手动更新ip和流量了。
 * 如果百度盘下载地址失效，请发邮件至 comeforu2012@gmail.com 提醒我。
 
 **文件校验信息：**
-> * 文件名：Chrome44_v2015.05.12.7z
-> * MD5: 8754CB498101F029D7B8AF5DC9B718C3
-> * SHA1: FBDD91C29BB852140383ED17ECCA650D6F385D97
+> * 文件名：Chrome44_v2015.05.13.7z
+> * MD5: 381ACC628A36B2FB7B7D2A36820C0E53
+> * SHA1: B09BA58EF6B6F868D5AF982DBA5E5F54F67820E8
 
 
 ####注意事项：
