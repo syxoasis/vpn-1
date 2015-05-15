@@ -17,7 +17,7 @@
 
 #### 下载地址：
 > * 百度盘：http://pan.baidu.com/s/1bnbHEI7 提取密码：pha3
-> * 百度云：
+> * 百度云：http://yun.baidu.com/wap/link?uk=1260464253&shareid=221669574&third=0
 > * 好盘：http://howfile.com/file/d6wfyr2/b08efa69/
 > * Dropbox：https://www.dropbox.com/s/wehhmrcuafec262/Chrome44_v2015.05.13.7z?dl=0
 > * INFO:〖B5FG-HLMNP〗〖-QKBJ〗
