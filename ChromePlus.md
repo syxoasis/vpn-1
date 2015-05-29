@@ -1,7 +1,7 @@
 #翻墙软件Chrome+发布页 ![](https://oq1gjg.bl3301.livefilestore.com/y2mlLXDCNxE4Puvrh_LvWZjKjFJWNvFh1qLCNBpKa_ykS9zlKUsqg2lImG3Tje3vbcsJt9TWo3BLvQP5Bs8xM_hLPpT3mvfZEcjo6e4sfZqSoM7F4Tr2GuZ2rOGGGzLdFgc/chrome48.ico?psid=1)
 
 ### 公告：
-* **2015年5月15日**更新了ip_1，请进入ip_Update文件夹运行ip_1.bat进行更新。
+* **2015年5月28日**更新了ip_1，请进入ip_Update文件夹运行ip_1.bat进行更新。
 * 朋友们，最近本软件依赖的谷歌ip在中国大陆已经被封的越来越少，所剩的基本都是低速ip，使用体验大幅下降。为了保证能够继续翻墙，请朋友们多预备几款翻墙软件，这里推荐几款：
  * 自由门：https://git.io/fgp
  * 无界：https://git.io/HNvvvQ
@@ -17,11 +17,11 @@
 * **安全提醒：**最好别用360、QQ电脑管家等国内公司的软件，它搜集用户的上网行为，你访问哪个国外网站它都记录了，这就等于是窃取你的隐私，这些隐私暴露给它们对你一点好处也没有。我真的不是吓唬你。而且360这样的软件还会在你访问国外一些网站的时候进行拦截，QQ电脑管家有时还会直接删除本软件的主程序，很多反馈来的问题都是此类软件造成的。所以我建议你还是卸载国内公司的安全防护类软件，改用国外公司的吧。
 
 #### 下载地址：
-> * 百度盘：http://pan.baidu.com/s/1bnbHEI7 提取密码：pha3
-> * 百度云：http://yun.baidu.com/wap/link?uk=1260464253&shareid=221669574&third=0
+> * 百度盘：http://pan.baidu.com/s/1c0CTVH2 提取密码：edy4
+> * 百度云：
 > * 好盘：http://howfile.com/file/d6wfyr2/b08efa69/
 > * Dropbox：https://www.dropbox.com/s/wehhmrcuafec262/Chrome44_v2015.05.13.7z?dl=0
-> * INFO:〖B5FG-HLMNP〗〖-QKBJ〗
+> * INFO:〖B5FGH-LMNP〗〖-QKBJ〗
 
 * **特别提示：**请使用ie浏览器下载百度网盘的文件。Dropbox地址已经被墙，不能直接下载。
  * **另外，**新版包含了更新程序wget.exe，金山毒霸和QQ电脑管家可能会认为它不安全，继而拦截下载，所以使用金山毒霸或者QQ电脑管家的朋友需要先关闭杀毒软件才能下载。wget.exe这个程序在多引擎病毒扫描网[VirusTotal](https://www.virustotal.com/)的分析结果你可以[点这里](https://www.virustotal.com/zh-cn/file/cf8a9b5db43dd4820ea28e10786f3fac00cf294f793ead1aef86de75246f4495/analysis/)查看。检出率：1/56，只有金山毒霸的引擎认为它不安全，如果你仍然不放心，那就删除解压后的ip_Update和id_Update文件夹。然后你就只能使用手动更新ip和流量了。
