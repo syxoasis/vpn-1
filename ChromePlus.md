@@ -1,8 +1,8 @@
 #翻墙软件Chrome+发布页 ![](https://oq1gjg.bl3301.livefilestore.com/y2mlLXDCNxE4Puvrh_LvWZjKjFJWNvFh1qLCNBpKa_ykS9zlKUsqg2lImG3Tje3vbcsJt9TWo3BLvQP5Bs8xM_hLPpT3mvfZEcjo6e4sfZqSoM7F4Tr2GuZ2rOGGGzLdFgc/chrome48.ico?psid=1)
 
 ### 公告：
-* **2015年6月1日** 更新了版本。
-* 朋友们，最近本软件依赖的谷歌ip在中国大陆已经被封的越来越少，所剩的基本都是低速ip，使用体验大幅下降。为了保证能够继续翻墙，请朋友们多预备几款翻墙软件，这里推荐几款：
+* **2015年6月1日** 更新了版本。之前的版本如果还能用就不需要更新，此版由于测试时间短，如果有问题请发邮件到comeforu2012@gmail.com 反馈。
+* 最近本软件依赖的谷歌ip在中国大陆已经被封的越来越少，使用体验大幅下降。为了保证能够继续翻墙，请朋友们多预备几款翻墙软件，这里推荐几款：
  * 自由门：https://git.io/fgp
  * 无界：https://git.io/HNvvvQ
  * 以上两款软件直接运行即可自动打开系统默认浏览器翻墙。
