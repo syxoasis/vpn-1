@@ -19,8 +19,8 @@
 #### 下载地址：
 > * 百度盘：http://pan.baidu.com/s/1sjQaNqX 提取密码：hnni
 > * 百度云：
-> * 好盘：
-> * Dropbox：
+> * 好盘：http://howfile.com/file/d6wfyr2/bde881ae/
+> * Dropbox：https://www.dropbox.com/s/86kbgs1ackudqoa/Chrome45_v2015.06.01.7z?dl=0
 > * INFO:〖－B－5FGHLMNP〗〖QKBJ〗
 
 * **特别提示：**请使用ie浏览器下载百度网盘的文件。Dropbox地址已经被墙，不能直接下载。
