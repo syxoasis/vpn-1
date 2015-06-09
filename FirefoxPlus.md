@@ -16,7 +16,7 @@
 ####下载地址：
 > * 百度盘：http://pan.baidu.com/s/1o6onAcE 提取密码：mv6d
 > * 百度云：
-> * 好盘：
+> * 好盘：http://howfile.com/file/d6wfyr2/c9cd6255/
 > * Dropbox：https://www.dropbox.com/s/ftusrtsvw48xd6f/Firefox38_v2015.06.09.7z?dl=0
 > * INFO:〖－B5FGHJKLMNPQ〗
 
