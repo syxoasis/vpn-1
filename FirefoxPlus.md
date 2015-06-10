@@ -14,10 +14,10 @@
 * 请从下面的下载地址下载完整的压缩包，本软件不需要安装，下载后将压缩包解压出来，解压路径中最好不要包含中文，然后双击运行**FFgo.exe**就可以同时启动代理软件和浏览器。（Win7系统需要右键点击FFgo.exe，然后再点**“以管理员身份运行”**）
 
 ####下载地址：
-> * 百度盘：http://pan.baidu.com/s/1o6onAcE 提取密码：mv6d
+> * 百度盘：http://pan.baidu.com/s/1jGGMcKm 提取密码：jxca
 > * 百度云：
-> * 好盘：http://howfile.com/file/d6wfyr2/c9cd6255/
-> * Dropbox：https://www.dropbox.com/s/ftusrtsvw48xd6f/Firefox38_v2015.06.09.7z?dl=0
+> * 好盘：
+> * Dropbox：
 > * INFO:〖－B5FGHJKLMNPQ〗
 
 * **另外，**新版包含了更新程序wget.exe，金山毒霸和QQ电脑管家可能会认为它不安全，继而拦截下载，所以使用金山毒霸或者QQ电脑管家的朋友需要先关闭杀毒软件才能下载。wget.exe这个程序在多引擎病毒扫描网[VirusTotal](https://www.virustotal.com/)的分析结果你可以[点这里](https://www.virustotal.com/zh-cn/file/cf8a9b5db43dd4820ea28e10786f3fac00cf294f793ead1aef86de75246f4495/analysis/)查看。检出率：1/56，只有金山毒霸的引擎认为它不安全，如果你仍然不放心，那就删除解压后的ip_id_Update文件夹。然后你就只能使用手动更新ip和流量了。
@@ -25,8 +25,8 @@
 
 **文件校验信息：**
 > * 文件名：Firefox38_v2015.06.09.7z
-> * MD5: 12296076756D236A080BC6FEECB3D173
-> * SHA1: 5102C86B6930B77917971D035BF14399C0F3B4F0
+> * MD5: 011E5E8D751848CF2929D7C1F9B11566
+> * SHA1: 8303D22CFE7C62C73CCEA479E865F0F4159CAEEB
 
 ####注意事项：
 * 电脑上需要安装用于火狐的flash插件才可以播放网页视频。
