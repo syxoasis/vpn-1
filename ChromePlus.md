@@ -1,6 +1,7 @@
 #翻墙软件Chrome+发布页 ![](https://oq1gjg.bl3301.livefilestore.com/y2mlLXDCNxE4Puvrh_LvWZjKjFJWNvFh1qLCNBpKa_ykS9zlKUsqg2lImG3Tje3vbcsJt9TWo3BLvQP5Bs8xM_hLPpT3mvfZEcjo6e4sfZqSoM7F4Tr2GuZ2rOGGGzLdFgc/chrome48.ico?psid=1)
 
 ### 公告：
+* 不得不说，今天发现百度盘的文件被禁的太快了！这次不是直接封下载链接，而是直接禁止分享。因此我不得不重新打包、重新上传。请先从好盘下载吧。我会尽快更新百度盘地址。有好办法的朋友可以发邮件告诉我。
 * **2015年6月1日** 更新了版本。之前的版本如果还能用就不需要更新，此版由于测试时间短，如果有问题请发邮件到comeforu2012@gmail.com 反馈。
 * 最近本软件依赖的谷歌ip在中国大陆已经被封的越来越少，使用体验大幅下降。为了保证能够继续翻墙，请朋友们多预备几款翻墙软件，这里推荐几款：
  * 自由门：https://git.io/fgp
@@ -17,7 +18,7 @@
 * **安全提醒：**最好别用360、QQ电脑管家等国内公司的软件，它搜集用户的上网行为，你访问哪个国外网站它都记录了，这就等于是窃取你的隐私，这些隐私暴露给它们对你一点好处也没有。我真的不是吓唬你。而且360这样的软件还会在你访问国外一些网站的时候进行拦截，QQ电脑管家有时还会直接删除本软件的主程序，很多反馈来的问题都是此类软件造成的。所以我建议你还是卸载国内公司的安全防护类软件，改用国外公司的吧。
 
 #### 下载地址：
-> * 百度盘：http://pan.baidu.com/s/1kTzOGQF 提取密码：8k7w
+> * 百度盘：
 > * 百度云：
 > * 好盘：http://howfile.com/file/d6wfyr2/bde881ae/
 > * Dropbox：https://www.dropbox.com/s/86kbgs1ackudqoa/Chrome45_v2015.06.01.7z?dl=0
