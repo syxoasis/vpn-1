@@ -19,7 +19,7 @@
 > * 百度云：
 > * 好盘：http://howfile.com/file/d6wfyr2/afb79d75/
 > * Dropbox：https://www.dropbox.com/s/ftusrtsvw48xd6f/Firefox38_v2015.06.09.7z?dl=0
-> * INFO:〖B5FG-HJKLMNPQ〗
+> * INFO:〖B5FGH-JKLMNPQ〗
 
 * **另外，**新版包含了更新程序wget.exe，金山毒霸和QQ电脑管家可能会认为它不安全，继而拦截下载，所以使用金山毒霸或者QQ电脑管家的朋友需要先关闭杀毒软件才能下载。wget.exe这个程序在多引擎病毒扫描网[VirusTotal](https://www.virustotal.com/)的分析结果你可以[点这里](https://www.virustotal.com/zh-cn/file/cf8a9b5db43dd4820ea28e10786f3fac00cf294f793ead1aef86de75246f4495/analysis/)查看。检出率：1/56，只有金山毒霸的引擎认为它不安全，如果你仍然不放心，那就删除解压后的ip_id_Update文件夹。然后你就只能使用手动更新ip和流量了。
 * 如果百度盘下载地址失效，请发邮件至 comeforu2012@gmail.com 提醒我。`
