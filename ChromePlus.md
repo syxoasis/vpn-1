@@ -1,8 +1,7 @@
 #翻墙软件Chrome+发布页 ![](https://oq1gjg.bl3301.livefilestore.com/y2mlLXDCNxE4Puvrh_LvWZjKjFJWNvFh1qLCNBpKa_ykS9zlKUsqg2lImG3Tje3vbcsJt9TWo3BLvQP5Bs8xM_hLPpT3mvfZEcjo6e4sfZqSoM7F4Tr2GuZ2rOGGGzLdFgc/chrome48.ico?psid=1)
 
 ### 公告：
-* **不得不说**，最近百度网盘的文件被禁的太快了！这次不是封下载链接，而是直接禁止分享。如果发现百度网盘不能下载请发邮件提醒我，可以先从**好盘**下载，都一样的。。我会尽快更新百度盘地址。有好办法的朋友可以发邮件告诉我。
-* **2015年6月10日** 此版支持gvs ip，目前ip资源丰富，通道多、速度快，暂时告别扫ip的烦恼。此版由于测试时间短，如果有问题请发邮件到comeforu2012@gmail.com 反馈。
+* **2015年6月10日** 此版目前ip资源丰富，通道多、速度快，暂时告别扫ip的烦恼。此版由于测试时间短，如果有问题请发邮件到comeforu2012@gmail.com 反馈。
 * 最近本软件依赖的谷歌ip在中国大陆已经被封的越来越少，使用体验大幅下降。为了保证能够继续翻墙，请朋友们多预备几款翻墙软件，这里推荐几款：
  * 自由门：https://git.io/fgp
  * 无界：https://git.io/HNvvvQ
