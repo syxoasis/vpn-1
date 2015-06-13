@@ -19,7 +19,7 @@
 
 #### 下载地址：
 > * 百度盘：http://pan.baidu.com/s/1pJOd1F1 提取密码：55ta
-> * 百度云：
+> * 百度盤：http://pan.baidu.com/s/1bnlm3AR 提取密碼：ew39
 > * 好盘：http://howfile.com/file/d6wfyr2/263167dd/
 > * Dropbox：https://www.dropbox.com/s/pb025pd5vsove6p/Chrome45_v2015.06.10.7z?dl=0
 > * INFO:〖B5-FGHLMNP〗〖QKB－J〗
