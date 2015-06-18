@@ -26,7 +26,7 @@
 >  * SHA1: 8B5C8ADD66E94C93B85135C4633C26058A64E216
 
 #### 【精简版】下载地址：
-> * 百度盘：http://pan.baidu.com/s/1dDzvKLr 提取密码：ic6x
+> * 百度盘JK：http://pan.baidu.com/s/1bnydXwF 提取密码：e45t
 > * 文件校验信息：
 >  * 文件名：Chrome36_v2015.06.17.7z
 >  * SHA1: 3E31182AE68931E98D05FAA93ED69B10CE08F04B
