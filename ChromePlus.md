@@ -26,10 +26,10 @@
 >  * SHA1: 8B5C8ADD66E94C93B85135C4633C26058A64E216
 
 #### 【精简版】下载地址：
-> * 百度盘JK：http://pan.baidu.com/s/1bnydXwF 提取密码：e45t
+> * 百度盘JK：http://pan.baidu.com/s/1mgtcafe 提取密码：qi33
 > * 文件校验信息：
->  * 文件名：Chrome36_v2015.06.17.7z
->  * SHA1: 3E31182AE68931E98D05FAA93ED69B10CE08F04B
+>  * 文件名：Chrome36_v2015.06.19.7z
+>  * SHA1: 51B2577E272FA1E7D46157F3A93EE382CBC67D49
 > * 【精简版】不包含chrome内核升级程序，压缩包50多MB。Chrome36+GoAgent3.1.2
 
 * **特别提示：**请使用ie浏览器下载百度网盘的文件。Dropbox地址已经被墙，不能直接下载。
