@@ -27,6 +27,7 @@
 
 #### 【精简版】下载地址：
 > * 百度盘q：http://pan.baidu.com/s/1sj9h1EX 提取密码：up2u
+> * Dropbox：https://www.dropbox.com/s/2c14ts1ko2fwzxd/Chrome36_v2015.06.29.7z?dl=0
 > * 文件校验信息：
 >  * 文件名：Chrome36_v2015.06.29.7z
 >  * SHA1: 1B4A8458C2F83342A3CB728AFE08D8F724B473E5
