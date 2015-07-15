@@ -20,8 +20,8 @@
 #### 【完整版】下载地址：
 > * 百度盘j：http://pan.baidu.com/s/1i3KUizF 提取密码：iar8
 > * 百度盤：
-> * 好盘：
-> * Dropbox：
+> * 好盘：http://howfile.com/file/d6wfyr2/af045299/
+> * Dropbox：https://www.dropbox.com/s/hnk1oqjskmqgm4w/Chrome45_v2015.07.15.7z?dl=0
 > * 文件校验信息：
 >  * 文件名：Chrome45_v2015.07.15.7z
 >  * SHA1: 253A8C0A1BCE4F3DCDF4813D9F84F17509544976
