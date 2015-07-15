@@ -11,7 +11,7 @@
 ***
 
 ####更新日志：
-* **2015年7月15日** 【完整版】更新chrome内核的安装包，可按照《Chrome内核版本升级说明.rtf》里面的方法手动更新，更新后可解决视频页面提示flash插件版本旧的问题。。另外，需要安装flash插件解决视频播放的问题，flash插件官网下载地址：
+* **2015年7月15日** 【完整版】更新chrome内核的安装包，可按照《Chrome内核版本升级说明.rtf》里面的方法手动更新，更新后可解决视频页面提示flash插件版本旧的问题。。另外，**需要安装flash插件解决视频播放的问题**，flash插件官网下载地址：
  * http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_player.exe
 * 内存低于2G的电脑建议用[火狐版（这里）](https://github.com/comeforu2012/truth/wiki/FirefoxPlus)。
 * 【完整版】核心程序是Chrome36(含升级包)+GoAgent3.2.3（每天共享多G流量）
