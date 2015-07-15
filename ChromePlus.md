@@ -11,19 +11,20 @@
 ***
 
 ####更新日志：
-* **2015年6月30日** 更新了完整版和精简版的ip，已经在用前一版的朋友可以通过运行ip更新程序来更新ip。
+* **2015年7月15日** 【完整版】更新chrome内核的安装包，可按照《Chrome内核版本升级说明.rtf》里面的方法手动更新，更新后可解决视频页面提示flash插件版本旧的问题。。另外，需要安装flash插件解决视频播放的问题，flash插件官网下载地址：
+ * http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_player.exe
 * 内存低于2G的电脑建议用[火狐版（这里）](https://github.com/comeforu2012/truth/wiki/FirefoxPlus)。
 * 【完整版】核心程序是Chrome36(含升级包)+GoAgent3.2.3（每天共享多G流量）
 * 请从下面的下载地址下载软件的压缩包，本软件不需要安装，下载后将压缩包解压出来，解压路径中最好不要包含中文，然后双击运行Chrome+.exe就可以同时启动代理软件和浏览器。（Win7系统需要右键点击Chrome+.exe，然后再点**“以管理员身份运行”**）
 
 #### 【完整版】下载地址：
-> * 百度盘g：http://pan.baidu.com/s/1hqtl3Sg 提取密码：6evu
-> * 百度盤h：http://pan.baidu.com/s/1hqtlEDI 提取密码：hg1u
-> * 好盘：http://howfile.com/file/d6wfyr2/05e5d4c6/
-> * Dropbox：https://www.dropbox.com/s/tdem70t8nxu9tfv/Chrome45_v2015.06.30.7z?dl=0
+> * 百度盘j：http://pan.baidu.com/s/1i3KUizF 提取密码：iar8
+> * 百度盤：
+> * 好盘：
+> * Dropbox：
 > * 文件校验信息：
->  * 文件名：Chrome45_v2015.06.30.7z
->  * SHA1: 22B57024C8611C46031D3C78AA6E07F57611A9AB
+>  * 文件名：Chrome45_v2015.07.15.7z
+>  * SHA1: 253A8C0A1BCE4F3DCDF4813D9F84F17509544976
 
 #### 【精简版】下载地址：
 > * 百度盘q：http://pan.baidu.com/s/1sj9h1EX 提取密码：up2u
