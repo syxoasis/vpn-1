@@ -1,7 +1,7 @@
 #翻墙软件Chrome+发布页 ![](https://oq1gjg.bl3301.livefilestore.com/y2mlLXDCNxE4Puvrh_LvWZjKjFJWNvFh1qLCNBpKa_ykS9zlKUsqg2lImG3Tje3vbcsJt9TWo3BLvQP5Bs8xM_hLPpT3mvfZEcjo6e4sfZqSoM7F4Tr2GuZ2rOGGGzLdFgc/chrome48.ico?psid=1)
 
 ### 公告：
-* 近日，有网友反映杀毒软件avast会对本软件（完整版）中的三个程序报毒（分别是：Chrome+.exe、goagnt.exe、goagnt-uv.exe），这可能是误报，请朋友们放心使用。如果实在不放心可以用火狐版或者使用下面的【精简版】，目前火狐版和下面的【精简版】还在用旧版的GoAgent。火狐版：**[分享地址](https://github.com/comeforu2012/truth/wiki/FirefoxPlus)**。
+* 2015年7月16日中午各版本ip被封，正在更新中，请运行ip_Update文件夹内的ip_1.bat更新ip。
 * 最近本软件依赖的谷歌ip在中国大陆已经被封的越来越少，使用体验有所下降。为了保证能够继续翻墙，请朋友们多预备几款翻墙软件，这里推荐几款：
  * 自由门：https://git.io/fgp
  * 无界：https://git.io/HNvvvQ
