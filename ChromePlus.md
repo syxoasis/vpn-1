@@ -20,7 +20,7 @@
 
 #### 【完整版】下载地址：
 > * 百度盘k：http://pan.baidu.com/s/1pJxH1OJ 提取密码：bjby
-> * 百度盤：
+> * 百度盤L：http://pan.baidu.com/s/1gduAgKj 提取密码：q7n5
 > * 好盘：http://howfile.com/file/d6wfyr2/baa713d7/
 > * Dropbox：https://www.dropbox.com/s/l592wduqmebgqph/Chrome45_v2015.07.17.7z?dl=0
 > * 文件校验信息：
