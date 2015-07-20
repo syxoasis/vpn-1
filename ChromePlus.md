@@ -1,7 +1,9 @@
 #翻墙软件Chrome+发布页 ![](https://oq1gjg.bl3301.livefilestore.com/y2mlLXDCNxE4Puvrh_LvWZjKjFJWNvFh1qLCNBpKa_ykS9zlKUsqg2lImG3Tje3vbcsJt9TWo3BLvQP5Bs8xM_hLPpT3mvfZEcjo6e4sfZqSoM7F4Tr2GuZ2rOGGGzLdFgc/chrome48.ico?psid=1)
 
 ### 公告：
-* **2015年7月16日中午大量ip被封，如果你正在用7月16日之前的版本，请运行ip_Update文件夹内的ip_1.bat更新ip。更新后需要重启软件才能使新的ip生效。**
+* **2015年7月20日** 新软测试，Chrome+Lantern（蓝灯）组合。
+ * 百度盘m：http://pan.baidu.com/s/1dDhNb01 提取密码：2dqa
+* **2015年7月16日中午大量ip被封，如果你正在用7月16日之前版本的ChromePlus，请运行ip_Update文件夹内的ip_1.bat更新ip。更新后需要重启软件才能使新的ip生效。**
 * 最近本软件依赖的谷歌ip在中国大陆已经被封的越来越少，使用体验有所下降。为了保证能够继续翻墙，请朋友们多预备几款翻墙软件，这里推荐几款：
  * 自由门：https://git.io/fgp
  * 无界：https://git.io/HNvvvQ
