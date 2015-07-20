@@ -4,6 +4,7 @@
 * **2015年7月20日** 新软测试，Chrome+Lantern（蓝灯）组合。
  * 百度盘m：http://pan.baidu.com/s/1dDhNb01 提取密码：2dqa
  * 好盘：http://howfile.com/file/d6wfyr2/529ebb40/
+ * MEGA：https://mega.nz/#!BNQhmKBA!7tNWP2cru4laXvhll3a-hhh_OHrtlJTgZ0j5E-wbAOg
  * SHA1: C5C259273DB907F5AE8BD1A48BDC87D9C40BDD62
 
 ***
