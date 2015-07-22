@@ -37,7 +37,7 @@
 
 #### 【精简版】下载地址：
 > * 百度盘b：http://pan.baidu.com/s/1i3Chh7f 提取密码：b997
-> * Dropbox：
+> * MEGA：https://mega.nz/#!pdI3kRwY!WhPRWSPXW1lfut2-KFRSsnyUyol8SVbM9oLx3xUkN94
 > * 文件校验信息：
 >  * 文件名：Chrome36_v2015.07.22.7z
 >  * SHA1: 95DAC3D52BEE0559696AFD954DDD4234B8CB72CD
