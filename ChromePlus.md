@@ -25,8 +25,8 @@
 #### 【完整版】下载地址：
 > * 百度盘m：http://pan.baidu.com/s/1kTJ4FDP 提取密码：2wi3
 > * 百度盤L：
-> * 好盘：
-> * Dropbox：
+> * 好盘：http://howfile.com/file/d6wfyr2/6c3d8cef/
+> * Dropbox：https://www.dropbox.com/s/adrap0ah204x1s5/Chrome45_v2015.07.22.7z?dl=0
 > * 文件校验信息：
 >  * 文件名：Chrome45_v2015.07.22.7z
 >  * SHA1: 68C33FA3E311AB0CE6084A10FD84659FF332BF72
