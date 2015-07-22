@@ -9,7 +9,6 @@
 
 ***
 
-* **2015年7月16日中午大量ip被封，如果你正在用7月16日之前版本的ChromePlus，请运行ip_Update文件夹内的ip_1.bat更新ip。更新后需要重启软件才能使新的ip生效。**
 * 最近本软件依赖的谷歌ip在中国大陆已经被封的越来越少，使用体验有所下降。为了保证能够继续翻墙，请朋友们多预备几款翻墙软件，这里推荐几款：
  * 自由门：https://git.io/fgp
  * 无界：https://git.io/HNvvvQ
@@ -19,21 +18,18 @@
 ***
 
 ####更新日志：
-* **2015年7月17日** 【完整版】更新ip。
-* **2015年7月15日** 【完整版】更新chrome内核的安装包，可按照《Chrome内核版本升级说明.rtf》里面的方法手动更新，更新后可解决视频页面提示flash插件版本旧的问题。。另外，**需要安装flash插件解决视频播放的问题**，flash插件官网下载地址：
- * http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_player.exe
-* 内存低于2G的电脑建议用[火狐版（这里）](https://github.com/comeforu2012/truth/wiki/FirefoxPlus)。
+* **2015年7月22日** 【完整版】更新flash插件。
 * 【完整版】核心程序是Chrome36(含升级包)+GoAgent3.2.3（每天共享多G流量）
 * 请从下面的下载地址下载软件的压缩包，本软件不需要安装，下载后将压缩包解压出来，解压路径中最好不要包含中文，然后双击运行Chrome+.exe就可以同时启动代理软件和浏览器。（Win7系统需要右键点击Chrome+.exe，然后再点**“以管理员身份运行”**）
 
 #### 【完整版】下载地址：
-> * 百度盘k：http://pan.baidu.com/s/1pJxH1OJ 提取密码：bjby
-> * 百度盤L：http://pan.baidu.com/s/1gduAgKj 提取密码：q7n5
-> * 好盘：http://howfile.com/file/d6wfyr2/baa713d7/
-> * Dropbox：https://www.dropbox.com/s/l592wduqmebgqph/Chrome45_v2015.07.17.7z?dl=0
+> * 百度盘m：http://pan.baidu.com/s/1kTJ4FDP 提取密码：2wi3
+> * 百度盤L：
+> * 好盘：
+> * Dropbox：
 > * 文件校验信息：
->  * 文件名：Chrome45_v2015.07.17.7z
->  * SHA1: A4621E5B9D6DC3A7B356704C779A21C2277FBE39
+>  * 文件名：Chrome45_v2015.07.22.7z
+>  * SHA1: 68C33FA3E311AB0CE6084A10FD84659FF332BF72
 
 #### 【精简版】下载地址：
 > * 百度盘b：http://pan.baidu.com/s/1i3Chh7f 提取密码：b997
