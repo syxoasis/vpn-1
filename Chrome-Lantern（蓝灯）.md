@@ -5,7 +5,7 @@
 ### 下载地址：
  * 百度盘m：http://pan.baidu.com/s/1pJqWmyn 提取密码：4rn5
  * 好盘：http://howfile.com/file/d6wfyr2/b1930335/
- * MEGA：
+ * MEGA：https://mega.nz/#!wZ5RTT5K!DfEt-caRtJuFE8z0kX0fQ0Xyc2XfiSdRBNDocOPL9YE
  * 校验信息：
   * 文件名: ChromeLT_v2015.07.23.7z
   * SHA1: 18FA0970AD4565A3043ED7F48DFA6B742F1848B1
