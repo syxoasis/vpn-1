@@ -1,7 +1,7 @@
 # 新软测试，Chrome+Lantern（蓝灯）组合。
 ### 下载地址：
  * 百度盘m：http://pan.baidu.com/s/1pJqWmyn 提取密码：4rn5
- * 好盘：
+ * 好盘：http://howfile.com/file/d6wfyr2/b1930335/
  * MEGA：
  * 校验信息：
   * 文件名: ChromeLT_v2015.07.23.7z
