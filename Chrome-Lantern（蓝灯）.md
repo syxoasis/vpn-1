@@ -1,4 +1,7 @@
-# 新软测试，Chrome+Lantern（蓝灯）组合。
+# Chrome+Lantern（蓝灯）
+### 说明：
+* 蓝灯的速度多数时候都是很快的，可能偶尔会连接到速度慢的服务器，这是正常的。
+
 ### 下载地址：
  * 百度盘m：http://pan.baidu.com/s/1pJqWmyn 提取密码：4rn5
  * 好盘：http://howfile.com/file/d6wfyr2/b1930335/
