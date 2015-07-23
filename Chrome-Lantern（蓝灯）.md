@@ -1,5 +1,12 @@
-* **2015年7月20日** 新软测试，Chrome+Lantern（蓝灯）组合。下载后解压缩出来，Win7系统请按照说明使用“分开启动”的方式。
- * 百度盘m：http://pan.baidu.com/s/1kTzlGm7 提取密码：15n8
- * 好盘：http://howfile.com/file/d6wfyr2/3e458ec7/
- * MEGA：https://mega.nz/#!xRIX1SgA!nFrgO9Z79mGCjYfPx29RNe3FjA0nPyCVvPmY_FS8XBA
- * SHA1: 7154F6F14597BA8DBF0855CE1DBAC318A1AC77C6
+# 新软测试，Chrome+Lantern（蓝灯）组合。
+### 下载地址：
+ * 百度盘m：http://pan.baidu.com/s/1pJqWmyn 提取密码：4rn5
+ * 好盘：
+ * MEGA：
+ * 校验信息：
+  * 文件名: ChromeLT_v2015.07.23.7z
+  * SHA1: 18FA0970AD4565A3043ED7F48DFA6B742F1848B1
+
+### 更新日志：
+* **2015年7月23日** Win7系统请按“注意事项”第4项的方法“分开启动”，否则可能会出现chrome浏览器关闭后系统代理不能成功重置而导致ie浏览器打不开网页。
+* 有问题请发邮件到comeforu2012@gmail.com ,反馈邮件请注明“蓝灯版”。
