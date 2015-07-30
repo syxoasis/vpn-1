@@ -19,6 +19,7 @@
 > * 百度盘m：http://pan.baidu.com/s/1kTJ4FDP 提取密码：2wi3
 > * 百度盤L：
 > * 好盘：http://howfile.com/file/d6wfyr2/6c3d8cef/
+> * MEGA：https://mega.nz/#!YJRC3DwQ!rFGGwkvL0bGQda_bxcJ8ov48AldMZ1t0J1tyYL_zEQE
 > * Dropbox：https://www.dropbox.com/s/adrap0ah204x1s5/Chrome45_v2015.07.22.7z?dl=0
 > * 文件校验信息：
 >  * 文件名：Chrome45_v2015.07.22.7z
