@@ -1,6 +1,7 @@
 #翻墙软件Chrome+发布页 ![](https://oq1gjg.bl3301.livefilestore.com/y2mlLXDCNxE4Puvrh_LvWZjKjFJWNvFh1qLCNBpKa_ykS9zlKUsqg2lImG3Tje3vbcsJt9TWo3BLvQP5Bs8xM_hLPpT3mvfZEcjo6e4sfZqSoM7F4Tr2GuZ2rOGGGzLdFgc/chrome48.ico?psid=1)
 
 ### 公告：
+* 新软测试，Chrome+Lantern（蓝灯）组合。下载地址：https://github.com/comeforu2012/truth/wiki/Chrome-Lantern%EF%BC%88%E8%93%9D%E7%81%AF%EF%BC%89
 * 最近本软件依赖的谷歌ip在中国大陆已经被封的越来越少，使用体验有所下降。为了保证能够继续翻墙，请朋友们多预备几款翻墙软件，这里推荐几款：
  * 自由门：https://git.io/fgp
  * 无界：https://git.io/HNvvvQ
