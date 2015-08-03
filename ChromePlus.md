@@ -28,7 +28,7 @@
 >  * SHA1: 68C33FA3E311AB0CE6084A10FD84659FF332BF72
 
 #### 【精简版】下载地址：
-> * 百度盘b：http://pan.baidu.com/s/1i3Chh7f 提取密码：b997
+> * 百度盘5：http://pan.baidu.com/s/1sjmPnGh 提取密码：wgf6
 > * MEGA：https://mega.nz/#!pdI3kRwY!WhPRWSPXW1lfut2-KFRSsnyUyol8SVbM9oLx3xUkN94
 > * 文件校验信息：
 >  * 文件名：Chrome36_v2015.07.22.7z
