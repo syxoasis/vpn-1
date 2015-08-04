@@ -28,8 +28,8 @@
 >  * SHA1: A7EE17F36653B8F360F7AB8A640663DBACB06B08
 
 #### 【精简版】下载地址：
-> * 百度盘5：http://pan.baidu.com/s/1sjmPnGh 提取密码：wgf6
-> * MEGA：https://mega.nz/#!pdI3kRwY!WhPRWSPXW1lfut2-KFRSsnyUyol8SVbM9oLx3xUkN94
+> * 百度盘5：
+> * MEGA：
 > * 文件校验信息：
 >  * 文件名：Chrome36_v2015.07.22.7z
 >  * SHA1: 95DAC3D52BEE0559696AFD954DDD4234B8CB72CD
