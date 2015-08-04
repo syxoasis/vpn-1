@@ -28,13 +28,13 @@
 >  * SHA1: A7EE17F36653B8F360F7AB8A640663DBACB06B08
 
 #### 【精简版】下载地址：
-> * 百度盘5：
+> * 百度盘5：http://pan.baidu.com/s/1i3ITE0d 提取密码：69r5
 > * MEGA：
 > * 文件校验信息：
->  * 文件名：Chrome36_v2015.07.22.7z
->  * SHA1: 95DAC3D52BEE0559696AFD954DDD4234B8CB72CD
+>  * 文件名：Chrome36_v2015.08.04.7z
+>  * SHA1: E94EA61BF41ACBBA7CFFB33A8F33775232F0D9EE
 > * 【精简版】不包含chrome内核升级程序，压缩包50多MB。Chrome36+GoAgent3.1.2
-> * 2015年7月22日 更新ip，更新flash插件版本。
+> * 2015年8月4日 修复上一版的代理规则错误。上一版误操作，让该直连的走了代理。
 
 * **特别提示：**请使用ie浏览器下载百度网盘的文件。Dropbox地址已经被墙，不能直接下载。
  * **另外，**压缩包内包含的更新程序wget.exe，金山毒霸和QQ电脑管家可能会认为它不安全，继而拦截下载，所以使用金山毒霸或者QQ电脑管家的朋友需要先关闭杀毒软件才能下载。wget.exe这个程序在多引擎病毒扫描网[VirusTotal](https://www.virustotal.com/)的分析结果你可以[点这里](https://www.virustotal.com/zh-cn/file/cf8a9b5db43dd4820ea28e10786f3fac00cf294f793ead1aef86de75246f4495/analysis/)查看。检出率：1/56，只有金山毒霸的引擎认为它不安全，如果你仍然不放心，那就删除解压后的ip_Update和id_Update文件夹。然后你就只能使用手动更新ip和流量了。
