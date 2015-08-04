@@ -21,7 +21,7 @@
 > * 百度盘m：
 > * 百度盤n：http://pan.baidu.com/s/1kTAIbAJ 提取密码：unud
 > * 好盘：http://howfile.com/file/d6wfyr2/237a4630/
-> * MEGA：
+> * MEGA：https://mega.nz/#!VdQDhLYD!a-LQYwVdvK6E6uBHZ5WtPw344GuEffZxq7hT7SgF3cE
 > * Dropbox：https://www.dropbox.com/s/r64q6rmzzpd5h6c/Chrome46_v2015.08.04.7z?dl=0
 > * 文件校验信息：
 >  * 文件名：Chrome46_v2015.08.04.7z
