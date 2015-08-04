@@ -13,19 +13,19 @@
 ***
 
 ####更新日志：
-* **2015年7月22日** 【完整版】更新flash插件。
+* **2015年8月4日** 【完整版】修复上一版的代理规则错误。上一版误操作，让该直连的走了代理。
 * 【完整版】核心程序是Chrome36(含升级包)+GoAgent3.2.3（每天共享多G流量）
 * 请从下面的下载地址下载软件的压缩包，本软件不需要安装，下载后将压缩包解压出来，解压路径中最好不要包含中文，然后双击运行Chrome+.exe就可以同时启动代理软件和浏览器。（Win7系统需要右键点击Chrome+.exe，然后再点**“以管理员身份运行”**）
 
 #### 【完整版】下载地址：
 > * 百度盘m：
-> * 百度盤n：http://pan.baidu.com/s/1dDEsbPB 提取密码：5nai
-> * 好盘：http://howfile.com/file/d6wfyr2/6c3d8cef/
-> * MEGA：https://mega.nz/#!YJRC3DwQ!rFGGwkvL0bGQda_bxcJ8ov48AldMZ1t0J1tyYL_zEQE
-> * Dropbox：https://www.dropbox.com/s/adrap0ah204x1s5/Chrome45_v2015.07.22.7z?dl=0
+> * 百度盤n：http://pan.baidu.com/s/1kTAIbAJ 提取密码：unud
+> * 好盘：
+> * MEGA：
+> * Dropbox：
 > * 文件校验信息：
->  * 文件名：Chrome45_v2015.07.22.7z
->  * SHA1: 68C33FA3E311AB0CE6084A10FD84659FF332BF72
+>  * 文件名：Chrome46_v2015.08.04.7z
+>  * SHA1: A7EE17F36653B8F360F7AB8A640663DBACB06B08
 
 #### 【精简版】下载地址：
 > * 百度盘5：http://pan.baidu.com/s/1sjmPnGh 提取密码：wgf6
