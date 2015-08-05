@@ -1,9 +1,6 @@
 ## FirefoxPlus，一键翻墙。
 
 ### 公告：
-* **2015年7月16日中午各版本ip被封，正在更新中，请运行ip_id_Update文件夹内的ip_1.bat更新ip。更新后需要重启软件才能使新的ip生效。**
-* **2015年6月29日** 更新ip。
-* 2015年6月9日之后更新的版本使用比较快的ip连接，有问题请发邮件给我：comeforu2012@gmail.com 。使用旧版的朋友如果不能用就下载新版。
 * 最近本软件依赖的谷歌ip在中国大陆已经被封的越来越少。为了保证能够继续翻墙，请朋友们多预备几款翻墙软件，这里推荐几款：
  * 自由门：https://git.io/fgp
  * 无界：https://git.io/HNvvvQ
@@ -13,24 +10,24 @@
  * [**网门**：https://git.io/ogate](https://git.io/ogate),[（点此查看二维码）](https://camo.githubusercontent.com/987c128f5810491e04daaddd3c18765a5e9cbb3e/68747470733a2f2f64316a75386a697931706965746e2e636c6f756466726f6e742e6e65742f55702f30574d47444c322e706e67)，聚合多个站点，浏览器直接访问。
 
 ####更新日志：
-* **2015年6月29日** 更新ip。修复6月11日版YouTube视频播放完成后缩略图不显示的问题。
-* 核心程序是Firefox38.0.5+GoAgent3.1.2
+* **2015年8月5日** 更新ip，更新火狐内核，更新证书。
+* 核心程序是Firefox39.0+GoAgent3.1.2
 * 请从下面的下载地址下载完整的压缩包，本软件不需要安装，下载后将压缩包解压出来，解压路径中最好不要包含中文，然后双击运行**FFgo.exe**就可以同时启动代理软件和浏览器。（Win7系统需要右键点击FFgo.exe，然后再点**“以管理员身份运行”**）
 
 ####下载地址：
-> * 百度盘：http://pan.baidu.com/s/1c0jjRo8 提取密码：stnp
-> * 百度盤：http://pan.baidu.com/s/1o6zeKki 提取密码：pqwv
-> * 好盘：http://howfile.com/file/d6wfyr2/c59358ea/
-> * Dropbox：https://www.dropbox.com/s/wjppmz6ivrv1v83/Firefox38_v2015.06.29.7z?dl=0
-> * INFO:【KLMNP－Q〗〖B5FGH－J】
+> * 百度盘b：http://pan.baidu.com/s/1kTox1ht 提取密码：7m24
+> * 百度盤：
+> * 好盘：
+> * MEGA:
+> * Dropbox：
 
 * **另外，**新版包含了更新程序wget.exe，金山毒霸和QQ电脑管家可能会认为它不安全，继而拦截下载，所以使用金山毒霸或者QQ电脑管家的朋友需要先关闭杀毒软件才能下载。wget.exe这个程序在多引擎病毒扫描网[VirusTotal](https://www.virustotal.com/)的分析结果你可以[点这里](https://www.virustotal.com/zh-cn/file/cf8a9b5db43dd4820ea28e10786f3fac00cf294f793ead1aef86de75246f4495/analysis/)查看。检出率：1/56，只有金山毒霸的引擎认为它不安全，如果你仍然不放心，那就删除解压后的ip_id_Update文件夹。然后你就只能使用手动更新ip和流量了。
 * 如果百度盘下载地址失效，请发邮件至 comeforu2012@gmail.com 提醒我。`
 
 **文件校验信息：**
-> * 文件名：Firefox38_v2015.06.29.7z
-> * MD5: 88C7D81458E53216CF620DCEEBB33577
-> * SHA1: C7A231095E283A071D922278C6ED58126B99B611
+> * 文件名：Firefox39_v2015.08.05.7z
+> * MD5: 55D04E35CECF6C5E464FEAA85D303D04
+> * SHA1: 690B94CD813CBD9C1F38A8083D619D30CD07284C
 
 ####注意事项：
 * 电脑上需要安装用于火狐的flash插件才可以播放网页视频。
