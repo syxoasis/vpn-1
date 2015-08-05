@@ -29,7 +29,7 @@
 
 #### 【精简版】下载地址：
 > * 百度盘5：http://pan.baidu.com/s/1i3ITE0d 提取密码：69r5
-> * MEGA：
+> * MEGA：https://mega.nz/#!BMhRDSpB!utKh2hJM2eptc3gfkfYOmn7nEkgMrmNKdq-0uZC2dqI
 > * 文件校验信息：
 >  * 文件名：Chrome36_v2015.08.04.7z
 >  * SHA1: E94EA61BF41ACBBA7CFFB33A8F33775232F0D9EE
