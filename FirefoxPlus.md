@@ -1,6 +1,8 @@
 ## FirefoxPlus，一键翻墙。
 
 ### 公告：
+* 请及时更新flash插件，用于火狐的最新版flash插件官网下载地址：
+ * http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_player.exe
 * 最近本软件依赖的谷歌ip在中国大陆已经被封的越来越少。为了保证能够继续翻墙，请朋友们多预备几款翻墙软件，这里推荐几款：
  * 自由门：https://git.io/fgp
  * 无界：https://git.io/HNvvvQ
