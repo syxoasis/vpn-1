@@ -18,7 +18,7 @@
 * 请从下面的下载地址下载软件的压缩包，本软件不需要安装，下载后将压缩包解压出来，解压路径中最好不要包含中文，然后双击运行Chrome+.exe就可以同时启动代理软件和浏览器。（Win7系统需要右键点击Chrome+.exe，然后再点**“以管理员身份运行”**）
 
 #### 【完整版】下载地址：
-> * 百度盘p：http://pan.baidu.com/s/1jGxTe1w 提取密码：cvaj
+> * 百度盘q：http://pan.baidu.com/s/1mgpImZA 提取密码：wnh4
 > * 百度盤n：
 > * 好盘：http://howfile.com/file/d6wfyr2/237a4630/
 > * MEGA：https://mega.nz/#!VdQDhLYD!a-LQYwVdvK6E6uBHZ5WtPw344GuEffZxq7hT7SgF3cE
@@ -28,7 +28,7 @@
 >  * SHA1: A7EE17F36653B8F360F7AB8A640663DBACB06B08
 
 #### 【精简版】下载地址：
-> * 百度盘5：http://pan.baidu.com/s/1i3ITE0d 提取密码：69r5
+> * 百度盘f：http://pan.baidu.com/s/1mg7toms 提取密码：c9ff
 > * MEGA：https://mega.nz/#!BMhRDSpB!utKh2hJM2eptc3gfkfYOmn7nEkgMrmNKdq-0uZC2dqI
 > * 文件校验信息：
 >  * 文件名：Chrome36_v2015.08.04.7z
