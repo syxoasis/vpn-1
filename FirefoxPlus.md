@@ -17,7 +17,7 @@
 * 请从下面的下载地址下载完整的压缩包，本软件不需要安装，下载后将压缩包解压出来，解压路径中最好不要包含中文，然后双击运行**FFgo.exe**就可以同时启动代理软件和浏览器。（Win7系统需要右键点击FFgo.exe，然后再点**“以管理员身份运行”**）
 
 ####下载地址：
-> * 百度盘b：http://pan.baidu.com/s/1kTox1ht 提取密码：7m24
+> * 百度盘5：http://pan.baidu.com/s/1kT7vovt 提取密码：mc5m
 > * 百度盤：
 > * 好盘：http://howfile.com/file/d6wfyr2/f9f9678a/
 > * MEGA：https://mega.nz/#!lFoVgIiD!_10R6QR0GauRRGa9mZ-6CNcn1s2vW9xqJ9wBKKle4ig
