@@ -20,7 +20,7 @@
 > * 百度盘f：http://pan.baidu.com/s/1bPPwi 提取密码：snxv
 > * 百度盤：
 > * 好盘：http://howfile.com/file/d6wfyr2/48abb91f/
-> * MEGA：
+> * MEGA：https://mega.nz/#!MVBlnCpK!oaflm9KRJlOEAEEMAGpV8l2m6QI_h0ECgJy5UpTkSGA
 > * Dropbox：https://www.dropbox.com/s/q8cj61tpr4queq5/Firefox40_v2015.08.22.7z?dl=0
 
 * **另外，**新版包含了更新程序wget.exe，金山毒霸和QQ电脑管家可能会认为它不安全，继而拦截下载，所以使用金山毒霸或者QQ电脑管家的朋友需要先关闭杀毒软件才能下载。wget.exe这个程序在多引擎病毒扫描网[VirusTotal](https://www.virustotal.com/)的分析结果你可以[点这里](https://www.virustotal.com/zh-cn/file/cf8a9b5db43dd4820ea28e10786f3fac00cf294f793ead1aef86de75246f4495/analysis/)查看。检出率：1/56，只有金山毒霸的引擎认为它不安全，如果你仍然不放心，那就删除解压后的ip_id_Update文件夹。然后你就只能使用手动更新ip和流量了。
