@@ -19,7 +19,7 @@
 ####下载地址：
 > * 百度盘f：http://pan.baidu.com/s/1bPPwi 提取密码：snxv
 > * 百度盤：
-> * 好盘：
+> * 好盘：http://howfile.com/file/d6wfyr2/48abb91f/
 > * MEGA：
 > * Dropbox：https://www.dropbox.com/s/q8cj61tpr4queq5/Firefox40_v2015.08.22.7z?dl=0
 
