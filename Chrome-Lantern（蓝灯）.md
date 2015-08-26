@@ -6,7 +6,7 @@
 * 有问题请发邮件到comeforu2012@gmail.com ,反馈邮件请注明“蓝灯版”。
 
 ### 下载地址：
- * 百度盘n：http://pan.baidu.com/s/1eQEWZGu 提取密码：35ca
+ * 百度盘p：http://pan.baidu.com/s/1pJ5RMMR 提取密码：vqv4
  * 好盘：http://howfile.com/file/d6wfyr2/cca1c906/
  * MEGA：https://mega.nz/#!QRY2WTQZ!bvTS_L-Fk2iAB7YylAXq6BWr8jKbkDFm4RY3YtBGWko
  * 校验信息：
