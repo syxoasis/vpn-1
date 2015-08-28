@@ -6,10 +6,10 @@
 * 有问题请发邮件到comeforu2012@gmail.com ,反馈邮件请注明“火狐蓝灯版”。
 
 ### 下载地址：
- * 百度盘：
+ * 百度盘：http://pan.baidu.com/s/1kT3YpGr 提取密码：vwmv
  * 好盘：
  * MEGA：
  * 校验信息：
-  * 文件名: 
-  * SHA1: 
+  * 文件名: FirefoxLT_2015.08.28.7z
+  * SHA1: AFC1CD0D934A6EAC16B293924B36EFAA4A9FA1FA
 
