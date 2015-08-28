@@ -1,7 +1,7 @@
 ## FirefoxPlus，一键翻墙。
 
 ### 公告：
-* 新软测试，Firefox+Lantern（蓝灯）组合。下载地址：https://github.com/comeforu2012/truth/wiki/Firefox-Lantern
+* **新软测试，**Firefox+Lantern（蓝灯）组合。下载地址：https://github.com/comeforu2012/truth/wiki/Firefox-Lantern
 * 请及时更新flash插件，用于火狐的最新版flash插件官网下载地址：
  * http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_player.exe
 * 最近本软件依赖的谷歌ip在中国大陆已经被封的越来越少。为了保证能够继续翻墙，请朋友们多预备几款翻墙软件，这里推荐几款：
