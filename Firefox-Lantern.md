@@ -8,7 +8,7 @@
 ### 下载地址：
  * 百度盘：http://pan.baidu.com/s/1kT3YpGr 提取密码：vwmv
  * 好盘：http://howfile.com/file/d6wfyr2/3ec56f1b/
- * MEGA：
+ * MEGA：https://mega.nz/#!Ic5xzZzb!GYyrhpPzfRxD8DGzBgOLZ_GQav1dUq8Y_RTicWzBLCc
  * Dropbox：https://www.dropbox.com/s/cuwmr4b3o48cwc7/FirefoxLT_2015.08.28.7z?dl=0
  * 校验信息：
   * 文件名: FirefoxLT_2015.08.28.7z
