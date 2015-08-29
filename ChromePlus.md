@@ -20,9 +20,9 @@
 #### 【完整版】下载地址：
 > * 百度盘5：http://pan.baidu.com/s/1jGrPgTw 提取密码：a24f
 > * 百度盤n：
-> * 好盘：
+> * 好盘：http://howfile.com/file/d6wfyr2/8b687c0b/
 > * MEGA：
-> * Dropbox：
+> * Dropbox：https://www.dropbox.com/s/v9336m5q32pbwv5/Chrome46_v2015.08.29.7z?dl=0
 > * 文件校验信息：
 >  * 文件名：Chrome46_v2015.08.29.7z
 >  * SHA1: AD265FE27CA5FE9CA83AA8FEACDCB2096448B431
