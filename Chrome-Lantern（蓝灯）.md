@@ -8,8 +8,9 @@
 
 ### 下载地址：
  * 百度盘q：http://pan.baidu.com/s/1qWDXJa8 提取密码：354w
- * 好盘：
+ * 好盘：http://howfile.com/file/d6wfyr2/dc3e7b62/
  * MEGA：
+ * Dropbox：https://www.dropbox.com/s/j4yuffnvqj56fm3/ChromeLT_v2015.09.01.7z?dl=0
  * 校验信息：
   * 文件名: ChromeLT_v2015.09.01.7z
   * SHA1: C1A28F932FAA8D71E69084EE7F3CED7498AE258E
