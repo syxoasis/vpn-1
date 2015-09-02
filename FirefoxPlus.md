@@ -22,6 +22,7 @@
 > * 百度盤：
 > * 好盘：http://howfile.com/file/d6wfyr2/48abb91f/
 > * MEGA：https://mega.nz/#!MVBlnCpK!oaflm9KRJlOEAEEMAGpV8l2m6QI_h0ECgJy5UpTkSGA
+>   * 如何下载MEGA网盘文件，请**[点此](https://camo.githubusercontent.com/ae2b2eed84a93aa61d7adba2090332bd59b86452/68747470733a2f2f716e77626e712e626c333330312e6c69766566696c6573746f72652e636f6d2f79336d714d5953336f323447334a37614936316b544e323349566e54653578756e31357752306f6941496b7673633656483178723039486435335769446e4b6168316e7944547a3378555064395f716f4b4d6c6f73664e724d68306573794f76554342304246456644796c4a69766871794550354568754a613467745a4b3675613767364c366c307378656c4c46646a6473757333636942345962595a677a466a5050493734416f4d67485f38342f4d454741322e706e673f707369643d31)**查看。
 > * Dropbox：https://www.dropbox.com/s/q8cj61tpr4queq5/Firefox40_v2015.08.22.7z?dl=0
 
 * **另外，**新版包含了更新程序wget.exe，金山毒霸和QQ电脑管家可能会认为它不安全，继而拦截下载，所以使用金山毒霸或者QQ电脑管家的朋友需要先关闭杀毒软件才能下载。wget.exe这个程序在多引擎病毒扫描网[VirusTotal](https://www.virustotal.com/)的分析结果你可以[点这里](https://www.virustotal.com/zh-cn/file/cf8a9b5db43dd4820ea28e10786f3fac00cf294f793ead1aef86de75246f4495/analysis/)查看。检出率：1/56，只有金山毒霸的引擎认为它不安全，如果你仍然不放心，那就删除解压后的ip_id_Update文件夹。然后你就只能使用手动更新ip和流量了。
