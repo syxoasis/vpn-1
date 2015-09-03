@@ -13,20 +13,20 @@
 ***
 
 ####更新日志：
-* **2015年8月29日** 【完整版】更新ip。
+* **2015年9月3日** 【完整版】更新ip。
 * 【完整版】核心程序是Chrome36(含升级包)+GoAgent3.2.3（每天共享多G流量）
 * 请从下面的下载地址下载软件的压缩包，本软件不需要安装，下载后将压缩包解压出来，解压路径中最好不要包含中文，然后双击运行Chrome+.exe就可以同时启动代理软件和浏览器。（Win7系统需要右键点击Chrome+.exe，然后再点**“以管理员身份运行”**）
 
 #### 【完整版】下载地址：
-> * 百度盘5：http://pan.baidu.com/s/1jGrPgTw 提取密码：a24f
+> * 百度盘f：http://pan.baidu.com/s/1kThEaf9 提取密码：q4kx
 > * 百度盤n：
-> * 好盘：http://howfile.com/file/d6wfyr2/8b687c0b/
-> * MEGA：https://mega.nz/#!lAwHEKgA!y2wuZZO5v5-cNZ__f0EQFXEDX39M_Eluj5S46SSSSJ8
+> * 好盘：http://howfile.com/file/d6wfyr2/681b465c/
+> * MEGA：
 >   * 如何下载MEGA网盘文件，请**[点此](https://camo.githubusercontent.com/ae2b2eed84a93aa61d7adba2090332bd59b86452/68747470733a2f2f716e77626e712e626c333330312e6c69766566696c6573746f72652e636f6d2f79336d714d5953336f323447334a37614936316b544e323349566e54653578756e31357752306f6941496b7673633656483178723039486435335769446e4b6168316e7944547a3378555064395f716f4b4d6c6f73664e724d68306573794f76554342304246456644796c4a69766871794550354568754a613467745a4b3675613767364c366c307378656c4c46646a6473757333636942345962595a677a466a5050493734416f4d67485f38342f4d454741322e706e673f707369643d31)**查看。
-> * Dropbox：https://www.dropbox.com/s/v9336m5q32pbwv5/Chrome46_v2015.08.29.7z?dl=0
+> * Dropbox：https://www.dropbox.com/s/i9ow9z02kp3s7ze/Chrome47_v2015.09.03.7z?dl=0
 > * 文件校验信息：
->  * 文件名：Chrome46_v2015.08.29.7z
->  * SHA1: AD265FE27CA5FE9CA83AA8FEACDCB2096448B431
+>  * 文件名：Chrome47_v2015.09.03.7z
+>  * SHA1: 679E8B98B2FC4C1B6A3820D31F42DCB04AC897AA
 
 #### 【精简版】下载地址：
 > * 百度盘h：http://pan.baidu.com/s/1ntIh09N 提取密码：35ku
