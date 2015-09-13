@@ -30,7 +30,7 @@
 
 #### 【精简版】下载地址：
 > * 百度盘J：http://pan.baidu.com/s/1sjtDFi9 提取密码：s6yz
-> * MEGA：
+> * MEGA：https://mega.nz/#!YcAkjTLI!iQDdfxkse49rh5msn851T_16pUybXkSL7Tio3RJwUCw
 > * 文件校验信息：
 >  * 文件名：Chrome36_v2015.09.13.7z
 >  * SHA1: 0665C7B88EF87625A4FFD9D6287B92AF5F63DFBA
