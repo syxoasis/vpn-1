@@ -3,16 +3,16 @@
 * 蓝灯的速度多数时候都是很快的，可能偶尔会连接到速度慢的服务器，这是正常的。
 
 ### 更新日志：
-* **2015年9月2日** 修改程序启动方式为一键启动火狐和蓝灯。
+* **2015年9月19日** 更新蓝灯程序。
 * 有问题请发邮件到comeforu2012@gmail.com ,反馈邮件请注明“火狐蓝灯版”。
 
 ### 下载地址：
- * 百度盘5：http://pan.baidu.com/s/1bnpvIR9 提取密码：qp6b
- * 好盘：http://howfile.com/file/d6wfyr2/8252c229/
- * MEGA：https://mega.nz/#!RQIwHaQa!FoQ5URdXscVDreFIZYh_j0cVWNF6XEDVEs7PwS7mbFs
+ * 百度盘5：http://pan.baidu.com/s/1sjJw4Pn 提取密码：kkg3
+ * 好盘：http://howfile.com/file/d6wfyr2/e09b358b/
+ * MEGA：
   * 如何下载MEGA网盘文件，请**[点此](https://camo.githubusercontent.com/ae2b2eed84a93aa61d7adba2090332bd59b86452/68747470733a2f2f716e77626e712e626c333330312e6c69766566696c6573746f72652e636f6d2f79336d714d5953336f323447334a37614936316b544e323349566e54653578756e31357752306f6941496b7673633656483178723039486435335769446e4b6168316e7944547a3378555064395f716f4b4d6c6f73664e724d68306573794f76554342304246456644796c4a69766871794550354568754a613467745a4b3675613767364c366c307378656c4c46646a6473757333636942345962595a677a466a5050493734416f4d67485f38342f4d454741322e706e673f707369643d31)**查看。
- * Dropbox：https://www.dropbox.com/s/htowdhhh4f1ydkp/FirefoxLT_2015.09.02.7z?dl=0
+ * Dropbox：https://www.dropbox.com/s/4cwzoxk3b1g20ki/FirefoxLT_2015.09.19.7z?dl=0
  * 校验信息：
-  * 文件名: FirefoxLT_2015.09.02.7z
-  * SHA1: 7FCAEA3CF0797B528C900A2DB5088FB0CA340665
+  * 文件名: FirefoxLT_2015.09.19.7z
+  * SHA1: A734255643D76352A19AE85AA67BB84883A95DB8
 
