@@ -3,18 +3,18 @@
 * 蓝灯的速度多数时候都是很快的，可能偶尔会连接到速度慢的服务器，这是正常的。
 
 ### 更新日志：
-* **2015年9月1日** 更新程序。
+* **2015年9月21日** 添加日服配置文件，需手动导入。
 * 有问题请发邮件到comeforu2012@gmail.com ,反馈邮件请注明“蓝灯版”。
 
 ### 下载地址：
- * 百度盘q：http://pan.baidu.com/s/1qWDXJa8 提取密码：354w
- * 好盘：http://howfile.com/file/d6wfyr2/dc3e7b62/
- * MEGA：https://mega.nz/#!wABV0KKZ!YsWHuln7nbsSCr0ZpkxIUo_Yu7jQR6YiC-_7WmmGhEc
+ * 百度盘q：http://pan.baidu.com/s/1hqxunXi 提取密码：4u69
+ * 好盘：
+ * MEGA：
   * 如何下载MEGA网盘文件，请**[点此](https://camo.githubusercontent.com/ae2b2eed84a93aa61d7adba2090332bd59b86452/68747470733a2f2f716e77626e712e626c333330312e6c69766566696c6573746f72652e636f6d2f79336d714d5953336f323447334a37614936316b544e323349566e54653578756e31357752306f6941496b7673633656483178723039486435335769446e4b6168316e7944547a3378555064395f716f4b4d6c6f73664e724d68306573794f76554342304246456644796c4a69766871794550354568754a613467745a4b3675613767364c366c307378656c4c46646a6473757333636942345962595a677a466a5050493734416f4d67485f38342f4d454741322e706e673f707369643d31)**查看。
- * Dropbox：https://www.dropbox.com/s/j4yuffnvqj56fm3/ChromeLT_v2015.09.01.7z?dl=0
+ * Dropbox：
  * 校验信息：
-  * 文件名: ChromeLT_v2015.09.01.7z
-  * SHA1: C1A28F932FAA8D71E69084EE7F3CED7498AE258E
+  * 文件名: ChromeLT_v2015.09.21.7z
+  * SHA1: 00018F90FD2FEE1FC0BD23D203448C7A8D9091C2
 
 ### Lantern取消开机启动的方法：
 * 首先，双击**Lantern**文件夹内的lantern.exe，然后屏幕右下方出现Lantern程序图标，点它，再点“**显示Lantern**”。打开的浏览器窗口内如下图操作即可：
