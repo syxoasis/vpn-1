@@ -2,15 +2,15 @@
 * 这是一种非常简单的翻墙方法。
 
 ### 更新日志：
-* **2015年9月22日** 添加一批被墙网址。添加划词翻译扩展。增加YouTube视频下载按钮。
+* **2015年10月14日** 增加线上PAC地址，便于维护。
 * 目前仍处于测试阶段。有问题请发邮件到comeforu2012@gmail.com ,反馈邮件请注明“**PAC版**”。
 
 ### 下载地址：
- * 百度盘b：http://pan.baidu.com/s/1dDAXFLf 提取密码：i6a3
- * 好盘：http://howfile.com/file/d6wfyr2/dfcdc8cd/
- * MEGA：https://mega.nz/#!RI4UHA5D!tNblAqAzXmN_AoNOFoFTlGqUlBhi18IUEk8hQJ-2X54
+ * 百度盘b：http://pan.baidu.com/s/1hqtsqRM 提取密码：728h
+ * 好盘：http://howfile.com/file/d6wfyr2/b54b5cbd/
+ * MEGA：
   * 如何下载MEGA网盘文件，请**[点此](https://camo.githubusercontent.com/ae2b2eed84a93aa61d7adba2090332bd59b86452/68747470733a2f2f716e77626e712e626c333330312e6c69766566696c6573746f72652e636f6d2f79336d714d5953336f323447334a37614936316b544e323349566e54653578756e31357752306f6941496b7673633656483178723039486435335769446e4b6168316e7944547a3378555064395f716f4b4d6c6f73664e724d68306573794f76554342304246456644796c4a69766871794550354568754a613467745a4b3675613767364c366c307378656c4c46646a6473757333636942345962595a677a466a5050493734416f4d67485f38342f4d454741322e706e673f707369643d31)**查看。
- * Dropbox：https://www.dropbox.com/s/1gi7ksuxwpivvw4/ChromePac_v2015.09.22.7z?dl=0
+ * Dropbox：https://www.dropbox.com/s/okclbg180fd5n75/ChromePac_v2015.10.14.7z?dl=0
  * 校验信息：
-  * 文件名: ChromePac_v2015.09.22.7z
-  * SHA1: 68EB07139629492884169189D6674C6FEA8C27EC
+  * 文件名: ChromePac_v2015.10.14.7z
+  * SHA1: E5E899B28DF5F59B35731D1146F533ED9D283C55
