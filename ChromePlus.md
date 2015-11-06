@@ -1,7 +1,6 @@
 #翻墙软件Chrome+发布页 ![](https://oq1gjg.bl3301.livefilestore.com/y2mlLXDCNxE4Puvrh_LvWZjKjFJWNvFh1qLCNBpKa_ykS9zlKUsqg2lImG3Tje3vbcsJt9TWo3BLvQP5Bs8xM_hLPpT3mvfZEcjo6e4sfZqSoM7F4Tr2GuZ2rOGGGzLdFgc/chrome48.ico?psid=1)
 
 ### 公告：
-* 新方法测试：https://github.com/comeforu2012/truth/wiki/ChromePac
 * 新软测试，Chrome+Lantern（蓝灯）组合。下载地址：https://github.com/comeforu2012/truth/wiki/Chrome-Lantern%EF%BC%88%E8%93%9D%E7%81%AF%EF%BC%89
 * 最近本软件依赖的谷歌ip在中国大陆已经被封的越来越少，使用体验有所下降。为了保证能够继续翻墙，请朋友们多预备几款翻墙软件，这里推荐几款：
  * 自由门：https://git.io/fgp
@@ -14,7 +13,7 @@
 ***
 
 ####更新日志：
-* **2015年10月20日** 【完整版】添加划词翻译扩展，修复facebook图片上传功能（待测试）。
+* **2015年10月20日** 【完整版】添加划词翻译扩展，修复facebook图片上传功能（此功能2015年11月6日失效了）。
 * 【完整版】核心程序是Chrome36(含升级包)+GoAgent3.2.3（每天共享多G流量）
 * 请从下面的下载地址下载软件的压缩包，本软件不需要安装，下载后将压缩包解压出来，解压路径中最好不要包含中文，然后双击运行Chrome+.exe就可以同时启动代理软件和浏览器。（Win7系统需要右键点击Chrome+.exe，然后再点**“以管理员身份运行”**）
 
