@@ -1,3 +1,6 @@
+### 公告：
+* 昨天2015年11月5日发现此方法已失效。请改用**[ChromePlus](https://github.com/comeforu2012/truth/wiki/ChromePlus)**完整版或精简版。
+
 ### 说明：
 * 这是一种非常简单的翻墙方法。
 
