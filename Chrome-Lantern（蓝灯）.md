@@ -1,22 +1,17 @@
-### 通知：
-* 2015年9月24日下午发现蓝灯的日本服务器被封了，请正在使用日服的朋友切换回荷兰服务器，**方法**：下载荷兰服务器文件，下载后双击导入，导入之前如果蓝灯正在运行需要退出蓝灯。荷服文件下载地址：
- * 百度盘b：http://pan.baidu.com/s/1i3wC1aH 提取密码：4taj
- * SHA1: 5AA661233A3F3E6195BE368FAC821D5A3EFB3209
-* 蓝灯版个别地区这几天有不稳定的情况，如果网页加载慢请多等一两分钟，或者刷新试试。如果还不行，那就换用 **[ChromePlus](https://github.com/comeforu2012/truth/wiki/ChromePlus)** 吧。
 
 ### 更新日志：
-* **2015年9月25日** 切换回荷兰服务器。
+* **2015年11月13日** 再次启用日本服务器，速度明显加快。
 * 有问题请发邮件到comeforu2012@gmail.com ,反馈邮件请注明“蓝灯版”。
 
 ### 下载地址：
- * 百度盘q：http://pan.baidu.com/s/1o6MkPtC 提取密码：epen
- * 好盘：http://howfile.com/file/d6wfyr2/19abc76d/
- * MEGA：https://mega.nz/#!1ApC1JZQ!RUvQ97CjcJwnGTGSWcAsSHTLHGfTepmy0J4fOOOG4hQ
+ * 百度盘q：http://pan.baidu.com/s/1qWMQuYw 提取密码：andx
+ * 好盘：http://howfile.com/file/d6wfyr2/812d73e3/
+ * MEGA：
   * 如何下载MEGA网盘文件，请**[点此](https://camo.githubusercontent.com/ae2b2eed84a93aa61d7adba2090332bd59b86452/68747470733a2f2f716e77626e712e626c333330312e6c69766566696c6573746f72652e636f6d2f79336d714d5953336f323447334a37614936316b544e323349566e54653578756e31357752306f6941496b7673633656483178723039486435335769446e4b6168316e7944547a3378555064395f716f4b4d6c6f73664e724d68306573794f76554342304246456644796c4a69766871794550354568754a613467745a4b3675613767364c366c307378656c4c46646a6473757333636942345962595a677a466a5050493734416f4d67485f38342f4d454741322e706e673f707369643d31)**查看。
- * Dropbox：https://www.dropbox.com/s/9l0vfcb5ksw9kzk/ChromeLT_v2015.09.25.7z?dl=0
+ * Dropbox：https://www.dropbox.com/s/6zhp6yr54s3ey0r/ChromeLT_v2015.11.13.7z?dl=0
  * 校验信息：
-  * 文件名: ChromeLT_v2015.09.25.7z
-  * SHA1: 1430F0210F90ED6A026F7D071BD621E59DDDEADC
+  * 文件名: ChromeLT_v2015.11.13.7z
+  * SHA1: 6F8602287F20CB9A6BA6E27D88E359E57A66C179
 
 ### Lantern取消开机启动的方法：
 * 首先，双击**Lantern**文件夹内的lantern.exe，然后屏幕右下方出现Lantern程序图标，点它，再点“**显示Lantern**”。打开的浏览器窗口内如下图操作即可：
