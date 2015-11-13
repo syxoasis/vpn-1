@@ -18,7 +18,7 @@
 * 请从下面的下载地址下载软件的压缩包，本软件不需要安装，下载后将压缩包解压出来，解压路径中最好不要包含中文，然后双击运行Chrome+.exe就可以同时启动代理软件和浏览器。（Win7系统需要右键点击Chrome+.exe，然后再点**“以管理员身份运行”**）
 
 #### 【完整版】下载地址：
-> * 百度盘g：http://pan.baidu.com/s/1jG0HMeE 提取密码：ezuv
+> * 百度盘h：http://pan.baidu.com/s/1o6pe5j8 提取密码：c4gb
 > * 百度盤n：
 > * 好盘：http://howfile.com/file/d6wfyr2/5af36dc9/
 > * MEGA：https://mega.nz/#!AFARgIrT!M5Q8ZlrfD_sk2kypHsp1ZHAzKzg8kgq1Yg68jDfIybA
