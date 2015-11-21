@@ -13,20 +13,20 @@
 ***
 
 ####更新日志：
-* **2015年11月8日** 【完整版】修复twitter图片上传功能（）。
+* **2015年11月21日** 【完整版】更新ip。
 * 【完整版】核心程序是Chrome36(含升级包)+GoAgent3.2.3（每天共享多G流量）
 * 请从下面的下载地址下载软件的压缩包，本软件不需要安装，下载后将压缩包解压出来，解压路径中最好不要包含中文，然后双击运行Chrome+.exe就可以同时启动代理软件和浏览器。（Win7系统需要右键点击Chrome+.exe，然后再点**“以管理员身份运行”**）
 
 #### 【完整版】下载地址：
-> * 百度盘j：http://pan.baidu.com/s/1bnlxy7l 提取密码：x6dn
+> * 百度盘j：http://pan.baidu.com/s/1eQ8sppS 提取密码：zx4n
 > * 百度盤n：
-> * 好盘：http://howfile.com/file/d6wfyr2/5af36dc9/
-> * MEGA：https://mega.nz/#!AFARgIrT!M5Q8ZlrfD_sk2kypHsp1ZHAzKzg8kgq1Yg68jDfIybA
+> * 好盘：
+> * MEGA：
 >   * 如何下载MEGA网盘文件，请**[点此](https://camo.githubusercontent.com/ae2b2eed84a93aa61d7adba2090332bd59b86452/68747470733a2f2f716e77626e712e626c333330312e6c69766566696c6573746f72652e636f6d2f79336d714d5953336f323447334a37614936316b544e323349566e54653578756e31357752306f6941496b7673633656483178723039486435335769446e4b6168316e7944547a3378555064395f716f4b4d6c6f73664e724d68306573794f76554342304246456644796c4a69766871794550354568754a613467745a4b3675613767364c366c307378656c4c46646a6473757333636942345962595a677a466a5050493734416f4d67485f38342f4d454741322e706e673f707369643d31)**查看。
-> * Dropbox：https://www.dropbox.com/s/s68hpwdkxg190pf/Chrome48_v2015.11.08.7z?dl=0
+> * Dropbox：
 > * 文件校验信息：
->  * 文件名：Chrome48_v2015.11.08.7z
->  * SHA1: C76B512AB6E43011C590AC5F7B1EE6FBB7CECDFB
+>  * 文件名：Chrome48_v2015.11.21.7z
+>  * SHA1: 621179887A41C3DD810B420041C18A61339E1657
 
 #### 【精简版】下载地址：
 > * 百度盘J：http://pan.baidu.com/s/1bn3BH0b 提取密码：dmyj
